@@ -1,0 +1,25 @@
+C:\Users\Bien\AppData\Local\Temporary Projects\DoAnThucHanh\bin\Debug\DoAnThucHanh.exe
+C:\Users\Bien\AppData\Local\Temporary Projects\DoAnThucHanh\bin\Debug\DoAnThucHanh.pdb
+C:\Users\Bien\AppData\Local\Temporary Projects\DoAnThucHanh\obj\x86\Debug\DoAnThucHanh.Form1.resources
+C:\Users\Bien\AppData\Local\Temporary Projects\DoAnThucHanh\obj\x86\Debug\DoAnThucHanh.Properties.Resources.resources
+C:\Users\Bien\AppData\Local\Temporary Projects\DoAnThucHanh\obj\x86\Debug\DoAnThucHanh.csproj.GenerateResource.Cache
+C:\Users\Bien\AppData\Local\Temporary Projects\DoAnThucHanh\obj\x86\Debug\DoAnThucHanh.exe
+C:\Users\Bien\AppData\Local\Temporary Projects\DoAnThucHanh\obj\x86\Debug\DoAnThucHanh.pdb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\DoAnThucHanh\DoAnThucHanh\obj\x86\Debug\DoAnThucHanh.exe
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\DoAnThucHanh\DoAnThucHanh\obj\x86\Debug\DoAnThucHanh.pdb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\DoAnThucHanh\DoAnThucHanh\bin\Debug\DoAnThucHanh.exe
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\DoAnThucHanh\DoAnThucHanh\bin\Debug\DoAnThucHanh.pdb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\DoAnThucHanh\DoAnThucHanh\obj\x86\Debug\DoAnThucHanh.Form1.resources
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\DoAnThucHanh\DoAnThucHanh\obj\x86\Debug\DoAnThucHanh.Properties.Resources.resources
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\DoAnThucHanh\DoAnThucHanh\obj\x86\Debug\DoAnThucHanh.csproj.GenerateResource.Cache
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\DoAnThucHanh\DoAnThucHanh\obj\x86\Debug\DoAnThucHanh.csprojResolveAssemblyReference.cache
+F:\HK4\Lap trinh truc quan\Thuc hanh\DoAnCaNhan\DoAnThucHanh\DoAnThucHanh\obj\x86\Debug\DoAnThucHanh.exe
+F:\HK4\Lap trinh truc quan\Thuc hanh\DoAnCaNhan\DoAnThucHanh\DoAnThucHanh\obj\x86\Debug\DoAnThucHanh.pdb
+E:\HK4\Lap trinh truc quan\Thuc hanh\DoAnCaNhan\DoAnThucHanh\DoAnThucHanh\obj\x86\Debug\DoAnThucHanh.exe
+E:\HK4\Lap trinh truc quan\Thuc hanh\DoAnCaNhan\DoAnThucHanh\DoAnThucHanh\obj\x86\Debug\DoAnThucHanh.pdb
+E:\HK4\Lap trinh truc quan\Thuc hanh\DoAnCaNhan\DoAnThucHanh\DoAnThucHanh\bin\Debug\DoAnThucHanh.exe
+E:\HK4\Lap trinh truc quan\Thuc hanh\DoAnCaNhan\DoAnThucHanh\DoAnThucHanh\bin\Debug\DoAnThucHanh.pdb
+E:\HK4\Lap trinh truc quan\Thuc hanh\DoAnCaNhan\DoAnThucHanh\DoAnThucHanh\obj\x86\Debug\DoAnThucHanh.csprojResolveAssemblyReference.cache
+E:\HK4\Lap trinh truc quan\Thuc hanh\DoAnCaNhan\DoAnThucHanh\DoAnThucHanh\obj\x86\Debug\DoAnThucHanh.Form1.resources
+E:\HK4\Lap trinh truc quan\Thuc hanh\DoAnCaNhan\DoAnThucHanh\DoAnThucHanh\obj\x86\Debug\DoAnThucHanh.Properties.Resources.resources
+E:\HK4\Lap trinh truc quan\Thuc hanh\DoAnCaNhan\DoAnThucHanh\DoAnThucHanh\obj\x86\Debug\DoAnThucHanh.csproj.GenerateResource.Cache

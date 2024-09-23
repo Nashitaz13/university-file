@@ -1,0 +1,6 @@
+c:\users\bien\documents\visual studio 2013\Projects\FontAndColorDialogs\FontAndColorDialogs\bin\Debug\FontAndColorDialogs.exe.config
+c:\users\bien\documents\visual studio 2013\Projects\FontAndColorDialogs\FontAndColorDialogs\bin\Debug\FontAndColorDialogs.exe
+c:\users\bien\documents\visual studio 2013\Projects\FontAndColorDialogs\FontAndColorDialogs\bin\Debug\FontAndColorDialogs.pdb
+c:\users\bien\documents\visual studio 2013\Projects\FontAndColorDialogs\FontAndColorDialogs\obj\Debug\FontAndColorDialogs.csprojResolveAssemblyReference.cache
+c:\users\bien\documents\visual studio 2013\Projects\FontAndColorDialogs\FontAndColorDialogs\obj\Debug\FontAndColorDialogs.exe
+c:\users\bien\documents\visual studio 2013\Projects\FontAndColorDialogs\FontAndColorDialogs\obj\Debug\FontAndColorDialogs.pdb

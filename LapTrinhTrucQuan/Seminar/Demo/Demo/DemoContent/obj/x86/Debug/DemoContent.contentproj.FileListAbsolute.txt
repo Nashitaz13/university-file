@@ -1,0 +1,2 @@
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\Demo\Demo\DemoContent\obj\x86\Debug\DemoContent.contentprojResolveAssemblyReference.cache
+E:\HK4\Lap trinh truc quan\Seminar\Demo\Demo\DemoContent\obj\x86\Debug\DemoContent.contentprojResolveAssemblyReference.cache

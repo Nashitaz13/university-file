@@ -1,0 +1,31 @@
+1. ground x y width height
+   + height: 0 neu k can xu ly chieu x
+
+2. gach x y
+
+3. turtle x y ruaxanh ruabay bien
+   + x duoc tinh la diem chinh giua cua doan di chuyen
+   + ruaxanh: 1 neu rua xanh, 0 neu rua do
+   + bien: 0 neu khong co bien, neu co bien thi bang 1/2 doan duong di chuyen
+
+4. namenemy x y Bay
+   + Bay: 1 neu enemy bay, 0 neu enemy k bay
+
+5. redfireplant x y Do Ban
+   + Do: 1--Hoa do, 0--Hoa xanh
+   + Ban: 1--Hoa ban, 0--Hoa cap
+
+6. ODauHoi x y item Loai
+   + item: 0 neu dong tien, 1 neu nam do hay chiec la, 2 neu nam xanh, 3 neu la chu P, 4 la ngoi sao, 5 neu khong co
+   + Loai: 1 neu animation la dau hoi, 2 neu animation la gach, 3 neu animation la not nhac, 4 la o mau xanh
+
+7. DongTien x y
+   + Dong tien co 2 loai: animation va k animation, nhung loai dong tien k co animation chi khi nao Mario dam len chu P moi sinh ra, do vay tat ca dong tien trong file MapEditor la animation, nen k can tham so bool
+
+8. ImageEffect x , y, type
+   + type: 1--Hieu ung va cham, 2--Hieu ung chuyen trang thai
+
+9. OngNuoc x, y, width, height x1 , y1, width1, height1, down
+   + x, y, width, height: toa do, kich thuoc ong vao
+   + x1, y1, width1, height1: toa do, kich thuoc ong ra
+   + down: 1--chui xuong, 0--chui len

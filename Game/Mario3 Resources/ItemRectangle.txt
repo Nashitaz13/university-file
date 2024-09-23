@@ -1,0 +1,17 @@
+State	x	y	rong	cao	so_frame	framePerRow
+dan		0 134 8 8 4 4
+nam_do		32 134 16 16 1 1
+nam_xanh	48 134 16 16 1 1
+la		64 134 16 14 1 1
+tien_tinh	122 134 14 16 1 1
+tien_dong	80 134 14 16 6 6
+P_On		164 134 16 16 2 2
+P_Off		196 134 16 7 1 1
+o_?_On		212 134 16 16 4 4
+o_?_Off		276 134 16 16 1 1
+o_gach		292 134 16 16 4 4
+nen_xanh	400 74 16 16
+gach_vo		356 134 8 8 1 1
+doitrangthai	270 150 16 16 6 6 	
+hieuung_vacham	366 150 16 16 7 7
+khung_den	0 150 270 40

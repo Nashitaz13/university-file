@@ -1,0 +1,433 @@
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\New\New\New\bin\x86\Debug\New.exe
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\New\New\New\bin\x86\Debug\New.pdb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\New\New\New\obj\x86\Debug\New.csprojResolveAssemblyReference.cache
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\New\New\New\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\New\New\New\obj\x86\Debug\New.exe
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\New\New\New\obj\x86\Debug\New.pdb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\New\New\New\bin\x86\Debug\Content\Idle.xnb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\New\New\New\bin\x86\Debug\Content\Run.xnb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\New\New\New\bin\x86\Debug\Content\Jump.xnb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\New\New\New\bin\x86\Debug\Content\Idle1.xnb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\New\New\New\bin\x86\Debug\Content\Dash.xnb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\New\New\New\bin\x86\Debug\Content\Bullet.xnb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\New\New\New\bin\x86\Debug\Content\Shoot.xnb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\New\New\New\bin\x86\Debug\Content\Idle2.xnb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\New\New\New\bin\x86\Debug\Content\Enemy.xnb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\New\New\New\bin\x86\Debug\Content\RunShoot.xnb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\New\New\New\bin\x86\Debug\Content\JumpShoot.xnb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\New\New\New\bin\x86\Debug\Content\Background.xnb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\New\New\New\bin\x86\Debug\Content\ShootEffect.xnb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\New\New\New\bin\x86\Debug\Content\Theme.xnb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\New\New\New\bin\x86\Debug\Content\Theme.wma
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\New\New\New\bin\x86\Debug\Content\Health.xnb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\New\New\New\bin\x86\Debug\Content\Injured.xnb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\New\New\New\bin\x86\Debug\Content\Map\1.xnb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\New\New\New\bin\x86\Debug\Content\Map\10.xnb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\New\New\New\bin\x86\Debug\Content\Map\11.xnb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\New\New\New\bin\x86\Debug\Content\Map\12.xnb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\New\New\New\bin\x86\Debug\Content\Map\13.xnb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\New\New\New\bin\x86\Debug\Content\Map\14.xnb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\New\New\New\bin\x86\Debug\Content\Map\15.xnb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\New\New\New\bin\x86\Debug\Content\Map\16.xnb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\New\New\New\bin\x86\Debug\Content\Map\17.xnb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\New\New\New\bin\x86\Debug\Content\Map\18.xnb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\New\New\New\bin\x86\Debug\Content\Map\19.xnb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\New\New\New\bin\x86\Debug\Content\Map\2.xnb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\New\New\New\bin\x86\Debug\Content\Map\20.xnb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\New\New\New\bin\x86\Debug\Content\Map\21.xnb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\New\New\New\bin\x86\Debug\Content\Map\22.xnb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\New\New\New\bin\x86\Debug\Content\Map\3.xnb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\New\New\New\bin\x86\Debug\Content\Map\4.xnb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\New\New\New\bin\x86\Debug\Content\Map\5.xnb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\New\New\New\bin\x86\Debug\Content\Map\6.xnb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\New\New\New\bin\x86\Debug\Content\Map\7.xnb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\New\New\New\bin\x86\Debug\Content\Map\8.xnb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\New\New\New\bin\x86\Debug\Content\Map\9.xnb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\New\New\New\bin\x86\Debug\Content\HealthBar.xnb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\New\New\New\bin\x86\Debug\Content\Enemy2.xnb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\New\New\New\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\New\New\New\bin\x86\Debug\Content\BulletCannon.xnb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\New\New\New\bin\x86\Debug\Content\EnemyCannon.xnb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\New\New\New\bin\x86\Debug\Content\Enemy1.xnb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\New\New\New\bin\x86\Debug\Content\SaveFlag.xnb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\New\New\New\bin\x86\Debug\Content\Blood.xnb
+C:\Users\Canh\Desktop\New\New\New\bin\x86\Debug\Content\Idle.xnb
+C:\Users\Canh\Desktop\New\New\New\bin\x86\Debug\Content\Run.xnb
+C:\Users\Canh\Desktop\New\New\New\bin\x86\Debug\Content\Jump.xnb
+C:\Users\Canh\Desktop\New\New\New\bin\x86\Debug\Content\Idle1.xnb
+C:\Users\Canh\Desktop\New\New\New\bin\x86\Debug\Content\Dash.xnb
+C:\Users\Canh\Desktop\New\New\New\bin\x86\Debug\Content\Bullet.xnb
+C:\Users\Canh\Desktop\New\New\New\bin\x86\Debug\Content\Shoot.xnb
+C:\Users\Canh\Desktop\New\New\New\bin\x86\Debug\Content\Idle2.xnb
+C:\Users\Canh\Desktop\New\New\New\bin\x86\Debug\Content\Enemy.xnb
+C:\Users\Canh\Desktop\New\New\New\bin\x86\Debug\Content\RunShoot.xnb
+C:\Users\Canh\Desktop\New\New\New\bin\x86\Debug\Content\JumpShoot.xnb
+C:\Users\Canh\Desktop\New\New\New\bin\x86\Debug\Content\Map\1.xnb
+C:\Users\Canh\Desktop\New\New\New\bin\x86\Debug\Content\Map\10.xnb
+C:\Users\Canh\Desktop\New\New\New\bin\x86\Debug\Content\Map\11.xnb
+C:\Users\Canh\Desktop\New\New\New\bin\x86\Debug\Content\Map\12.xnb
+C:\Users\Canh\Desktop\New\New\New\bin\x86\Debug\Content\Map\13.xnb
+C:\Users\Canh\Desktop\New\New\New\bin\x86\Debug\Content\Map\14.xnb
+C:\Users\Canh\Desktop\New\New\New\bin\x86\Debug\Content\Map\15.xnb
+C:\Users\Canh\Desktop\New\New\New\bin\x86\Debug\Content\Map\16.xnb
+C:\Users\Canh\Desktop\New\New\New\bin\x86\Debug\Content\Map\17.xnb
+C:\Users\Canh\Desktop\New\New\New\bin\x86\Debug\Content\Map\18.xnb
+C:\Users\Canh\Desktop\New\New\New\bin\x86\Debug\Content\Map\19.xnb
+C:\Users\Canh\Desktop\New\New\New\bin\x86\Debug\Content\Map\2.xnb
+C:\Users\Canh\Desktop\New\New\New\bin\x86\Debug\Content\Map\20.xnb
+C:\Users\Canh\Desktop\New\New\New\bin\x86\Debug\Content\Map\21.xnb
+C:\Users\Canh\Desktop\New\New\New\bin\x86\Debug\Content\Map\22.xnb
+C:\Users\Canh\Desktop\New\New\New\bin\x86\Debug\Content\Map\3.xnb
+C:\Users\Canh\Desktop\New\New\New\bin\x86\Debug\Content\Map\4.xnb
+C:\Users\Canh\Desktop\New\New\New\bin\x86\Debug\Content\Map\5.xnb
+C:\Users\Canh\Desktop\New\New\New\bin\x86\Debug\Content\Map\6.xnb
+C:\Users\Canh\Desktop\New\New\New\bin\x86\Debug\Content\Map\7.xnb
+C:\Users\Canh\Desktop\New\New\New\bin\x86\Debug\Content\Map\8.xnb
+C:\Users\Canh\Desktop\New\New\New\bin\x86\Debug\Content\Map\9.xnb
+C:\Users\Canh\Desktop\New\New\New\bin\x86\Debug\Content\Background.xnb
+C:\Users\Canh\Desktop\New\New\New\bin\x86\Debug\Content\Injured.xnb
+C:\Users\Canh\Desktop\New\New\New\bin\x86\Debug\Content\Health.xnb
+C:\Users\Canh\Desktop\New\New\New\bin\x86\Debug\Content\HealthBar.xnb
+C:\Users\Canh\Desktop\New\New\New\bin\x86\Debug\Content\Enemy1.xnb
+C:\Users\Canh\Desktop\New\New\New\bin\x86\Debug\Content\Enemy2.xnb
+C:\Users\Canh\Desktop\New\New\New\bin\x86\Debug\Content\BulletCannon.xnb
+C:\Users\Canh\Desktop\New\New\New\bin\x86\Debug\Content\EnemyCannon.xnb
+C:\Users\Canh\Desktop\New\New\New\bin\x86\Debug\Content\SaveFlag.xnb
+C:\Users\Canh\Desktop\New\New\New\bin\x86\Debug\Content\Blood.xnb
+C:\Users\Canh\Desktop\New\New\New\bin\x86\Debug\Content\ShootEffect.xnb
+C:\Users\Canh\Desktop\New\New\New\bin\x86\Debug\Content\Theme.xnb
+C:\Users\Canh\Desktop\New\New\New\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Canh\Desktop\New\New\New\bin\x86\Debug\Content\Theme.wma
+C:\Users\Canh\Desktop\New\New\New\bin\x86\Debug\New.exe
+C:\Users\Canh\Desktop\New\New\New\bin\x86\Debug\New.pdb
+C:\Users\Canh\Desktop\New\New\New\obj\x86\Debug\New.csprojResolveAssemblyReference.cache
+C:\Users\Canh\Desktop\New\New\New\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Canh\Desktop\New\New\New\obj\x86\Debug\New.exe
+C:\Users\Canh\Desktop\New\New\New\obj\x86\Debug\New.pdb
+C:\Users\Canh\Desktop\New\New\New\bin\x86\Debug\Content\Screen\blank.xnb
+C:\Users\Canh\Desktop\New\New\New\bin\x86\Debug\Content\Screen\gradient.xnb
+C:\Users\Canh\Desktop\New\New\New\bin\x86\Debug\Content\Screen\Start.xnb
+C:\Users\Canh\Desktop\New\New\New\bin\x86\Debug\Content\Screen\gamefont.xnb
+C:\Users\Canh\Desktop\New\New\New\bin\x86\Debug\Content\Screen\menufont.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\Idle.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\Run.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\Jump.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\Idle1.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\Dash.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\Bullet.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\Shoot.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\Idle2.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\Enemy.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\RunShoot.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\JumpShoot.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\Map\1.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\Map\10.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\Map\11.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\Map\12.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\Map\13.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\Map\14.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\Map\15.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\Map\16.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\Map\17.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\Map\18.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\Map\19.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\Map\2.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\Map\20.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\Map\21.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\Map\22.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\Map\3.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\Map\4.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\Map\5.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\Map\6.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\Map\7.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\Map\8.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\Map\9.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\Injured.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\Health.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\HealthBar.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\Enemy1.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\Enemy2.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\BulletCannon.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\EnemyCannon.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\SaveFlag.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\Screen\blank.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\Screen\gradient.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\Screen\Start.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\ShootEffect.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\Theme.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\Screen\gamefont.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\Screen\menufont.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\Theme.wma
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\New.exe
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\New.pdb
+C:\Users\Bien\Downloads\New\New\New\obj\x86\Debug\New.csprojResolveAssemblyReference.cache
+C:\Users\Bien\Downloads\New\New\New\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Bien\Downloads\New\New\New\obj\x86\Debug\New.exe
+C:\Users\Bien\Downloads\New\New\New\obj\x86\Debug\New.pdb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\Blood1.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\Blood2.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\Pause.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\Exit.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\Play.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\Background1.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\Background2.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\GameOver.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\Treasure.xnb
+C:\Users\Bien\Downloads\New\New\New\bin\x86\Debug\Content\Win.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Map\1.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Map\10.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Map\11.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Map\12.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Map\13.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Map\14.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Map\15.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Map\16.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Map\17.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Map\18.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Map\19.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Map\2.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Map\20.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Map\21.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Map\22.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Map\3.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Map\4.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Map\5.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Map\6.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Map\7.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Map\8.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Map\9.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Screen\blank.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Screen\gradient.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Screen\Start.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Screen\gamefont.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Screen\menufont.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\obj\x86\Debug\New.csprojResolveAssemblyReference.cache
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Enemy\Enemy1.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Enemy\Enemy2.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Enemy\EnemyCannon.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Others\Bullet.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Others\Health.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Others\HealthBar.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Others\BulletCannon.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Items\SaveFlag.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Items\Blood1.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Items\Blood2.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Others\Pause.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Background\Background1.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Background\Background2.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Background\GameOver.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Items\Treasure.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Background\Win.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Others\CannonHealth.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Sounds\ShootEffect.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Sounds\Theme.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Sounds\Theme.wma
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Font\SpriteFont1.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Map\Platform.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Player\Dash.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Player\Idle.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Player\Injured.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Player\Jump.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Player\JumpShoot.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Player\Run.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Player\RunShoot.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Player\Shoot.xnb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Megaman.exe
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Megaman.pdb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\obj\x86\Debug\Megaman.exe
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\obj\x86\Debug\Megaman.pdb
+E:\HK4\Lap trinh truc quan\Do an\New\New\New\bin\x86\Debug\Content\Items\Key.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Others\Bullet.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Map\1.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Map\10.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Map\11.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Map\12.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Map\13.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Map\14.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Map\15.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Map\16.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Map\17.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Map\18.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Map\19.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Map\2.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Map\20.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Map\21.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Map\22.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Map\3.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Map\4.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Map\5.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Map\6.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Map\7.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Map\8.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Map\9.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Others\Health.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Others\HealthBar.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Enemy\Enemy1.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Enemy\Enemy2.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Others\BulletCannon.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Enemy\EnemyCannon.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Items\SaveFlag.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Items\Blood1.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Screen\blank.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Screen\gradient.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Screen\Start.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Items\Blood2.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Others\Pause.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Background\Background1.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Background\Background2.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Background\GameOver.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Items\Treasure.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Others\CannonHealth.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Player\Dash.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Player\Idle.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Player\Injured.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Player\Jump.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Player\JumpShoot.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Player\Run.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Player\RunShoot.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Player\Shoot.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Map\Platform.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Items\Key.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Background\Win.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Sounds\ShootEffect.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Sounds\Theme.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Font\SpriteFont1.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Screen\gamefont.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Screen\menufont.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Content\Sounds\Theme.wma
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Megaman.exe
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\bin\x86\Debug\Megaman.pdb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\obj\x86\Debug\New.csprojResolveAssemblyReference.cache
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\obj\x86\Debug\Megaman.exe
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\New\obj\x86\Debug\Megaman.pdb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Others\Bullet.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\1.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\10.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\11.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\12.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\13.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\14.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\15.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\16.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\17.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\18.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\19.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\2.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\20.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\21.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\22.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\3.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\4.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\5.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\6.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\7.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\8.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\9.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Others\Health.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Others\HealthBar.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Enemy\Enemy1.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Enemy\Enemy2.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Others\BulletCannon.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Enemy\EnemyCannon.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Items\SaveFlag.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Items\Blood1.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Screen\blank.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Screen\gradient.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Screen\Start.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Items\Blood2.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Others\Pause.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Background\Background1.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Background\Background2.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Background\GameOver.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Items\Treasure.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Others\CannonHealth.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Player\Dash.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Player\Idle.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Player\Injured.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Player\Jump.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Player\JumpShoot.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Player\Run.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Player\RunShoot.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Player\Shoot.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\Platform.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Items\Key.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Background\Win.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Sounds\ShootEffect.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Sounds\Theme.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Font\SpriteFont1.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Screen\gamefont.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Screen\menufont.xnb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Sounds\Theme.wma
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Megaman.exe
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Megaman.pdb
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\obj\x86\Debug\New.csprojResolveAssemblyReference.cache
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\obj\x86\Debug\Megaman.exe
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\obj\x86\Debug\Megaman.pdb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Others\Bullet.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\1.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\10.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\11.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\12.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\13.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\14.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\15.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\16.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\17.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\18.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\19.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\2.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\20.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\21.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\22.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\3.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\4.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\5.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\6.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\7.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\8.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\9.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Others\Health.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Others\HealthBar.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Enemy\Enemy1.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Enemy\Enemy2.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Others\BulletCannon.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Enemy\EnemyCannon.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Items\SaveFlag.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Items\Blood1.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Screen\blank.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Screen\gradient.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Screen\Start.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Items\Blood2.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Others\Pause.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Background\Background1.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Background\Background2.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Background\GameOver.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Items\Treasure.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Others\CannonHealth.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Player\Dash.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Player\Idle.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Player\Injured.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Player\Jump.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Player\JumpShoot.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Player\Run.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Player\RunShoot.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Player\Shoot.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\Platform.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Items\Key.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Background\Win.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Sounds\ShootEffect.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Sounds\Theme.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Font\SpriteFont1.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Screen\gamefont.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Screen\menufont.xnb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Sounds\Theme.wma
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Megaman.exe
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Megaman.pdb
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\obj\x86\Debug\New.csprojResolveAssemblyReference.cache
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\obj\x86\Debug\Megaman.exe
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\obj\x86\Debug\Megaman.pdb

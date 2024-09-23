@@ -1,0 +1,4 @@
+Listbox	Checkbox	Radiobutton	Text box
+0	Check	On	Valid Int
+Other	Uncheck	Off	Invalid Int
+			AlphaSpecialChar

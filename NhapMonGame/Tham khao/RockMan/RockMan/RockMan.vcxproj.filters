@@ -1,0 +1,547 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Framework">
+      <UniqueIdentifier>{31bb6a45-d8fa-44c0-a9b2-eafea477e796}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Framework\IO">
+      <UniqueIdentifier>{bc18a54e-9360-4d51-9e5b-aee810d9f49b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Framework\Display">
+      <UniqueIdentifier>{e33841ec-73a0-4dff-85ba-31ba4bd9469e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Framework\BaseObject">
+      <UniqueIdentifier>{da897cf3-4b62-4458-bf82-1e0a22cde8c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Framework\Collision">
+      <UniqueIdentifier>{bac36d16-149a-4750-9b80-8f03a219bbea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject">
+      <UniqueIdentifier>{85be252b-3eb9-4d15-b9b1-6d4798e7fd2e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\Boss">
+      <UniqueIdentifier>{def7d26d-e28d-4d84-8d96-a71573641339}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Framework\Global">
+      <UniqueIdentifier>{176154c3-4b3d-4225-856a-ac36ff1d92ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Framework\Camera">
+      <UniqueIdentifier>{f5f58822-c2ea-4496-9ad6-f1e136b0d879}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Framework\BaseObject\Control">
+      <UniqueIdentifier>{56252a05-8b04-4393-83e4-12d31f04c130}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Framework\QuadTree">
+      <UniqueIdentifier>{cf1d9fdb-1278-4adb-be5a-30de8d19855c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Framework\ResourceManager">
+      <UniqueIdentifier>{db999b1d-155d-44f7-9104-899ebaa22a65}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\Enemies">
+      <UniqueIdentifier>{01373bab-1150-4641-a239-4678e72432fe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\Bullet">
+      <UniqueIdentifier>{cac5b3af-e768-4ee0-b859-f932f2e3fbd1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\Stair">
+      <UniqueIdentifier>{37819cdf-a99d-4175-8e30-6e32bf5f9e34}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\Others">
+      <UniqueIdentifier>{bbb6f5c3-1ffd-47d7-be61-aeab2e1bd8ea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\Screen">
+      <UniqueIdentifier>{5d8baee4-d24a-4353-aee1-b902796d4bb7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CScreen.h">
+      <Filter>Framework\Display</Filter>
+    </ClInclude>
+    <ClInclude Include="CScreenManager.h">
+      <Filter>Framework\Display</Filter>
+    </ClInclude>
+    <ClInclude Include="CGameApp.h" />
+    <ClInclude Include="CSprite.h">
+      <Filter>Framework\BaseObject</Filter>
+    </ClInclude>
+    <ClInclude Include="Config.h">
+      <Filter>GameObject</Filter>
+    </ClInclude>
+    <ClInclude Include="CObject.h">
+      <Filter>Framework\BaseObject</Filter>
+    </ClInclude>
+    <ClInclude Include="CCamera.h">
+      <Filter>Framework\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="CGameApp.h">
+      <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="Config.h">
+      <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="CWindow.h" />
+    <ClInclude Include="CGraphics.h">
+      <Filter>Framework\Display</Filter>
+    </ClInclude>
+    <ClInclude Include="CGlobal.h">
+      <Filter>Framework\Global</Filter>
+    </ClInclude>
+    <ClInclude Include="DSUtil.h">
+      <Filter>Framework\Global</Filter>
+    </ClInclude>
+    <ClInclude Include="Trace.h">
+      <Filter>Framework\Global</Filter>
+    </ClInclude>
+    <ClInclude Include="CControl.h">
+      <Filter>Framework\BaseObject\Control</Filter>
+    </ClInclude>
+    <ClInclude Include="CInput.h">
+      <Filter>Framework\IO</Filter>
+    </ClInclude>
+    <ClInclude Include="CGameTime.h">
+      <Filter>Framework\BaseObject</Filter>
+    </ClInclude>
+    <ClInclude Include="CTexture.h">
+      <Filter>Framework\BaseObject</Filter>
+    </ClInclude>
+    <ClInclude Include="CMenuItem.h">
+      <Filter>Framework\BaseObject\Control</Filter>
+    </ClInclude>
+    <ClInclude Include="CImage.h">
+      <Filter>Framework\BaseObject\Control</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayScreen.h">
+      <Filter>GameObject\Screen</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="CCollision.h">
+      <Filter>Framework\Collision</Filter>
+    </ClInclude>
+    <ClInclude Include="CEnemy.h">
+      <Filter>GameObject\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="CEnemyBubble.h">
+      <Filter>GameObject\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="CEnemyTank.h">
+      <Filter>GameObject\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="CEnemyBall.h">
+      <Filter>GameObject\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="CEnemyBoom.h">
+      <Filter>GameObject\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="CEnemyEye.h">
+      <Filter>GameObject\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="CEnemyFish.h">
+      <Filter>GameObject\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="CEnemyInk.h">
+      <Filter>GameObject\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="CEnemyMachineAuto.h">
+      <Filter>GameObject\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="CEnemyCut.h">
+      <Filter>GameObject\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="CEnemyWorker.h">
+      <Filter>GameObject\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="CBullet.h">
+      <Filter>GameObject\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="CStair.h">
+      <Filter>GameObject\Stair</Filter>
+    </ClInclude>
+    <ClInclude Include="CElevator.h">
+      <Filter>GameObject\Stair</Filter>
+    </ClInclude>
+    <ClInclude Include="CGameObject.h">
+      <Filter>GameObject</Filter>
+    </ClInclude>
+    <ClInclude Include="CGameOver.h">
+      <Filter>GameObject\Screen</Filter>
+    </ClInclude>
+    <ClInclude Include="CCutMan.h">
+      <Filter>GameObject\Boss</Filter>
+    </ClInclude>
+    <ClInclude Include="CGutsMan.h">
+      <Filter>GameObject\Boss</Filter>
+    </ClInclude>
+    <ClInclude Include="CBoomMan.h">
+      <Filter>GameObject\Boss</Filter>
+    </ClInclude>
+    <ClInclude Include="CRockman.h">
+      <Filter>GameObject</Filter>
+    </ClInclude>
+    <ClInclude Include="CQuadNode.h">
+      <Filter>Framework\QuadTree</Filter>
+    </ClInclude>
+    <ClInclude Include="ResourceManager.h">
+      <Filter>Framework\ResourceManager</Filter>
+    </ClInclude>
+    <ClInclude Include="CGameStart.h">
+      <Filter>GameObject\Screen</Filter>
+    </ClInclude>
+    <ClInclude Include="CTextblock.h">
+      <Filter>Framework\BaseObject\Control</Filter>
+    </ClInclude>
+    <ClInclude Include="CBoomManBullet.h">
+      <Filter>GameObject\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="CCutManBullet.h">
+      <Filter>GameObject\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="CEnemyMachineAutoBullet.h">
+      <Filter>GameObject\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="CGutsManBullet.h">
+      <Filter>GameObject\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="CBlock.h">
+      <Filter>GameObject\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="CItem.h">
+      <Filter>GameObject\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="CRock.h">
+      <Filter>GameObject\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="CCameraPath.h">
+      <Filter>Framework\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="CDoor.h">
+      <Filter>GameObject\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="ExplodingEffect.h">
+      <Filter>GameObject\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="CDieArrow.h">
+      <Filter>GameObject\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="CBulletRockman.h">
+      <Filter>GameObject\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionInfo.h">
+      <Filter>Framework\Collision</Filter>
+    </ClInclude>
+    <ClInclude Include="CExplodingEffectManager.h">
+      <Filter>GameObject\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="CExplodingEffectX.h">
+      <Filter>GameObject\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="CGameInfo.h">
+      <Filter>GameObject</Filter>
+    </ClInclude>
+    <ClInclude Include="CBarMana.h">
+      <Filter>GameObject\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="CPopup.h">
+      <Filter>GameObject\Screen</Filter>
+    </ClInclude>
+    <ClInclude Include="CGameMenu.h">
+      <Filter>GameObject\Screen</Filter>
+    </ClInclude>
+    <ClInclude Include="CRockCutBullet.h">
+      <Filter>GameObject\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="CBoomRockManBullet.h">
+      <Filter>GameObject\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="CBulletSnapper.h">
+      <Filter>GameObject\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="CEnemyHat.h">
+      <Filter>GameObject\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="CEnemyMachine.h">
+      <Filter>GameObject\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="CEnemyNinja.h">
+      <Filter>GameObject\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="CEnemySnapper.h">
+      <Filter>GameObject\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="CEnemyWallShooter.h">
+      <Filter>GameObject\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="CGutsRockManBullet.h">
+      <Filter>GameObject\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="CBulletNinja.h">
+      <Filter>GameObject\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="CSceneInfo.h">
+      <Filter>GameObject</Filter>
+    </ClInclude>
+    <ClInclude Include="CEnemyFishBullet.h">
+      <Filter>GameObject\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="CEnemyWorkerBullet.h">
+      <Filter>GameObject\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="SkillInfo.h" />
+    <ClInclude Include="Asset.h">
+      <Filter>GameObject</Filter>
+    </ClInclude>
+    <ClInclude Include="CEnemyRobot.h">
+      <Filter>GameObject\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="PowerEnergyX.h">
+      <Filter>GameObject\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="CEnemyBoomBullet.h">
+      <Filter>GameObject\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="CIntroCharacter.h">
+      <Filter>GameObject\Screen</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CGameApp.cpp" />
+    <ClCompile Include="CSprite.cpp">
+      <Filter>Framework\BaseObject</Filter>
+    </ClCompile>
+    <ClCompile Include="CCamera.cpp">
+      <Filter>Framework\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="CGameApp.cpp">
+      <Filter>Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="CWindow.cpp" />
+    <ClCompile Include="CGraphics.cpp">
+      <Filter>Framework\Display</Filter>
+    </ClCompile>
+    <ClCompile Include="DSUtil.cpp">
+      <Filter>Framework\Global</Filter>
+    </ClCompile>
+    <ClCompile Include="Trace.cpp">
+      <Filter>Framework\Global</Filter>
+    </ClCompile>
+    <ClCompile Include="CInput.cpp">
+      <Filter>Framework\IO</Filter>
+    </ClCompile>
+    <ClCompile Include="WinMain.cpp" />
+    <ClCompile Include="CScreen.cpp">
+      <Filter>Framework\Display</Filter>
+    </ClCompile>
+    <ClCompile Include="CGameTime.cpp">
+      <Filter>Framework\BaseObject</Filter>
+    </ClCompile>
+    <ClCompile Include="CScreenManager.cpp">
+      <Filter>Framework\Display</Filter>
+    </ClCompile>
+    <ClCompile Include="CObject.cpp">
+      <Filter>Framework\BaseObject</Filter>
+    </ClCompile>
+    <ClCompile Include="CTexture.cpp">
+      <Filter>Framework\BaseObject</Filter>
+    </ClCompile>
+    <ClCompile Include="CGameMenu.cpp">
+      <Filter>GameObject\Screen</Filter>
+    </ClCompile>
+    <ClCompile Include="CControl.cpp">
+      <Filter>Framework\BaseObject\Control</Filter>
+    </ClCompile>
+    <ClCompile Include="CMenuItem.cpp">
+      <Filter>Framework\BaseObject\Control</Filter>
+    </ClCompile>
+    <ClCompile Include="CImage.cpp">
+      <Filter>Framework\BaseObject\Control</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayScreen.cpp">
+      <Filter>GameObject\Screen</Filter>
+    </ClCompile>
+    <ClCompile Include="CCollision.cpp">
+      <Filter>Framework\Collision</Filter>
+    </ClCompile>
+    <ClCompile Include="CEnemy.cpp">
+      <Filter>GameObject\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="CEnemyBubble.cpp">
+      <Filter>GameObject\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="CEnemyTank.cpp">
+      <Filter>GameObject\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="CEnemyBall.cpp">
+      <Filter>GameObject\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="CEnemyBoom.cpp">
+      <Filter>GameObject\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="CEnemyEye.cpp">
+      <Filter>GameObject\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="CEnemyFish.cpp">
+      <Filter>GameObject\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="CEnemyInk.cpp">
+      <Filter>GameObject\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="CEnemyMachineAuto.cpp">
+      <Filter>GameObject\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="CEnemyCut.cpp">
+      <Filter>GameObject\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="CEnemyRobot.cpp">
+      <Filter>GameObject\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="CEnemyWorker.cpp">
+      <Filter>GameObject\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="CBullet.cpp">
+      <Filter>GameObject\Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="CStair.cpp">
+      <Filter>GameObject\Stair</Filter>
+    </ClCompile>
+    <ClCompile Include="CElevator.cpp">
+      <Filter>GameObject\Stair</Filter>
+    </ClCompile>
+    <ClCompile Include="CGameOver.cpp">
+      <Filter>GameObject\Screen</Filter>
+    </ClCompile>
+    <ClCompile Include="CCutMan.cpp">
+      <Filter>GameObject\Boss</Filter>
+    </ClCompile>
+    <ClCompile Include="CGutsMan.cpp">
+      <Filter>GameObject\Boss</Filter>
+    </ClCompile>
+    <ClCompile Include="CBoomMan.cpp">
+      <Filter>GameObject\Boss</Filter>
+    </ClCompile>
+    <ClCompile Include="CRockman.cpp">
+      <Filter>GameObject</Filter>
+    </ClCompile>
+    <ClCompile Include="CQuadNode.cpp">
+      <Filter>Framework\QuadTree</Filter>
+    </ClCompile>
+    <ClCompile Include="ResourceManager.cpp">
+      <Filter>Framework\ResourceManager</Filter>
+    </ClCompile>
+    <ClCompile Include="CGameStart.cpp">
+      <Filter>GameObject\Screen</Filter>
+    </ClCompile>
+    <ClCompile Include="CTextblock.cpp">
+      <Filter>Framework\BaseObject\Control</Filter>
+    </ClCompile>
+    <ClCompile Include="CBoomManBullet.cpp">
+      <Filter>GameObject\Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="CCutManBullet.cpp">
+      <Filter>GameObject\Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="CEnemyMachineAutoBullet.cpp">
+      <Filter>GameObject\Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="CGutsManBullet.cpp">
+      <Filter>GameObject\Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="CBlock.cpp">
+      <Filter>GameObject\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="CItem.cpp">
+      <Filter>GameObject\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="CRock.cpp">
+      <Filter>GameObject\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="CGameObject.cpp">
+      <Filter>GameObject</Filter>
+    </ClCompile>
+    <ClCompile Include="CCameraPath.cpp">
+      <Filter>Framework\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="CDoor.cpp">
+      <Filter>GameObject\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="ExplodingEffect.cpp">
+      <Filter>GameObject\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="CDieArrow.cpp">
+      <Filter>GameObject\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="CBulletRockman.cpp">
+      <Filter>GameObject\Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionInfo.cpp">
+      <Filter>Framework\Collision</Filter>
+    </ClCompile>
+    <ClCompile Include="CExplodingEffectManager.cpp">
+      <Filter>GameObject\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="CExplodingEffectX.cpp">
+      <Filter>GameObject\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="CGameInfo.cpp">
+      <Filter>GameObject</Filter>
+    </ClCompile>
+    <ClCompile Include="CBarMana.cpp">
+      <Filter>GameObject\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="CPopup.cpp">
+      <Filter>GameObject\Screen</Filter>
+    </ClCompile>
+    <ClCompile Include="CRockCutBullet.cpp">
+      <Filter>GameObject\Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="CBoomRockManBullet.cpp">
+      <Filter>GameObject\Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="CBulletSnapper.cpp">
+      <Filter>GameObject\Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="CEnemyHat.cpp">
+      <Filter>GameObject\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="CEnemyMachine.cpp">
+      <Filter>GameObject\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="CEnemyNinja.cpp">
+      <Filter>GameObject\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="CEnemySnapper.cpp">
+      <Filter>GameObject\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="CEnemyWallShooter.cpp">
+      <Filter>GameObject\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="CGutsRockManBullet.cpp">
+      <Filter>GameObject\Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="CBulletNinja.cpp">
+      <Filter>GameObject\Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="CSceneInfo.cpp">
+      <Filter>GameObject</Filter>
+    </ClCompile>
+    <ClCompile Include="CEnemyFishBullet.cpp">
+      <Filter>GameObject\Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="CEnemyWorkerBullet.cpp">
+      <Filter>GameObject\Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="Asset.cpp">
+      <Filter>GameObject</Filter>
+    </ClCompile>
+    <ClCompile Include="PowerEnergyX.cpp">
+      <Filter>GameObject\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="CEnemyBoomBullet.cpp">
+      <Filter>GameObject\Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="CIntroCharacter.cpp">
+      <Filter>GameObject\Screen</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="RockMan.rc" />
+  </ItemGroup>
+</Project>

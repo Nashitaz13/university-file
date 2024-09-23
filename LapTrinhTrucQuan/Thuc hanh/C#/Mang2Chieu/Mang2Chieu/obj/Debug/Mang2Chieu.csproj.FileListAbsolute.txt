@@ -1,0 +1,6 @@
+c:\users\bien\documents\visual studio 2013\Projects\Mang2Chieu\Mang2Chieu\bin\Debug\Mang2Chieu.exe.config
+c:\users\bien\documents\visual studio 2013\Projects\Mang2Chieu\Mang2Chieu\obj\Debug\Mang2Chieu.csprojResolveAssemblyReference.cache
+c:\users\bien\documents\visual studio 2013\Projects\Mang2Chieu\Mang2Chieu\bin\Debug\Mang2Chieu.exe
+c:\users\bien\documents\visual studio 2013\Projects\Mang2Chieu\Mang2Chieu\bin\Debug\Mang2Chieu.pdb
+c:\users\bien\documents\visual studio 2013\Projects\Mang2Chieu\Mang2Chieu\obj\Debug\Mang2Chieu.exe
+c:\users\bien\documents\visual studio 2013\Projects\Mang2Chieu\Mang2Chieu\obj\Debug\Mang2Chieu.pdb

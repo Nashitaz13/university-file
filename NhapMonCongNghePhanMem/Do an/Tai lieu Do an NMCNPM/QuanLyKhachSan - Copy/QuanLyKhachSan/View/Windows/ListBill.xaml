@@ -1,0 +1,17 @@
+﻿<Window x:Class="QuanLyKhachSan.View.Windows.ListBiil"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Danh Sách Hóa Đơn" Height="600" Width="800" FontFamily="Times New Roman" FontSize="15" >
+    <Grid>
+        <ListView Name="listBill" KeyDown="listBill_KeyDown">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Mã Hóa Đơn" DisplayMemberBinding="{Binding id}"/>
+                    <GridViewColumn Header="Tên Khách Hàng" DisplayMemberBinding="{Binding nameCustomer}"/>
+                    <GridViewColumn Header="Ngày Lập" DisplayMemberBinding="{Binding date}"/>
+                    <GridViewColumn Header="Trị Giá" DisplayMemberBinding="{Binding totalMoney}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Window>

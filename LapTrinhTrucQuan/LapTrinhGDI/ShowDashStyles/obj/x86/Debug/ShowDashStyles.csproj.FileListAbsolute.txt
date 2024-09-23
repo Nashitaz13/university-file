@@ -1,0 +1,9 @@
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\ShowDashStyles\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\ShowDashStyles\obj\x86\Debug\ShowDashStyles.Form1.resources
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\ShowDashStyles\obj\x86\Debug\ShowDashStyles.Properties.Resources.resources
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\ShowDashStyles\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\ShowDashStyles\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\ShowDashStyles\bin\Debug\ShowDashStyles.exe
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\ShowDashStyles\bin\Debug\ShowDashStyles.pdb
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\ShowDashStyles\obj\x86\Debug\ShowDashStyles.exe
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\ShowDashStyles\obj\x86\Debug\ShowDashStyles.pdb

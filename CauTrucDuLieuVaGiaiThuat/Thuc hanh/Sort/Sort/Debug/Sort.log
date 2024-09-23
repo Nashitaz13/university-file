@@ -1,0 +1,24 @@
+﻿Build started 28/02/2016 10:11:09 AM.
+     1>Project "E:\HK4\CTDL\Thuc hanh\Sort\Sort\Sort.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Sort.cpp
+         Sort.cpp
+     1>e:\hk4\ctdl\thuc hanh\sort\sort\sort.cpp(44): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>e:\hk4\ctdl\thuc hanh\sort\sort\sort.cpp(73): error C2601: 'Selection_Sort' : local function definitions are illegal
+                 e:\hk4\ctdl\thuc hanh\sort\sort\sort.cpp(64): this line contains a '{' which has not yet been matched
+     1>e:\hk4\ctdl\thuc hanh\sort\sort\sort.cpp(86): error C2601: 'Insertion_Sort' : local function definitions are illegal
+                 e:\hk4\ctdl\thuc hanh\sort\sort\sort.cpp(64): this line contains a '{' which has not yet been matched
+     1>e:\hk4\ctdl\thuc hanh\sort\sort\sort.cpp(101): error C2601: 'Bubble_Sort' : local function definitions are illegal
+                 e:\hk4\ctdl\thuc hanh\sort\sort\sort.cpp(64): this line contains a '{' which has not yet been matched
+     1>e:\hk4\ctdl\thuc hanh\sort\sort\sort.cpp(110): error C2601: 'Shaker_Sort' : local function definitions are illegal
+                 e:\hk4\ctdl\thuc hanh\sort\sort\sort.cpp(64): this line contains a '{' which has not yet been matched
+     1>e:\hk4\ctdl\thuc hanh\sort\sort\sort.cpp(176): error C2601: 'Quick_Sort' : local function definitions are illegal
+                 e:\hk4\ctdl\thuc hanh\sort\sort\sort.cpp(64): this line contains a '{' which has not yet been matched
+     1>e:\hk4\ctdl\thuc hanh\sort\sort\sort.cpp(195): error C2601: 'TimeSort' : local function definitions are illegal
+                 e:\hk4\ctdl\thuc hanh\sort\sort\sort.cpp(64): this line contains a '{' which has not yet been matched
+     1>e:\hk4\ctdl\thuc hanh\sort\sort\sort.cpp(229): fatal error C1075: end of file found before the left brace '{' at 'e:\hk4\ctdl\thuc hanh\sort\sort\sort.cpp(64)' was matched
+     1>Done Building Project "E:\HK4\CTDL\Thuc hanh\Sort\Sort\Sort.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.52

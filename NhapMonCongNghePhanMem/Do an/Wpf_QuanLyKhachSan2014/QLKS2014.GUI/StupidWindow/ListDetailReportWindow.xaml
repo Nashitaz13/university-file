@@ -1,0 +1,30 @@
+﻿<Window x:Class="QLKS2014.GUI.StupidWindow.ListDetailReportWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Chi tiết báo cáo doanh thu" Height="300" Width="500" FontFamily="Times New Roman" FontSize="15">
+    <Grid>
+        <GroupBox x:Name="gpTableReportDetail" Header="Chi Tiết Báo Cáo">
+            <DataGrid Name="dgReportDetail" 
+                  CanUserDeleteRows="True"
+                      AutoGenerateColumns="False"  KeyDown="dgReportDetail_KeyDown"
+                  LoadingRow="dgReportDetail_LoadingRow"
+                  IsReadOnly="True"
+                      >
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Tên Loại Phòng" Binding="{Binding TenPhong}"/>
+                    <DataGridTextColumn Header="Doanh Thu" Binding="{Binding TenLoaiPhong}"/>
+                    <DataGridTextColumn Header="Tỷ Lệ" Binding="{Binding GiaPhong}"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </GroupBox>
+        <!--<ListView Name="listDetailReport" >
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Tên Loại Phòng" DisplayMemberBinding="{Binding nameTypeRoom}"/>
+                    <GridViewColumn Header="Doanh thu" DisplayMemberBinding="{Binding totalMoney}"/>
+                    <GridViewColumn Header="Tỷ lệ" DisplayMemberBinding="{Binding percent}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>-->
+    </Grid>
+</Window>

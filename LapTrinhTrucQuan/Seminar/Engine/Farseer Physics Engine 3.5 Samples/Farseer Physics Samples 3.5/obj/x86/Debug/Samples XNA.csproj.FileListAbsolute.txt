@@ -1,0 +1,36 @@
+E:\HK4\Lap trinh truc quan\Do an\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\x86\Debug\Content\Font.xnb
+E:\HK4\Lap trinh truc quan\Do an\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\x86\Debug\Content\Materials\blank.xnb
+E:\HK4\Lap trinh truc quan\Do an\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\x86\Debug\Content\Common\gradient.xnb
+E:\HK4\Lap trinh truc quan\Do an\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\x86\Debug\Content\Common\logo.xnb
+E:\HK4\Lap trinh truc quan\Do an\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\x86\Debug\Content\Materials\dots.xnb
+E:\HK4\Lap trinh truc quan\Do an\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\x86\Debug\Content\Materials\pavement.xnb
+E:\HK4\Lap trinh truc quan\Do an\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\x86\Debug\Content\Materials\squares.xnb
+E:\HK4\Lap trinh truc quan\Do an\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\x86\Debug\Content\Materials\waves.xnb
+E:\HK4\Lap trinh truc quan\Do an\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\x86\Debug\Content\Samples\alphabet.xnb
+E:\HK4\Lap trinh truc quan\Do an\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\x86\Debug\Content\Samples\object.xnb
+E:\HK4\Lap trinh truc quan\Do an\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\x86\Debug\Content\Common\cursor.xnb
+E:\HK4\Lap trinh truc quan\Do an\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\x86\Debug\Content\Common\popup.xnb
+E:\HK4\Lap trinh truc quan\Do an\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\x86\Debug\Content\Common\arrow.xnb
+E:\HK4\Lap trinh truc quan\Do an\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\x86\Debug\Content\Common\slider.xnb
+E:\HK4\Lap trinh truc quan\Do an\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\x86\Debug\Content\Samples\link.xnb
+E:\HK4\Lap trinh truc quan\Do an\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\x86\Debug\Content\Samples\goo.xnb
+E:\HK4\Lap trinh truc quan\Do an\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\x86\Debug\Content\Samples\car.xnb
+E:\HK4\Lap trinh truc quan\Do an\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\x86\Debug\Content\Samples\wheel.xnb
+E:\HK4\Lap trinh truc quan\Do an\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\x86\Debug\Content\Common\socket.xnb
+E:\HK4\Lap trinh truc quan\Do an\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\x86\Debug\Content\Common\stick.xnb
+E:\HK4\Lap trinh truc quan\Do an\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\x86\Debug\Content\Common\buttons.xnb
+E:\HK4\Lap trinh truc quan\Do an\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\x86\Debug\Content\Fonts\detailsFont.xnb
+E:\HK4\Lap trinh truc quan\Do an\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\x86\Debug\Content\Fonts\frameRateCounterFont.xnb
+E:\HK4\Lap trinh truc quan\Do an\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\x86\Debug\Content\Fonts\menufont.xnb
+E:\HK4\Lap trinh truc quan\Do an\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\x86\Debug\Samples XNA.exe
+E:\HK4\Lap trinh truc quan\Do an\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\x86\Debug\Samples XNA.pdb
+E:\HK4\Lap trinh truc quan\Do an\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\x86\Debug\DebugView XNA.dll
+E:\HK4\Lap trinh truc quan\Do an\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\x86\Debug\FarseerPhysics XNA.dll
+E:\HK4\Lap trinh truc quan\Do an\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\x86\Debug\DebugView XNA.pdb
+E:\HK4\Lap trinh truc quan\Do an\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\x86\Debug\DebugView XNA.xml
+E:\HK4\Lap trinh truc quan\Do an\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\x86\Debug\FarseerPhysics XNA.pdb
+E:\HK4\Lap trinh truc quan\Do an\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\x86\Debug\FarseerPhysics XNA.xml
+E:\HK4\Lap trinh truc quan\Do an\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\obj\x86\Debug\Samples XNA.csprojResolveAssemblyReference.cache
+E:\HK4\Lap trinh truc quan\Do an\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\HK4\Lap trinh truc quan\Do an\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\obj\x86\Debug\Samples XNA.exe
+E:\HK4\Lap trinh truc quan\Do an\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\obj\x86\Debug\Samples XNA.pdb

@@ -1,0 +1,14 @@
+c:\users\pham hong son\documents\visual studio 2013\Projects\BB\BB\bin\Debug\BB.exe.config
+c:\users\pham hong son\documents\visual studio 2013\Projects\BB\BB\bin\Debug\BB.exe
+c:\users\pham hong son\documents\visual studio 2013\Projects\BB\BB\bin\Debug\BB.pdb
+c:\users\pham hong son\documents\visual studio 2013\Projects\BB\BB\obj\Debug\BB.csprojResolveAssemblyReference.cache
+c:\users\pham hong son\documents\visual studio 2013\Projects\BB\BB\obj\Debug\BB.Form1.resources
+c:\users\pham hong son\documents\visual studio 2013\Projects\BB\BB\obj\Debug\BB.Properties.Resources.resources
+c:\users\pham hong son\documents\visual studio 2013\Projects\BB\BB\obj\Debug\BB.csproj.GenerateResource.Cache
+c:\users\pham hong son\documents\visual studio 2013\Projects\BB\BB\obj\Debug\BB.exe
+c:\users\pham hong son\documents\visual studio 2013\Projects\BB\BB\obj\Debug\BB.pdb
+C:\Users\Pham Hong Son\documents\visual studio 2013\Projects\BB\BB\obj\Debug\BB.MH_In_NguonKhac.resources
+C:\Users\Pham Hong Son\documents\visual studio 2013\Projects\BB\BB\obj\Debug\BB.MH_Xem_BaoBieu.resources
+C:\Users\Pham Hong Son\documents\visual studio 2013\Projects\BB\BB\bin\Debug\Bao_Bieu\BB_Nguon_Excel.rpt
+C:\Users\Pham Hong Son\documents\visual studio 2013\Projects\BB\BB\bin\Debug\Bao_Bieu\BB_Nguon_Excel.cs
+C:\Users\Pham Hong Son\documents\visual studio 2013\Projects\BB\BB\bin\Debug\Du_Lieu\QLSach.mdb

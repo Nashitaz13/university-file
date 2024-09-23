@@ -1,0 +1,13 @@
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\ViDuRegion\bin\Debug\ViDuRegion.exe
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\ViDuRegion\bin\Debug\ViDuRegion.pdb
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\ViDuRegion\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\ViDuRegion\obj\x86\Debug\ViDuRegion.ComplementEx.resources
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\ViDuRegion\obj\x86\Debug\ViDuRegion.Properties.Resources.resources
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\ViDuRegion\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\ViDuRegion\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\ViDuRegion\obj\x86\Debug\ViDuRegion.exe
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\ViDuRegion\obj\x86\Debug\ViDuRegion.pdb
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\ViDuRegion\obj\x86\Debug\ViDuRegion.ExcludeEx.resources
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\ViDuRegion\obj\x86\Debug\ViDuRegion.UnionEx.resources
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\ViDuRegion\obj\x86\Debug\ViDuRegion.XorEx.resources
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\ViDuRegion\obj\x86\Debug\ViDuRegion.IntersectEx.resources

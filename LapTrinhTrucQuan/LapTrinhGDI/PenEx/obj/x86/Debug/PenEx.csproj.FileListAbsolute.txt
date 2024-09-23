@@ -1,0 +1,9 @@
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\PenEx\bin\Debug\PenEx.exe
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\PenEx\bin\Debug\PenEx.pdb
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\PenEx\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\PenEx\obj\x86\Debug\PenEx.Form1.resources
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\PenEx\obj\x86\Debug\PenEx.Properties.Resources.resources
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\PenEx\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\PenEx\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\PenEx\obj\x86\Debug\PenEx.exe
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\PenEx\obj\x86\Debug\PenEx.pdb

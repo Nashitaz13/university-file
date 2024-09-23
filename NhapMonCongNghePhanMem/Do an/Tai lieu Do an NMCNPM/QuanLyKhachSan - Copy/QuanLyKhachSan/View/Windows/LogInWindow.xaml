@@ -1,0 +1,23 @@
+﻿<Window x:Class="QuanLyKhachSan.View.Windows.LogInWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Đăng nhập hệ thống" Height="250" Width="400" WindowStyle="None" 
+        ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Background="AliceBlue"
+        KeyDown="Window_KeyDown"
+        >
+    <Grid>
+        <Label Content="Đăng Nhập Hệ Thống" Width="200" Height="30"
+               Margin="95,23,105,197" VerticalAlignment="Center" FontWeight="Bold" 
+               HorizontalAlignment="Center" VerticalContentAlignment="Center"
+               HorizontalContentAlignment="Center"
+               />
+        <TextBox Name="tbxUserName" Height="30" Width="200" Margin="160,70,40,150" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <PasswordBox Name="pwbxPassWord" Height="30" Width="200" Margin="160,120,40,100" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <Button Name="btnLogIn" Height="30" Width="90" Margin="165,178,145,42" Content="Đăng Nhập" Click="btnLogIn_Click" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <Button Name="btnCancle" Height="30" Width="90" Margin="270,178,40,42"  Content="Hủy Bỏ" Click="btnCancle_Click" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <Label Name="lbName" Content="Tên Người Dùng" Height="30" Width="150" Margin="5,70,245,150" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <Label Name="lbPassWord" Content="Mật Khẩu" Height="30" Width="100" Margin="5,120,295,100" VerticalAlignment="Center" HorizontalAlignment="Center" />
+        <Button Name="btnLogOut" Height="30" Width="100" Content="Đăng Xuất" HorizontalAlignment="Center" VerticalAlignment="Center" Visibility="Hidden" Click="btnLogOut_Click"/>
+        <Label Name="lbShowName" Content="Chào Admin" Height="30" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Margin="0,70,0,150" Visibility="Hidden"/>
+    </Grid>
+</Window>

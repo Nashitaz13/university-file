@@ -1,0 +1,259 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7E38321C-6AF3-4FE2-B9FC-D7BD803BE9E2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QLKS2014.GUI</RootNamespace>
+    <AssemblyName>QLKS2014.GUI</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="RibbonControlsLibrary, Version=4.0.0.11019, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Controls.Ribbon" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="StupidContent\Bill.xaml.cs">
+      <DependentUpon>Bill.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StupidContent\ListRoom.xaml.cs">
+      <DependentUpon>ListRoom.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StupidContent\RentRoom.xaml.cs">
+      <DependentUpon>RentRoom.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StupidContent\CreateReport.xaml.cs">
+      <DependentUpon>CreateReport.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StupidContent\SearchRoom.xaml.cs">
+      <DependentUpon>SearchRoom.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StupidContent\SearchByTime.xaml.cs">
+      <DependentUpon>SearchByTime.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StupidContent\SearchByRoomType.xaml.cs">
+      <DependentUpon>SearchByRoomType.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StupidContent\UpdateRoom.xaml.cs">
+      <DependentUpon>UpdateRoom.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StupidWindow\AboutWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StupidWindow\AboutWindow.Designer.cs">
+      <DependentUpon>AboutWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StupidWindow\SettingsWindow.xaml.cs">
+      <DependentUpon>SettingsWindow.xaml</DependentUpon>
+    </Compile>
+    <Page Include="StupidContent\Bill.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="StupidContent\ListRoom.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="StupidContent\RentRoom.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="StupidContent\CreateReport.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="StupidContent\SearchRoom.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="StupidContent\SearchByTime.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="StupidContent\SearchByRoomType.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="StupidContent\UpdateRoom.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="StupidWindow\DetailRoomRentedWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="StupidWindow\ListBillWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="StupidWindow\ListDetailReportWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="StupidWindow\ListRentRoomWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="StupidWindow\ListReportWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="StupidWindow\LoginWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="StupidWindow\MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="StupidWindow\DetailRoomRentedWindow.xaml.cs">
+      <DependentUpon>DetailRoomRentedWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StupidWindow\ListBillWindow.xaml.cs">
+      <DependentUpon>ListBillWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StupidWindow\ListDetailReportWindow.xaml.cs">
+      <DependentUpon>ListDetailReportWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StupidWindow\ListRentRoomWindow.xaml.cs">
+      <DependentUpon>ListRentRoomWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StupidWindow\ListReportWindow.xaml.cs">
+      <DependentUpon>ListReportWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StupidWindow\LoginWindow.xaml.cs">
+      <DependentUpon>LoginWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StupidWindow\MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="StupidWindow\SettingsWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StupidWindow\AboutWindow.resx">
+      <DependentUpon>AboutWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\QLKS2014.BLL\QLKS2014.BLL.csproj">
+      <Project>{f0888381-a4ba-4d5b-a43f-ec9bdef97a37}</Project>
+      <Name>QLKS2014.BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\QLKS2014.PUBLIC\QLKS2014.PUBLIC.csproj">
+      <Project>{1bdf4d64-ef17-4661-bd25-f0122c4320de}</Project>
+      <Name>QLKS2014.PUBLIC</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Resource Include="Images\about.png" />
+    <Resource Include="Images\actions_view_list_details.png" />
+    <Resource Include="Images\Alpha Dista Icon 18.ico" />
+    <Resource Include="Images\Bill.png" />
+    <Resource Include="Images\Bookmark-add.png" />
+    <Resource Include="Images\Exit.png" />
+    <Resource Include="Images\list.png" />
+    <Resource Include="Images\ListRoom.png" />
+    <Resource Include="Images\LogIn.PNG" />
+    <Resource Include="Images\newBill.png" />
+    <Resource Include="Images\Printer-icon.png" />
+    <Resource Include="Images\refresh.png" />
+    <Resource Include="Images\RentRoom.png" />
+    <Resource Include="Images\Report - Copy.png" />
+    <Resource Include="Images\Report.png" />
+    <Resource Include="Images\report_icon.png" />
+    <Resource Include="Images\save-32x32 - Copy.png" />
+    <Resource Include="Images\save-32x32.png" />
+    <Resource Include="Images\Search.png" />
+    <Resource Include="Images\Setting.ico" />
+    <Resource Include="Images\User Manual.png" />
+    <Resource Include="Images\user-group-icon.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

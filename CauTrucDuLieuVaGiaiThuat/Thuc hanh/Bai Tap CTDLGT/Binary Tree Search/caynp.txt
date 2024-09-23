@@ -1,0 +1,313 @@
+//dem nut la
+//	in cay theo tung muc
+//	dem cai nut chi co cay con trai
+#include "iostream"
+#include "stdio.h"
+#include "conio.h"
+#include "math.h"
+using namespace std;
+
+typedef struct tagTNode
+{
+	int key;
+	struct tagTNode *pLeft;
+	struct tagTNode *pRight;
+}TNode;
+typedef TNode *Tree;
+void CreateTree (Tree &T)
+{
+	T=NULL;
+}
+TNode *CreateTNode(int x)
+{
+	TNode *p;
+	p=new TNode;
+	if(p==NULL)exit(1);
+	else
+	{
+		p->key=x;
+		p->pLeft=NULL;
+		p->pRight=NULL;
+	}
+	return p;
+}
+int InsertNode(Tree &T, int x)
+{
+	if(T)
+	{
+		if(T->key==x)return 0;
+		if(T->key<x) return InsertNode(T->pRight, x);
+		else if(T->key>x) return InsertNode(T->pLeft,x);
+	}
+	T=new TNode;
+	if(T==NULL) return -1;
+	T->key=x;
+	T->pLeft=T->pRight=NULL;
+	return 1;
+}
+void nhap(Tree &T)
+{
+	
+	int x;
+	do 
+	{
+		cout<<"Nhap vao du lieu, nhap 0 de thoat: ";
+		cin>>x;
+		if(x==0) break;
+		InsertNode(T,x);
+	}while(x!=0);
+}
+void LNR(Tree T)
+{
+	if(T!=NULL)
+	{
+		LNR(T->pLeft);
+		cout<<T->key<<" ";
+		LNR(T->pRight);
+	}
+}
+void NLR(Tree T)
+{
+	if(T!=NULL)
+	{
+		cout<<T->key<<" ";
+		NLR(T->pLeft);
+		NLR(T->pRight);
+	}
+}
+void RNL(Tree T)
+{
+	if(T!=NULL)
+	{
+		RNL(T->pRight);
+		cout<<T->key<<" ";
+		RNL(T->pLeft);
+	}
+}
+TNode *SearchNode(Tree T, int x)
+{
+	if(T!=NULL)
+	{
+		if(T->key==x)return T;
+		else if(T->key>x) return SearchNode(T->pLeft,x);
+		else return SearchNode(T->pRight,x);
+	}return NULL;
+}
+
+void demla(Tree T, int &la)
+{
+	if(T)
+	{
+		if((T->pLeft==NULL)&&(T->pRight==NULL))la++;
+		demla(T->pLeft,la);
+		demla(T->pRight,la);
+	}
+}
+void demtrai(Tree T, int &left)
+{
+	if(T)
+	{
+		if((T->pLeft!=NULL)&&(T->pRight==NULL))left++;
+		demtrai(T->pLeft,left);
+		demtrai(T->pRight,left);
+	}
+}
+int nguyento(int n)
+{
+	if(n==1) return 0;
+	float t= sqrt(float(n));
+	for(int i=2;i<=t;i++) if(n%i==0)return 0;
+	return 1;
+}
+void demsnt(Tree T, int &snt)
+{
+	if(T)
+	{
+		if(nguyento(T->key)==1)snt++;
+		demsnt(T->pLeft,snt);
+		demsnt(T->pRight,snt);
+	}
+}
+void docao(Tree T, int h, int &max)
+{
+	if(T)
+	{
+		if(h>max)max=h;
+		docao(T->pLeft,h+1,max);
+		docao(T->pRight,h+1,max);
+	}
+}
+void InMuc(Tree T, int h, int muc)
+{
+	if(T)
+	{
+		if(muc==h) cout<<T->key<<" ";
+		else
+		{
+			InMuc(T->pLeft,h+1,muc);
+			InMuc(T->pRight,h+1,muc);
+		}
+	}
+}
+void thaythe(Tree &p, Tree&T)
+{
+	if(T->pLeft!=NULL) thaythe(p,T->pLeft);
+	else
+	{
+		p->key=T->key;
+		p=T;
+		T=T->pRight;
+	}
+}
+void deleteNode(Tree &T, int x)
+{
+	if(T!=NULL)
+	{
+		if(T->key<x)deleteNode(T->pRight,x);
+		else
+		{
+			if(T->key>x)deleteNode(T->pLeft,x);
+			else
+			{
+				TNode *p;
+				p=T;
+				if(T->pLeft==NULL)T=T->pRight;
+				else
+				{
+					if(T->pRight==NULL)T=T->pLeft;
+					else thaythe(p,T->pRight);
+				}
+				delete p;
+			}
+		}
+	}
+	else cout<<"Khong tim thay node x de xoa";
+
+}
+void xoasnt(Tree &T)
+{
+	if(T)
+	{
+		xoasnt(T->pLeft);
+		xoasnt(T->pRight);	
+		if(nguyento(T->key)==1)deleteNode(T,T->key);			
+	}	
+}
+
+void docaotrai(Tree T, int h, int &max)
+{
+	if(T)
+	{
+		if(h>max)max=h;
+		docaotrai(T->pLeft,h+1,max);
+	}
+}
+void docaophai(Tree T, int h, int &max)
+{
+	if(T)
+	{
+		if(h>max)max=h;
+		docaophai(T->pRight,h+1,max);
+	}
+}
+void menu()
+{
+	cout<<"\n\n---------------";
+	cout<<"\n0: Exit";
+	cout<<"\n1: Duyet NLR";
+	cout<<"\n2: Duyet LNR";
+	cout<<"\n3: Duyet RNL";
+	cout<<"\n4: Tim phan tu co khoa x tren cay";
+	cout<<"\n5: Tinh do cao cua cay, cua cay con trai, cay con phai";
+	cout<<"\n6: Dem cac nut la";
+	cout<<"\n7: In cay theo tung muc";
+	cout<<"\n8: Dem cac so nguyen to trong cay";
+	cout<<"\n9: Xoa not x trong cay";
+	cout<<"\n10: Dem so node chi co cay con trai";
+	cout<<"\n11: Xoa so nguyen to trong cay";
+}
+
+void main()
+{
+	Tree T;
+	int x;	
+	CreateTree(T);
+	nhap(T);
+	do
+	{
+		int c;
+		menu();
+		cout<<"\n\nNhap lua chon: ";
+		cin>>c;
+		switch(c)
+		{
+			case 0: exit(1);
+			case 1: {NLR(T);break;}
+			case 2:	{LNR(T);break;}
+			case 3: {RNL(T);break;}
+			case 4:
+				{
+					cout<<"Nhap x can tim: ";
+					cin>>x;
+					if(SearchNode(T,x)!=NULL)cout<<"Co phan tu x trong cay";
+					else cout<<"Khong ton tai phan tu x trong cay";
+					break;
+				}
+			case 5:
+				{
+					int h=0,max=0,left=0,right=0;
+					docao(T,h,max);
+					docaotrai(T,h,left);
+					docaophai(T,h,right);
+					cout<<"Do cao cua cay la: "<<max;
+					cout<<"\nDo cao cua cay con trai la: "<<left;
+					cout<<"\nDo cao cua cay con phai la: "<<right;
+					break;
+				}
+			case 6:
+				{
+					int la=0;
+					demla(T,la);
+					cout<<"So nut la trong cay la: "<<la;break;
+				}
+			case 7:
+				{
+					int h=0,muc=0;
+					docao(T,h,muc);
+					for(int i=0;i<muc;i++)
+					{InMuc(T,h,i);cout<<"\n";}
+					break;
+				}
+			case 8:
+				{
+					int snt=0;
+					demsnt(T,snt);			
+					cout<<"So node la so nguyen to trong cay la: "<<snt;
+					break;
+				}
+			case 9:
+				{
+					int x;
+					cout<<"Nhap gia tri node x can xoa: ";
+					cin>>x;
+					deleteNode(T,x);
+					LNR(T);
+					break;
+				}
+			case 10:
+				{
+					int left=0;
+					demtrai(T,left);
+					cout<<"So nut la chi co cay con trai trong cay la: "<<left;break;
+				}
+			case 11:
+				{
+					xoasnt(T);
+					LNR(T);
+				}
+		}
+	}while(1);
+	getch();
+}
+
+

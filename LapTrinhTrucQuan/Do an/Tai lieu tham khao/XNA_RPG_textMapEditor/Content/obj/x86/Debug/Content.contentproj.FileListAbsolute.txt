@@ -1,0 +1,4 @@
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\XNA_RPG_textMapEditor\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\New Folder\XNA_RPG_textMapEditor\XNA_RPG_textMapEditor\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Game Development\XNA game studio\XNA Free Open Source Engine\XNA_RPG_textMapEditor\Content\obj\x86\Debug\ResolveAssemblyReference.cache

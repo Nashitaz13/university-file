@@ -1,0 +1,6 @@
+C:\Users\Bien\Downloads\GameStateManagementSample\GameStateManagement\bin\Windows Phone\Debug\GameStateManagement.dll
+C:\Users\Bien\Downloads\GameStateManagementSample\GameStateManagement\bin\Windows Phone\Debug\GameStateManagement.pdb
+C:\Users\Bien\Downloads\GameStateManagementSample\GameStateManagement\obj\Windows Phone\Debug\GameStateManagement (Windows Phone).csprojResolveAssemblyReference.cache
+C:\Users\Bien\Downloads\GameStateManagementSample\GameStateManagement\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Bien\Downloads\GameStateManagementSample\GameStateManagement\obj\Windows Phone\Debug\GameStateManagement.dll
+C:\Users\Bien\Downloads\GameStateManagementSample\GameStateManagement\obj\Windows Phone\Debug\GameStateManagement.pdb

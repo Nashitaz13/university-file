@@ -1,0 +1,232 @@
+c:\users\thai ha\documents\visual studio 2012\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+c:\users\thai ha\documents\visual studio 2012\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+c:\users\thai ha\documents\visual studio 2012\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+c:\users\thai ha\documents\visual studio 2012\Projects\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojResolveAssemblyReference.cache
+c:\users\thai ha\documents\visual studio 2012\Projects\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\MainWindow.baml
+c:\users\thai ha\documents\visual studio 2012\Projects\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\MainWindow.g.cs
+c:\users\thai ha\documents\visual studio 2012\Projects\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\App.g.cs
+c:\users\thai ha\documents\visual studio 2012\Projects\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan_MarkupCompile.cache
+c:\users\thai ha\documents\visual studio 2012\Projects\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.g.resources
+c:\users\thai ha\documents\visual studio 2012\Projects\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+c:\users\thai ha\documents\visual studio 2012\Projects\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.Cache
+c:\users\thai ha\documents\visual studio 2012\Projects\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+c:\users\thai ha\documents\visual studio 2012\Projects\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+C:\Users\THAI HA\documents\visual studio 2012\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\THAI HA\documents\visual studio 2012\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ribboncontrolslibrary.dll
+C:\Users\THAI HA\documents\visual studio 2012\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\THAI HA\documents\visual studio 2012\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\THAI HA\documents\visual studio 2012\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ribboncontrolslibrary.pdb
+C:\Users\THAI HA\documents\visual studio 2012\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ribboncontrolslibrary.xml
+C:\Users\THAI HA\Documents\Visual Studio 2012\Projects\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\RentRoom.baml
+C:\Users\THAI HA\Documents\Visual Studio 2012\Projects\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\RentRoom.g.cs
+C:\Users\THAI HA\Documents\Visual Studio 2012\Projects\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\Bill.baml
+C:\Users\THAI HA\Documents\Visual Studio 2012\Projects\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\ListRoom.baml
+C:\Users\THAI HA\Documents\Visual Studio 2012\Projects\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\Bill.g.cs
+C:\Users\THAI HA\Documents\Visual Studio 2012\Projects\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\ListRoom.g.cs
+C:\Users\THAI HA\Documents\Visual Studio 2012\Projects\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\Report.baml
+C:\Users\THAI HA\Documents\Visual Studio 2012\Projects\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\Report.g.cs
+F:\projet\hk5\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Data\QUANLYKHACHSAN.sdf
+F:\projet\hk5\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+F:\projet\hk5\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+F:\projet\hk5\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+F:\projet\hk5\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Microsoft.Windows.Shell.dll
+F:\projet\hk5\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ribboncontrolslibrary.dll
+F:\projet\hk5\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Microsoft.Windows.Shell.pdb
+F:\projet\hk5\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Microsoft.Windows.Shell.xml
+F:\projet\hk5\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ribboncontrolslibrary.pdb
+F:\projet\hk5\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ribboncontrolslibrary.xml
+F:\projet\hk5\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\View\ContentView\SearchByTypeRoom.baml
+F:\projet\hk5\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\View\ContentView\UpdateRoom.baml
+F:\projet\hk5\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\View\ContentView\Bill.baml
+F:\projet\hk5\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\View\ContentView\ListRoom.baml
+F:\projet\hk5\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\View\ContentView\Search.baml
+F:\projet\hk5\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\View\ContentView\SearchByTime.baml
+F:\projet\hk5\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\View\Windows\DetailRoomRented.baml
+F:\projet\hk5\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\View\Windows\ListBill.baml
+F:\projet\hk5\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\View\Windows\ListDetailReport.baml
+F:\projet\hk5\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\View\Windows\ListRentRoom.baml
+F:\projet\hk5\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\View\Windows\ListReport.baml
+F:\projet\hk5\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\View\Windows\LogInWindow.baml
+F:\projet\hk5\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\MainWindow.baml
+F:\projet\hk5\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\View\ContentView\RentRoom.baml
+F:\projet\hk5\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\View\ContentView\Report.baml
+F:\projet\hk5\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\View\Windows\Setting.baml
+F:\projet\hk5\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\View\ContentView\SearchByTypeRoom.g.cs
+F:\projet\hk5\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\View\ContentView\UpdateRoom.g.cs
+F:\projet\hk5\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\View\ContentView\Bill.g.cs
+F:\projet\hk5\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\View\ContentView\ListRoom.g.cs
+F:\projet\hk5\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\View\ContentView\Search.g.cs
+F:\projet\hk5\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\View\ContentView\SearchByTime.g.cs
+F:\projet\hk5\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\View\Windows\DetailRoomRented.g.cs
+F:\projet\hk5\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\View\Windows\ListBill.g.cs
+F:\projet\hk5\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\View\Windows\ListDetailReport.g.cs
+F:\projet\hk5\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\View\Windows\ListRentRoom.g.cs
+F:\projet\hk5\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\View\Windows\ListReport.g.cs
+F:\projet\hk5\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\View\Windows\LogInWindow.g.cs
+F:\projet\hk5\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\MainWindow.g.cs
+F:\projet\hk5\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\View\ContentView\RentRoom.g.cs
+F:\projet\hk5\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\View\ContentView\Report.g.cs
+F:\projet\hk5\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\View\Windows\Setting.g.cs
+F:\projet\hk5\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\App.g.cs
+F:\projet\hk5\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan_Content.g.cs
+F:\projet\hk5\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan_MarkupCompile.cache
+F:\projet\hk5\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.g.resources
+F:\projet\hk5\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+F:\projet\hk5\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.Windows.AboutProgram.resources
+F:\projet\hk5\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.Cache
+F:\projet\hk5\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+F:\projet\hk5\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+F:\projet\hk5\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojResolveAssemblyReference.cache
+F:\hoc tap\nhap mon cong nghe phan mem\báo cáo cuối kì\QuanLyKhachSan - Copy\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+F:\hoc tap\nhap mon cong nghe phan mem\báo cáo cuối kì\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+F:\hoc tap\nhap mon cong nghe phan mem\báo cáo cuối kì\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+F:\báo cáo cuối kì\QuanLyKhachSan - Copy\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+F:\báo cáo cuối kì\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+F:\báo cáo cuối kì\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+F:\báo cáo cuối kì\QuanLyKhachSan - Copy\QuanLyKhachSan\bin\Debug\Data\QUANLYKHACHSAN.sdf
+F:\báo cáo cuối kì\QuanLyKhachSan - Copy\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+F:\báo cáo cuối kì\QuanLyKhachSan - Copy\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+F:\báo cáo cuối kì\QuanLyKhachSan - Copy\QuanLyKhachSan\bin\Debug\Microsoft.Windows.Shell.pdb
+F:\báo cáo cuối kì\QuanLyKhachSan - Copy\QuanLyKhachSan\bin\Debug\Microsoft.Windows.Shell.xml
+F:\báo cáo cuối kì\QuanLyKhachSan - Copy\QuanLyKhachSan\bin\Debug\ribboncontrolslibrary.pdb
+F:\báo cáo cuối kì\QuanLyKhachSan - Copy\QuanLyKhachSan\bin\Debug\ribboncontrolslibrary.xml
+F:\báo cáo cuối kì\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojResolveAssemblyReference.cache
+F:\báo cáo cuối kì\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\ContentView\SearchByTypeRoom.baml
+F:\báo cáo cuối kì\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\ContentView\UpdateRoom.baml
+F:\báo cáo cuối kì\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\ContentView\Bill.baml
+F:\báo cáo cuối kì\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\ContentView\ListRoom.baml
+F:\báo cáo cuối kì\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\ContentView\Search.baml
+F:\báo cáo cuối kì\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\ContentView\SearchByTime.baml
+F:\báo cáo cuối kì\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\Windows\DetailRoomRented.baml
+F:\báo cáo cuối kì\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\Windows\ListBill.baml
+F:\báo cáo cuối kì\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\Windows\ListDetailReport.baml
+F:\báo cáo cuối kì\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\Windows\ListRentRoom.baml
+F:\báo cáo cuối kì\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\Windows\ListReport.baml
+F:\báo cáo cuối kì\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\Windows\LogInWindow.baml
+F:\báo cáo cuối kì\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\MainWindow.baml
+F:\báo cáo cuối kì\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\ContentView\RentRoom.baml
+F:\báo cáo cuối kì\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\ContentView\Report.baml
+F:\báo cáo cuối kì\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\Windows\Setting.baml
+F:\báo cáo cuối kì\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\ContentView\SearchByTypeRoom.g.cs
+F:\báo cáo cuối kì\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\ContentView\UpdateRoom.g.cs
+F:\báo cáo cuối kì\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\ContentView\Bill.g.cs
+F:\báo cáo cuối kì\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\ContentView\ListRoom.g.cs
+F:\báo cáo cuối kì\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\ContentView\Search.g.cs
+F:\báo cáo cuối kì\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\ContentView\SearchByTime.g.cs
+F:\báo cáo cuối kì\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\Windows\DetailRoomRented.g.cs
+F:\báo cáo cuối kì\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\Windows\ListBill.g.cs
+F:\báo cáo cuối kì\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\Windows\ListDetailReport.g.cs
+F:\báo cáo cuối kì\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\Windows\ListRentRoom.g.cs
+F:\báo cáo cuối kì\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\Windows\ListReport.g.cs
+F:\báo cáo cuối kì\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\Windows\LogInWindow.g.cs
+F:\báo cáo cuối kì\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\MainWindow.g.cs
+F:\báo cáo cuối kì\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\ContentView\RentRoom.g.cs
+F:\báo cáo cuối kì\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\ContentView\Report.g.cs
+F:\báo cáo cuối kì\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\Windows\Setting.g.cs
+F:\báo cáo cuối kì\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\App.g.cs
+F:\báo cáo cuối kì\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\QuanLyKhachSan_Content.g.cs
+F:\báo cáo cuối kì\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\QuanLyKhachSan_MarkupCompile.cache
+F:\báo cáo cuối kì\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.g.resources
+F:\báo cáo cuối kì\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+F:\báo cáo cuối kì\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.Windows.AboutProgram.resources
+F:\báo cáo cuối kì\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.Cache
+C:\Users\Canh\Desktop\QuanLyKhachSan - Copy\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\Canh\Desktop\QuanLyKhachSan - Copy\QuanLyKhachSan\bin\Debug\Data\QUANLYKHACHSAN.sdf
+C:\Users\Canh\Desktop\QuanLyKhachSan - Copy\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\Users\Canh\Desktop\QuanLyKhachSan - Copy\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\Users\Canh\Desktop\QuanLyKhachSan - Copy\QuanLyKhachSan\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\Canh\Desktop\QuanLyKhachSan - Copy\QuanLyKhachSan\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\Canh\Desktop\QuanLyKhachSan - Copy\QuanLyKhachSan\bin\Debug\ribboncontrolslibrary.pdb
+C:\Users\Canh\Desktop\QuanLyKhachSan - Copy\QuanLyKhachSan\bin\Debug\ribboncontrolslibrary.xml
+C:\Users\Canh\Desktop\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojResolveAssemblyReference.cache
+C:\Users\Canh\Desktop\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\ContentView\SearchByTypeRoom.baml
+C:\Users\Canh\Desktop\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\ContentView\UpdateRoom.baml
+C:\Users\Canh\Desktop\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\ContentView\Bill.baml
+C:\Users\Canh\Desktop\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\ContentView\ListRoom.baml
+C:\Users\Canh\Desktop\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\ContentView\Search.baml
+C:\Users\Canh\Desktop\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\ContentView\SearchByTime.baml
+C:\Users\Canh\Desktop\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\Windows\DetailRoomRented.baml
+C:\Users\Canh\Desktop\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\Windows\ListBill.baml
+C:\Users\Canh\Desktop\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\Windows\ListDetailReport.baml
+C:\Users\Canh\Desktop\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\Windows\ListRentRoom.baml
+C:\Users\Canh\Desktop\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\Windows\ListReport.baml
+C:\Users\Canh\Desktop\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\Windows\LogInWindow.baml
+C:\Users\Canh\Desktop\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\MainWindow.baml
+C:\Users\Canh\Desktop\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\ContentView\RentRoom.baml
+C:\Users\Canh\Desktop\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\ContentView\Report.baml
+C:\Users\Canh\Desktop\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\Windows\Setting.baml
+C:\Users\Canh\Desktop\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\ContentView\SearchByTypeRoom.g.cs
+C:\Users\Canh\Desktop\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\ContentView\UpdateRoom.g.cs
+C:\Users\Canh\Desktop\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\ContentView\Bill.g.cs
+C:\Users\Canh\Desktop\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\ContentView\ListRoom.g.cs
+C:\Users\Canh\Desktop\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\ContentView\Search.g.cs
+C:\Users\Canh\Desktop\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\ContentView\SearchByTime.g.cs
+C:\Users\Canh\Desktop\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\Windows\DetailRoomRented.g.cs
+C:\Users\Canh\Desktop\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\Windows\ListBill.g.cs
+C:\Users\Canh\Desktop\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\Windows\ListDetailReport.g.cs
+C:\Users\Canh\Desktop\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\Windows\ListRentRoom.g.cs
+C:\Users\Canh\Desktop\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\Windows\ListReport.g.cs
+C:\Users\Canh\Desktop\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\Windows\LogInWindow.g.cs
+C:\Users\Canh\Desktop\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\MainWindow.g.cs
+C:\Users\Canh\Desktop\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\ContentView\RentRoom.g.cs
+C:\Users\Canh\Desktop\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\ContentView\Report.g.cs
+C:\Users\Canh\Desktop\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\Windows\Setting.g.cs
+C:\Users\Canh\Desktop\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\App.g.cs
+C:\Users\Canh\Desktop\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\QuanLyKhachSan_Content.g.cs
+C:\Users\Canh\Desktop\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\QuanLyKhachSan_MarkupCompile.cache
+C:\Users\Canh\Desktop\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.g.resources
+C:\Users\Canh\Desktop\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\Canh\Desktop\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.Windows.AboutProgram.resources
+C:\Users\Canh\Desktop\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.Cache
+C:\Users\Canh\Desktop\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\Users\Canh\Desktop\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSan - Copy\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSan - Copy\QuanLyKhachSan\bin\Debug\Data\QUANLYKHACHSAN.sdf
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSan - Copy\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSan - Copy\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSan - Copy\QuanLyKhachSan\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSan - Copy\QuanLyKhachSan\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSan - Copy\QuanLyKhachSan\bin\Debug\ribboncontrolslibrary.pdb
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSan - Copy\QuanLyKhachSan\bin\Debug\ribboncontrolslibrary.xml
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojResolveAssemblyReference.cache
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\ContentView\SearchByTypeRoom.baml
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\ContentView\UpdateRoom.baml
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\ContentView\Bill.baml
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\ContentView\ListRoom.baml
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\ContentView\Search.baml
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\ContentView\SearchByTime.baml
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\Windows\DetailRoomRented.baml
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\Windows\ListBill.baml
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\Windows\ListDetailReport.baml
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\Windows\ListRentRoom.baml
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\Windows\ListReport.baml
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\Windows\LogInWindow.baml
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\MainWindow.baml
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\ContentView\RentRoom.baml
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\ContentView\Report.baml
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\Windows\Setting.baml
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\ContentView\SearchByTypeRoom.g.cs
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\ContentView\UpdateRoom.g.cs
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\ContentView\Bill.g.cs
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\ContentView\ListRoom.g.cs
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\ContentView\Search.g.cs
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\ContentView\SearchByTime.g.cs
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\Windows\DetailRoomRented.g.cs
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\Windows\ListBill.g.cs
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\Windows\ListDetailReport.g.cs
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\Windows\ListRentRoom.g.cs
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\Windows\ListReport.g.cs
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\Windows\LogInWindow.g.cs
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\MainWindow.g.cs
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\ContentView\RentRoom.g.cs
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\ContentView\Report.g.cs
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\View\Windows\Setting.g.cs
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\App.g.cs
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\QuanLyKhachSan_Content.g.cs
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\QuanLyKhachSan_MarkupCompile.cache
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.g.resources
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.Windows.AboutProgram.resources
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSan - Copy\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.Cache

@@ -1,0 +1,6 @@
+c:\users\bien\documents\visual studio 2013\Projects\ThoiGian\ThoiGian\bin\Debug\ThoiGian.exe.config
+c:\users\bien\documents\visual studio 2013\Projects\ThoiGian\ThoiGian\bin\Debug\ThoiGian.exe
+c:\users\bien\documents\visual studio 2013\Projects\ThoiGian\ThoiGian\bin\Debug\ThoiGian.pdb
+c:\users\bien\documents\visual studio 2013\Projects\ThoiGian\ThoiGian\obj\Debug\ThoiGian.csprojResolveAssemblyReference.cache
+c:\users\bien\documents\visual studio 2013\Projects\ThoiGian\ThoiGian\obj\Debug\ThoiGian.exe
+c:\users\bien\documents\visual studio 2013\Projects\ThoiGian\ThoiGian\obj\Debug\ThoiGian.pdb

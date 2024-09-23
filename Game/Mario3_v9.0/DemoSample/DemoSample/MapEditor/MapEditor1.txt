@@ -1,0 +1,100 @@
+ground 16 16 624 16
+ground 640 32 464 32
+ground 1168 16 352 16
+ground 1552 16 80 16
+ground 1680 16 576 16
+ground 368 64 32 48
+ground 1808 48 32 32
+ground 1872 64 32 48
+ground 2272 16 560 16
+ground 2272 304 32 192
+ground 2272 64 32 48
+ground 2336 48 32 32
+ground 1520 96 32 16
+ground 1584 32 16 16
+ground 1600 48 16 32
+ground 1616 64 16 48
+ground 1680 64 16 48
+ground 1696 48 16 32
+ground 1712 32 16 16
+ground 256 64 48 0
+ground 288 96 48 0
+ground 416 64 80 0
+ground 480 96 64 0
+ground 528 128 64 0
+ground 528 48 96 0
+ground 1280 48 112 0
+ground 1312 80 112 0
+ground 1344 112 112 0
+ground 2160 64 48 0
+ground 2192 160 48 0
+ground 1328 288 64 0
+ground 1424 240 64 0
+ground 1504 256 208 0
+turtle 576 75 0 0 48
+turtle 1439 140 1 1 0
+turtle 1391 140 1 1 0
+turtle 1344 140 1 1 0
+turtle 1471 43 1 0 0
+turtle 2120 75 0 0 16
+namenemy 224 32 0
+namenemy 576 32 0
+namenemy 913 48 0
+namenemy 944 48 0
+namenemy 976 56 1
+redfireplant 376 64 1 1
+redfireplant 1816 48 0 0
+redfireplant 1880 64 0 1
+ODauHoi 192 80 0 1
+ODauHoi 208 80 0 1
+ODauHoi 240 128 0 1
+ODauHoi 256 128 1 1
+ODauHoi 432 112 0 1
+ODauHoi 672 48 1 1
+ODauHoi 720 80 0 1
+ODauHoi 1488 64 1 1
+ODauHoi 1456 304 2 2
+ODauHoi 2048 64 3 2
+DongTien 1089 112
+DongTien 1121 144
+DongTien 1153 176
+DongTien 1185 208
+DongTien 1217 240
+DongTien 1345 352
+DongTien 1361 352
+DongTien 1377 352
+DongTien 1489 320
+DongTien 1505 320
+DongTien 1553 304
+DongTien 1569 304
+DongTien 1585 304
+DongTien 1601 304
+DongTien 1633 320
+DongTien 1649 320
+DongTien 1665 320
+DongTien 1681 320
+DongTien 1713 288
+DongTien 1742 320
+DongTien 1777 304
+DongTien 1825 336
+DongTien 1857 304
+gach 2000 64
+gach 2016 64
+gach 2032 64
+gach 1984 48
+gach 2000 48
+gach 2016 48
+gach 2032 48
+gach 2048 48
+gach 2112 48
+gach 1968 32
+gach 1984 32
+gach 2000 32
+gach 2016 32
+gach 2032 32
+gach 2048 32
+gach 2064 32
+gach 2112 32
+gach 2128 32
+ongnuoc 2272 320 32 16 128 192 32 32 1
+endbox 2704 96

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExportProfile Ver="1.3">
+  <General ConnectionProjectName="" ConnectionProjectOwnerNavicatID="" ConnectionName="localhost" DatabaseName="datashop" SchemaName="" ExportType="SQL" TargetCodepage="65001" AddTimeStamp="false" TimeStampFormat="" IncludeTitle="false" FieldDelimiter="	" DateFormat="MDY" DateSeparator="/" ZeroPaddingDate="false" TimeSeparator=":" DecimalSeparator="." TextQualifier="&quot;" RowDelimiter="0" XMLFormat="Element" UseBase64="true" AppendRecord="false" ContinueOnError="true"/>
+  <STable STableName="bill" TTableName="" TargetFile="C:\Users\TOBI_UIT\Desktop\bill.sql" AllFields="true"/>
+  <STable STableName="bill_detail" TTableName="" TargetFile="C:\Users\TOBI_UIT\Desktop\bill_detail.sql" AllFields="true"/>
+  <STable STableName="category" TTableName="" TargetFile="C:\Users\TOBI_UIT\Desktop\category.sql" AllFields="true"/>
+  <STable STableName="product" TTableName="" TargetFile="C:\Users\TOBI_UIT\Desktop\product.sql" AllFields="true"/>
+  <STable STableName="users" TTableName="" TargetFile="C:\Users\TOBI_UIT\Desktop\users.sql" AllFields="true"/>
+</ExportProfile>

@@ -1,0 +1,26 @@
+﻿263 2.1.1 A worked Service Oriented Architecture example
+264 An electric utility has the capacity to generate and distribute electricity (the underlying capability).
+265 The wiring from the electric company’s distribution grid (the service) provides the means to supply
+266 electricity to support typical usage for a residential consumer’s house (service functionality), and
+267 a consumer accesses electricity generated (the output of invoking the service) via a wall outlet
+268 (service interface). In order to use the electricity, a consumer needs to understand what type of
+269 plug to use, what is the voltage of the supply, and possible limits to the load; the utility presumes
+270 that the customer will only connect devices that are compatible with the voltage provided and load
+271 supported; and the consumer in turn assumes that compatible consumer devices can be
+272 connected without damage or harm (service technical assumptions).
+273 A residential or business user will need to open an account with the utility in order to use the
+274 supply (service constraint) and the utility will meter usage and expects the consumer to pay for
+275 use at the rate prescribed (service policy). When the consumer and utility agree on constraints
+276 and polices (service contract), the consumer can receive electricity using the service as long as
+277 the electricity distribution grid and house connection remain intact (e.g. a storm knocking down
+278 power lines would disrupt distribution) and the consumer can have payment sent (e.g. a check by
+279 mail or electronic funds transfer) to the utility (reachability).
+280 Another person (for example, a visitor to someone else's house) may use a contracted supply
+281 without any relationship with the utility or any requirement to also satisfy the initial service
+282 constraint (i.e. reachability only requires intact electricity distribution) but would nonetheless be
+283 expected to be compatible with the service interface.
+284 In certain situations (for example, excessive demand), a utility may limit supply or institute rolling
+285 blackouts (service policy). A consumer might lodge a formal complaint if this occurred frequently
+286 (consumer's implied policy).
+287 If the utility required every device to be hardwired to its equipment, the underlying capability
+288 would still be there but this would be a very different service and have a very different service interface.

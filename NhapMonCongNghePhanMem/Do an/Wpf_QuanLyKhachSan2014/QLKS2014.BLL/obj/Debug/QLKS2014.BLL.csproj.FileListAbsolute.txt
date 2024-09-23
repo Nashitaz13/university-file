@@ -1,0 +1,18 @@
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.BLL\obj\Debug\QLKS2014.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.BLL\bin\Debug\QLKS2014.BLL.dll
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.BLL\bin\Debug\QLKS2014.BLL.pdb
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.BLL\bin\Debug\QLKS2014.DATA.dll
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.BLL\bin\Debug\QLKS2014.PUBLIC.dll
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.BLL\bin\Debug\QLKS2014.DATA.pdb
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.BLL\bin\Debug\QLKS2014.PUBLIC.pdb
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.BLL\obj\Debug\QLKS2014.BLL.dll
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.BLL\obj\Debug\QLKS2014.BLL.pdb
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.BLL\bin\Debug\QLKS2014.BLL.dll
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.BLL\bin\Debug\QLKS2014.BLL.pdb
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.BLL\bin\Debug\QLKS2014.DATA.dll
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.BLL\bin\Debug\QLKS2014.PUBLIC.dll
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.BLL\bin\Debug\QLKS2014.DATA.pdb
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.BLL\bin\Debug\QLKS2014.PUBLIC.pdb
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.BLL\obj\Debug\QLKS2014.BLL.csprojResolveAssemblyReference.cache
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.BLL\obj\Debug\QLKS2014.BLL.dll
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.BLL\obj\Debug\QLKS2014.BLL.pdb

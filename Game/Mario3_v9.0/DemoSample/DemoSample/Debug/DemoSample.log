@@ -1,0 +1,246 @@
+﻿Build started 1/23/2016 10:11:47 AM.
+     1>Project "C:\Users\phanb\Desktop\Mario3_v9.0\DemoSample\DemoSample\DemoSample.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt EndBox.cpp FireBullet.cpp Gach.cpp Game.cpp GameMario.cpp ImageEffect.cpp NamEnemy.cpp ODauHoi.cpp OngNuoc.cpp RedFirePlant.cpp Turtle.cpp VienGachVo.cpp World.cpp main.cpp mario.cpp
+         EndBox.cpp
+         e:\study software\directx\directxsdk\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\endbox.cpp(27): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\endbox.cpp(94): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+         Generating Code...
+         Compiling...
+         mario.cpp
+         e:\study software\directx\directxsdk\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(19): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(152): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(155): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(184): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(194): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(201): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(208): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(215): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(222): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(229): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(236): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(269): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(276): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(283): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(290): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(297): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(304): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(311): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(350): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(366): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(383): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(407): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(423): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(440): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(470): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(487): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(504): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(522): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(539): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(565): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(582): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(599): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(617): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(634): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(667): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(674): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(681): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(688): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(695): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(713): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(720): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(727): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(734): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(741): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(875): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(1105): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(1522): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(1620): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(1622): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(1633): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(1635): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(1642): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(1644): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(1649): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(1651): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(1655): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(1656): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(2156): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(2175): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(2182): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+         main.cpp
+         e:\study software\directx\directxsdk\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         World.cpp
+         e:\study software\directx\directxsdk\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\world.cpp(57): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\world.cpp(62): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\world.cpp(65): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\world.cpp(71): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\world.cpp(77): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\world.cpp(82): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\world.cpp(85): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\world.cpp(92): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\world.cpp(95): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\world.cpp(100): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\world.cpp(155): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\world.cpp(157): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\world.cpp(167): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\world.cpp(169): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\world.cpp(179): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\world.cpp(181): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\world.cpp(190): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\world.cpp(192): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\world.cpp(201): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\world.cpp(203): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\world.cpp(212): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\world.cpp(214): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\world.cpp(223): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\world.cpp(225): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\world.cpp(234): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\world.cpp(236): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\world.cpp(247): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\world.cpp(249): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\world.cpp(259): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\world.cpp(261): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\world.cpp(271): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\world.cpp(273): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\world.cpp(285): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\world.cpp(287): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\world.cpp(299): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\world.cpp(301): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\world.cpp(310): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\world.cpp(312): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\world.cpp(339): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\world.cpp(385): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\world.cpp(392): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\world.cpp(436): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\world.cpp(458): warning C4018: '<' : signed/unsigned mismatch
+         VienGachVo.cpp
+         e:\study software\directx\directxsdk\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\viengachvo.cpp(18): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\viengachvo.cpp(22): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\viengachvo.cpp(23): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\viengachvo.cpp(24): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\viengachvo.cpp(25): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\viengachvo.cpp(29): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\viengachvo.cpp(30): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+         Turtle.cpp
+         e:\study software\directx\directxsdk\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\turtle.cpp(61): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\turtle.cpp(87): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\turtle.cpp(89): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\turtle.cpp(413): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\turtle.cpp(424): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\turtle.cpp(431): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\turtle.cpp(436): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\turtle.cpp(538): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\turtle.cpp(561): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+         RedFirePlant.cpp
+         e:\study software\directx\directxsdk\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\redfireplant.cpp(72): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\redfireplant.cpp(74): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\redfireplant.cpp(75): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\redfireplant.cpp(81): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\redfireplant.cpp(143): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\redfireplant.cpp(177): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\redfireplant.cpp(187): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\redfireplant.cpp(208): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\redfireplant.cpp(211): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\redfireplant.cpp(268): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\redfireplant.cpp(277): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+         OngNuoc.cpp
+         e:\study software\directx\directxsdk\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\ongnuoc.cpp(15): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\ongnuoc.cpp(56): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\ongnuoc.cpp(57): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+         ODauHoi.cpp
+         e:\study software\directx\directxsdk\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\odauhoi.cpp(30): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\odauhoi.cpp(36): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\odauhoi.cpp(37): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\odauhoi.cpp(84): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\odauhoi.cpp(115): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\odauhoi.cpp(117): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\odauhoi.cpp(133): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\odauhoi.cpp(135): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\odauhoi.cpp(147): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\odauhoi.cpp(149): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\odauhoi.cpp(163): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\odauhoi.cpp(176): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\odauhoi.cpp(192): warning C4305: '=' : truncation from 'double' to 'float'
+         NamEnemy.cpp
+         e:\study software\directx\directxsdk\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\namenemy.cpp(39): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\namenemy.cpp(181): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\namenemy.cpp(243): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\namenemy.cpp(249): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\namenemy.cpp(293): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+         ImageEffect.cpp
+         e:\study software\directx\directxsdk\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\imageeffect.cpp(16): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\imageeffect.cpp(34): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+         GameMario.cpp
+         e:\study software\directx\directxsdk\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\gamemario.cpp(126): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\gamemario.cpp(130): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+         Game.cpp
+         e:\study software\directx\directxsdk\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         Gach.cpp
+         e:\study software\directx\directxsdk\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\gach.cpp(16): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\gach.cpp(21): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\gach.cpp(49): warning C4305: '=' : truncation from 'double' to 'float'
+         FireBullet.cpp
+         e:\study software\directx\directxsdk\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\firebullet.cpp(14): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\firebullet.cpp(16): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\firebullet.cpp(22): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+         Generating Code...
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\world.cpp(128): warning C4715: 'World::StringToType' : not all control paths return a value
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\world.cpp(455): warning C4715: 'World::FindIterator' : not all control paths return a value
+     1>c:\users\phanb\desktop\mario3_v9.0\demosample\demosample\mario.cpp(124): warning C4715: 'mario::ConvertStringToState' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\phanb\Desktop\Mario3_v9.0\DemoSample\Debug\DemoSample.exe" /INCREMENTAL /NOLOGO d3d9.lib d3dx9.lib dxguid.lib dxerr.lib dinput8.lib dsound.lib winmm.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\phanb\Desktop\Mario3_v9.0\DemoSample\Debug\DemoSample.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\phanb\Desktop\Mario3_v9.0\DemoSample\Debug\DemoSample.lib" /MACHINE:X86 Debug\DemoSample.res
+         Debug\BasicObject.obj
+         Debug\Box.obj
+         Debug\BoxStair.obj
+         Debug\CAudio.obj
+         Debug\ChiecLa.obj
+         Debug\ChuP.obj
+         Debug\ChuP_Off.obj
+         Debug\DongTien.obj
+         Debug\dsutil.obj
+         Debug\dxerr.obj
+         Debug\EndBox.obj
+         Debug\FireBullet.obj
+         Debug\Gach.obj
+         Debug\Game.obj
+         Debug\GameInformation.obj
+         Debug\GameMario.obj
+         Debug\ImageEffect.obj
+         Debug\mario.obj
+         Debug\MovableObject.obj
+         Debug\GlobalObject.obj
+         Debug\Input.obj
+         Debug\main.obj
+         Debug\MyRectangle.obj
+         Debug\NamEnemy.obj
+         Debug\NamItem.obj
+         Debug\ODauHoi.obj
+         Debug\OngNuoc.obj
+         Debug\QuadTree.obj
+         Debug\RedFirePlant.obj
+         Debug\Resource.obj
+         Debug\SoundManager.obj
+         Debug\Sprite.obj
+         Debug\Turtle.obj
+         Debug\VienGachVo.obj
+         Debug\World.obj
+         DemoSample.vcxproj -> C:\Users\phanb\Desktop\Mario3_v9.0\DemoSample\Debug\DemoSample.exe
+     1>Done Building Project "C:\Users\phanb\Desktop\Mario3_v9.0\DemoSample\DemoSample\DemoSample.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:19.76

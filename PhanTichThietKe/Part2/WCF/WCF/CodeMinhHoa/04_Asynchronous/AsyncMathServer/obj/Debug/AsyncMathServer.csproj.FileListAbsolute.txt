@@ -1,0 +1,6 @@
+E:\SGU\GiangDay\WebServices\T07_T12_SOA_WCF\WCF\ref_WCF\WCF\04_Asynchronous\AsyncMathServer\bin\Debug\AsyncMathServer.dll.config
+E:\SGU\GiangDay\WebServices\T07_T12_SOA_WCF\WCF\ref_WCF\WCF\04_Asynchronous\AsyncMathServer\bin\Debug\AsyncMathServer.dll
+E:\SGU\GiangDay\WebServices\T07_T12_SOA_WCF\WCF\ref_WCF\WCF\04_Asynchronous\AsyncMathServer\bin\Debug\AsyncMathServer.pdb
+E:\SGU\GiangDay\WebServices\T07_T12_SOA_WCF\WCF\ref_WCF\WCF\04_Asynchronous\AsyncMathServer\obj\Debug\ResolveAssemblyReference.cache
+E:\SGU\GiangDay\WebServices\T07_T12_SOA_WCF\WCF\ref_WCF\WCF\04_Asynchronous\AsyncMathServer\obj\Debug\AsyncMathServer.dll
+E:\SGU\GiangDay\WebServices\T07_T12_SOA_WCF\WCF\ref_WCF\WCF\04_Asynchronous\AsyncMathServer\obj\Debug\AsyncMathServer.pdb

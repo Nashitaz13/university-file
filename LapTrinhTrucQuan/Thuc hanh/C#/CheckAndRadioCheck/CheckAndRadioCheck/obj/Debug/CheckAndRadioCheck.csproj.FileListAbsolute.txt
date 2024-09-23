@@ -1,0 +1,6 @@
+c:\users\bien\documents\visual studio 2013\Projects\CheckAndRadioCheck\CheckAndRadioCheck\bin\Debug\CheckAndRadioCheck.exe.config
+c:\users\bien\documents\visual studio 2013\Projects\CheckAndRadioCheck\CheckAndRadioCheck\bin\Debug\CheckAndRadioCheck.exe
+c:\users\bien\documents\visual studio 2013\Projects\CheckAndRadioCheck\CheckAndRadioCheck\bin\Debug\CheckAndRadioCheck.pdb
+c:\users\bien\documents\visual studio 2013\Projects\CheckAndRadioCheck\CheckAndRadioCheck\obj\Debug\CheckAndRadioCheck.csprojResolveAssemblyReference.cache
+c:\users\bien\documents\visual studio 2013\Projects\CheckAndRadioCheck\CheckAndRadioCheck\obj\Debug\CheckAndRadioCheck.exe
+c:\users\bien\documents\visual studio 2013\Projects\CheckAndRadioCheck\CheckAndRadioCheck\obj\Debug\CheckAndRadioCheck.pdb

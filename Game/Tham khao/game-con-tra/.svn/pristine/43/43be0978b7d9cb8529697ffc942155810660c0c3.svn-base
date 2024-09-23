@@ -1,0 +1,110 @@
+﻿Build started 1/24/2015 12:29:48 AM.
+     1>Project "G:\TAI LIEU HOC TAP\UIT\HKVII\Game\SourceGameContraFinal\trunk\GameTutorial\GameTutorial.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt CContra.cpp
+         CContra.cpp
+         c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+     1>g:\tai lieu hoc tap\uit\hkvii\game\sourcegamecontrafinal\trunk\gametutorial\ccontra.cpp(1377): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+     1>g:\tai lieu hoc tap\uit\hkvii\game\sourcegamecontrafinal\trunk\gametutorial\ccontra.cpp(1383): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+     1>g:\tai lieu hoc tap\uit\hkvii\game\sourcegamecontrafinal\trunk\gametutorial\ccontra.cpp(2253): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\tai lieu hoc tap\uit\hkvii\game\sourcegamecontrafinal\trunk\gametutorial\ccontra.cpp(2257): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\tai lieu hoc tap\uit\hkvii\game\sourcegamecontrafinal\trunk\gametutorial\ccontra.cpp(2261): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\tai lieu hoc tap\uit\hkvii\game\sourcegamecontrafinal\trunk\gametutorial\ccontra.cpp(2265): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\tai lieu hoc tap\uit\hkvii\game\sourcegamecontrafinal\trunk\gametutorial\ccontra.cpp(2269): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\tai lieu hoc tap\uit\hkvii\game\sourcegamecontrafinal\trunk\gametutorial\ccontra.cpp(2286): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\tai lieu hoc tap\uit\hkvii\game\sourcegamecontrafinal\trunk\gametutorial\ccontra.cpp(2291): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\tai lieu hoc tap\uit\hkvii\game\sourcegamecontrafinal\trunk\gametutorial\ccontra.cpp(2295): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\tai lieu hoc tap\uit\hkvii\game\sourcegamecontrafinal\trunk\gametutorial\ccontra.cpp(2299): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\tai lieu hoc tap\uit\hkvii\game\sourcegamecontrafinal\trunk\gametutorial\ccontra.cpp(2302): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\tai lieu hoc tap\uit\hkvii\game\sourcegamecontrafinal\trunk\gametutorial\ccontra.cpp(2306): warning C4715: 'CContra::GetBox' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\TAI LIEU HOC TAP\UIT\HKVII\Game\SourceGameContraFinal\trunk\GameTutorial\Debug\GameTutorial.exe" /INCREMENTAL /NOLOGO d3d9.lib d3dx9.lib dxguid.lib dxerr.lib dinput8.lib winmm.lib dsound.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\TAI LIEU HOC TAP\UIT\HKVII\Game\SourceGameContraFinal\trunk\GameTutorial\Debug\GameTutorial.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\TAI LIEU HOC TAP\UIT\HKVII\Game\SourceGameContraFinal\trunk\GameTutorial\Debug\GameTutorial.lib" /MACHINE:X86 Debug\CAnimation.obj
+         Debug\CBossArm.obj
+         Debug\CBigCapsule.obj
+         Debug\CBigstone.obj
+         Debug\CBridgeFire.obj
+         Debug\CBullet.obj
+         Debug\CBulletCapsule.obj
+         Debug\CBulletEffect.obj
+         Debug\CBulletF.obj
+         Debug\CBulletItem.obj
+         Debug\CBulletL.obj
+         Debug\CBulletLaze.obj
+         Debug\CBulletM.obj
+         Debug\CBulletMechanicalAlien.obj
+         Debug\CBulletN.obj
+         Debug\CBulletS.obj
+         Debug\CBulletScubaSolider.obj
+         Debug\CCamera.obj
+         Debug\CChooseItem.obj
+         Debug\CCollision.obj
+         Debug\CContra.obj
+         Debug\CDevice.obj
+         Debug\CDrawObject.obj
+         Debug\CEffectBackground.obj
+         Debug\CExplosionEffect.obj
+         Debug\CFileConfig.obj
+         Debug\CFireBridge.obj
+         Debug\CGameOverItem.obj
+         Debug\CGroundCannon.obj
+         Debug\CGunner.obj
+         Debug\CHeadBoss.obj
+         Debug\CLifeItem.obj
+         Debug\CMechanicalAlien.obj
+         Debug\CMenuGameScense.obj
+         Debug\CScense.obj
+         Debug\CScenseManagement.obj
+         Debug\CScoreScense.obj
+         Debug\CScubaSolider.obj
+         Debug\CSniper.obj
+         Debug\CSniperBoss.obj
+         Debug\CSoldier.obj
+         Debug\CFactoryDynamicObject.obj
+         Debug\CFactoryStaticObject.obj
+         Debug\CFileUtil.obj
+         Debug\CGame.obj
+         Debug\CGameContra.obj
+         Debug\CGameObject.obj
+         Debug\CHidenObject.obj
+         Debug\CInput.obj
+         Debug\CLoadBackGround.obj
+         Debug\CLoadGameObject.obj
+         Debug\CManagementTexture.obj
+         Debug\CQuadNode.obj
+         Debug\CQuadObject.obj
+         Debug\CQuadTree.obj
+         Debug\CSoldierShoot.obj
+         Debug\CSprite.obj
+         Debug\CState.obj
+         Debug\CStateGamePlay.obj
+         Debug\CStateMenu.obj
+         Debug\CSubArm.obj
+         Debug\CBridgeStone.obj
+         Debug\CSWeapon.obj
+         Debug\CTank.obj
+         Debug\CTexture.obj
+         Debug\CView.obj
+         Debug\CDynamicObject.obj
+         Debug\CWallTurret.obj
+         Debug\CWeapon.obj
+         Debug\CEnemyEffect.obj
+         Debug\CWinScense.obj
+         Debug\CWordItem.obj
+         Debug\main.obj
+         Debug\CStateManagement.obj
+         Debug\CStaticObject.obj
+         Debug\CBulletDefenseCannon.obj
+         Debug\CDefenseCannon.obj
+         Debug\CDefenseCannonGun.obj
+         Debug\CDefenseCannonTurret.obj
+         Debug\CPoolingObject.obj
+         Debug\CBridge.obj
+         Debug\CManageAudio.obj
+         Debug\CSoundUtil.obj
+         Debug\CCapsuleBoss.obj
+         GameTutorial.vcxproj -> G:\TAI LIEU HOC TAP\UIT\HKVII\Game\SourceGameContraFinal\trunk\GameTutorial\Debug\GameTutorial.exe
+     1>Done Building Project "G:\TAI LIEU HOC TAP\UIT\HKVII\Game\SourceGameContraFinal\trunk\GameTutorial\GameTutorial.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.18

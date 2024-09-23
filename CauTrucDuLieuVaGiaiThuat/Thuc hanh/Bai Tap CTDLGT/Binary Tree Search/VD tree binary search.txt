@@ -1,0 +1,231 @@
+ #include "stdafx.h"
+    #include <cstdlib>
+    #include <iostream>
+    #define SIZE 10
+    using namespace std;
+
+    struct Node {
+        int value;
+        Node *left;
+        Node *right;
+        Node *parent;
+    };
+
+    struct BST {
+        Node *root;
+    };
+
+    void insert(int value, BST *tree) {
+        Node *x = tree->root;
+        Node *y = NULL;
+        Node *z = (Node *) malloc(sizeof(Node));
+        z->left = NULL;
+        z->right = NULL;
+        z->value = value;
+
+        // Add your code here
+        while (x!=NULL){
+              y=x;
+              if (z->value < x->value)
+                 x= x->left;
+              else x = x->right;
+        }
+        z->parent=y;
+        if (y==NULL)
+           tree->root=z;
+        else if (z->value <y->value)
+             y->left =z;
+        else y->right =z;
+
+    }
+
+    Node *search(int key, Node *n) {
+        if (n== NULL || key == n->value)
+            return n;
+
+        if (key < n->value)
+            search(key, n->left);
+        else
+            search(key, n->right);
+    }
+
+    Node *min(Node *n) {
+        if (n == NULL || n->left == NULL)
+            return n;
+        else
+            return min(n->left);
+    }
+
+    Node *max(Node *n) {
+        if (n == NULL || n->right == NULL)
+            return n;
+        else
+            return max(n->right);
+    }
+
+    Node *successor(int value, Node *n) {
+        Node *y = NULL;
+
+        Node *x = search(value, n);
+
+        if (x == NULL)
+            return NULL;
+
+        if (x->right != NULL)
+            return min(x->right);
+
+        y = x->parent;
+        while (y != NULL && x == y->right) {
+            x = y;
+            y = y->parent;
+        }
+        return y;
+    }
+
+    Node *predecessor(int value, Node *n) {
+        Node *x = search(value, n);
+        Node *y = NULL;
+        if (x == NULL)
+            return NULL;
+
+        if (x->left != NULL)
+            return max(x->left);
+
+        y = x->parent;
+        while (y != NULL && x == y->left) {
+            x = y;
+            y = y->parent;
+        }
+        return y;
+    }
+
+    Node *remove(int value, BST *tree) {
+        Node *z = search(value, tree->root);
+        Node *y = NULL, *x = NULL;
+
+        if (z == NULL) return NULL;
+
+        if (z->left == NULL || z->right == NULL)
+            y = z;
+        else
+            y = successor(value, z);
+
+        if (y->left != NULL)
+            x = y->left;
+        else
+            x = y->right;
+
+        if (x != NULL)
+            x->parent = y->parent;
+
+        if (y->parent == NULL)
+            tree->root = x;
+        else if (y == y->parent->left)
+            y->parent->left = x;
+        else
+            y->parent->right = x;
+
+        if (y != z) {
+            int tmp = z->value;
+            z->value = y->value;
+            y->value = tmp;
+        }
+
+        return y;
+    }
+
+    // ascending sort function
+    void sortAsc(Node *node) {
+        //Add your code here
+        //inorder
+        if (node->left!=NULL)
+           sortAsc(node->left);
+        cout<<node->value<<" ";
+        if (node->right!=NULL)
+           sortAsc(node->right);
+
+    }
+
+    // descending sort function
+    void sortDes(Node *node) {
+        // Add your code here
+        //inorder
+        if (node->right!=NULL)
+           sortDes(node->right);
+        cout<<node->value<<" ";
+        if (node->left!=NULL)
+           sortDes(node->left);
+
+    }
+
+    void clear(BST *tree) {
+        Node *n = NULL;
+
+        while (tree->root != NULL) {
+            n = remove(tree->root->value, tree);
+            free(n);
+        }
+    }
+
+
+    int main() {
+        int A[] = {3, 5, 10, 4, 8, 9, 1, 4, 7, 6};
+
+        Node *node = NULL;
+        BST *tree = (BST *) malloc(sizeof(BST));
+        tree->root = NULL;
+
+        // build BST tree
+        cout << "Input data:\n\t";
+        for (int i=0; i<SIZE; i++) {
+            cout << A[i] << " ";    // by the way, print it to the console
+            insert(A[i], tree);     // You need to complete TASK 1, so that it can work
+        }
+
+        // sort values in ascending order
+        cout << "\n\nAscending order:\n\t";
+        sortAsc(tree->root);        // You need to complete TASK 2. Otherwise you see nothing in the console
+
+        // sort values in descending order
+        cout << "\n\nDescending order:\n\t";
+        sortDes(tree->root);        // TASK 2 also!
+
+        // Find minimum value
+        if (tree->root != NULL)
+            cout << "\n\nMin: " << min(tree->root)->value;
+
+        // Find maximum value
+        if (tree->root != NULL)
+            cout << "\n\nMax: " << max(tree->root)->value;
+
+        // delete 4
+        cout << "\n\nDelete 4 and add 2";
+        //free(remove(4, tree));    // You need to complete TASK 3, so that remove(int, BST *) function works properly
+                                // we also need to release the resource!!!
+
+        // insert 2
+        insert(2, tree);        // It belongs to TASK 1 too.
+
+        cout << "\n\nAscending order:\n\t";
+        sortAsc(tree->root);        // TASK 2!!
+
+        // Find the successor of 5, -1 means no successor
+        node = search(5, tree->root);
+        cout << "\n\nSearch of 5 is: " << (node != NULL?node->value:-1);
+
+
+        // Find the successor of 5, -1 means no successor
+        node = successor(5, tree->root);
+        cout << "\n\nSuccessor of 5 is: " << (node != NULL?node->value:-1);
+
+        // Find the predecessor of 5. -1 means no predecessor
+        node = predecessor(5, tree->root);
+        cout << "\n\nPredecessor of 5 is: " << (node != NULL?node->value:-1);
+
+        cout << "\n\n";
+
+        // clear all elements
+        clear(tree);            // delete all nodes and release resource
+        free(tree);             // delte the tree too
+        system("Pause");
+    }

@@ -1,0 +1,17 @@
+﻿<Window x:Class="QuanLyKhachSan.View.Windows.ListReport"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Danh Sách Báo Cáo" Height="300" Width="300" KeyDown="Window_KeyDown" FontSize="15" FontFamily="Times New Roman">
+    <Grid>
+        <ListView Name="listReport" MouseDoubleClick="listReport_MouseDoubleClick">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Mã Báo Cáo" DisplayMemberBinding="{Binding idReport}"/>
+                    <GridViewColumn Header="Tên Báo Cáo" DisplayMemberBinding="{Binding nameReport}"/>
+                    <GridViewColumn Header="Ngày Lập" DisplayMemberBinding="{Binding dateBuil}"/>
+                    <GridViewColumn Header="Tháng" DisplayMemberBinding="{Binding month}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Window>

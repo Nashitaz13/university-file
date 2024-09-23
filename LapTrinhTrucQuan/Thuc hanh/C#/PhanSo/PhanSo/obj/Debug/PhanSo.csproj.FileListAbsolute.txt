@@ -1,0 +1,6 @@
+c:\users\bien\documents\visual studio 2013\Projects\PhanSo\PhanSo\bin\Debug\PhanSo.exe.config
+c:\users\bien\documents\visual studio 2013\Projects\PhanSo\PhanSo\bin\Debug\PhanSo.exe
+c:\users\bien\documents\visual studio 2013\Projects\PhanSo\PhanSo\bin\Debug\PhanSo.pdb
+c:\users\bien\documents\visual studio 2013\Projects\PhanSo\PhanSo\obj\Debug\PhanSo.csprojResolveAssemblyReference.cache
+c:\users\bien\documents\visual studio 2013\Projects\PhanSo\PhanSo\obj\Debug\PhanSo.exe
+c:\users\bien\documents\visual studio 2013\Projects\PhanSo\PhanSo\obj\Debug\PhanSo.pdb

@@ -1,0 +1,371 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Texture\Tile\BlockA0.png</Source>
+      <Name>Texture\Tile\BlockA0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Tile\BlockA0.xnb</Output>
+      <Time>2010-05-10T14:27:04+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Tile\BlockA1.png</Source>
+      <Name>Texture\Tile\BlockA1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Tile\BlockA1.xnb</Output>
+      <Time>2010-05-10T14:27:04+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Tile\BlockA2.png</Source>
+      <Name>Texture\Tile\BlockA2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Tile\BlockA2.xnb</Output>
+      <Time>2010-05-10T14:27:04+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Tile\BlockA3.png</Source>
+      <Name>Texture\Tile\BlockA3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Tile\BlockA3.xnb</Output>
+      <Time>2010-05-10T14:27:04+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Tile\BlockA4.png</Source>
+      <Name>Texture\Tile\BlockA4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Tile\BlockA4.xnb</Output>
+      <Time>2010-05-10T14:27:04+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Tile\BlockA5.png</Source>
+      <Name>Texture\Tile\BlockA5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Tile\BlockA5.xnb</Output>
+      <Time>2010-05-10T14:27:04+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Tile\BlockA6.png</Source>
+      <Name>Texture\Tile\BlockA6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Tile\BlockA6.xnb</Output>
+      <Time>2010-05-10T14:27:04+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Tile\Exit.png</Source>
+      <Name>Texture\Tile\Exit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Tile\Exit.xnb</Output>
+      <Time>2010-05-10T14:27:04+07:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\Button\NoSelect.png</Source>
+      <Name>GUI\Button\NoSelect</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\GUI\Button\NoSelect.xnb</Output>
+      <Time>2010-05-10T15:34:16+07:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\Button\Selected.png</Source>
+      <Name>GUI\Button\Selected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\GUI\Button\Selected.xnb</Output>
+      <Time>2010-05-10T15:34:16+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Sprite\Player\Die.png</Source>
+      <Name>Texture\Sprite\Player\Die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Player\Die.xnb</Output>
+      <Time>2010-05-11T13:53:40+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Sprite\Player\Idle.png</Source>
+      <Name>Texture\Sprite\Player\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Player\Idle.xnb</Output>
+      <Time>2010-05-11T13:53:40+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Sprite\Player\Jump.png</Source>
+      <Name>Texture\Sprite\Player\Jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Player\Jump.xnb</Output>
+      <Time>2010-05-11T13:53:40+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Sprite\Player\Run.png</Source>
+      <Name>Texture\Sprite\Player\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Player\Run.xnb</Output>
+      <Time>2010-05-11T13:53:40+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Sprite\Enemy\2\Die.png</Source>
+      <Name>Texture\Sprite\Enemy\2\Die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Enemy\2\Die.xnb</Output>
+      <Time>2010-05-11T13:53:52+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Sprite\Enemy\2\Idle.png</Source>
+      <Name>Texture\Sprite\Enemy\2\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Enemy\2\Idle.xnb</Output>
+      <Time>2010-05-11T13:53:52+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Sprite\Enemy\2\Run.png</Source>
+      <Name>Texture\Sprite\Enemy\2\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Enemy\2\Run.xnb</Output>
+      <Time>2010-05-11T13:53:52+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Tile\Gate.png</Source>
+      <Name>Texture\Tile\Gate</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Tile\Gate.xnb</Output>
+      <Time>2010-05-12T10:07:34+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Tile\Key.png</Source>
+      <Name>Texture\Tile\Key</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Tile\Key.xnb</Output>
+      <Time>2010-05-12T10:07:34+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Overlay\you_died.png</Source>
+      <Name>Texture\Overlay\you_died</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Overlay\you_died.xnb</Output>
+      <Time>2010-05-12T11:29:08+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Overlay\you_win.png</Source>
+      <Name>Texture\Overlay\you_win</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Overlay\you_win.xnb</Output>
+      <Time>2010-05-12T11:30:22+07:00</Time>
+    </Item>
+    <Item>
+      <Source>BackGround.bmp</Source>
+      <Name>BG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\BG.xnb</Output>
+      <Time>2010-05-12T16:12:36+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Sprite\Enemy\3\Die.png</Source>
+      <Name>Texture\Sprite\Enemy\3\Die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Enemy\3\Die.xnb</Output>
+      <Time>2010-05-12T16:15:06+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Sprite\Enemy\3\Idle.png</Source>
+      <Name>Texture\Sprite\Enemy\3\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Enemy\3\Idle.xnb</Output>
+      <Time>2010-05-12T16:15:06+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Sprite\Enemy\3\Run.png</Source>
+      <Name>Texture\Sprite\Enemy\3\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Enemy\3\Run.xnb</Output>
+      <Time>2010-05-12T16:15:06+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Sprite\Enemy\1\Die.png</Source>
+      <Name>Texture\Sprite\Enemy\1\Die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Enemy\1\Die.xnb</Output>
+      <Time>2010-05-12T16:15:12+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Sprite\Enemy\1\Idle.png</Source>
+      <Name>Texture\Sprite\Enemy\1\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Enemy\1\Idle.xnb</Output>
+      <Time>2010-05-12T16:15:12+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Sprite\Enemy\1\Run.png</Source>
+      <Name>Texture\Sprite\Enemy\1\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Enemy\1\Run.xnb</Output>
+      <Time>2010-05-12T16:15:12+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Sprite\Enemy\0\Die.png</Source>
+      <Name>Texture\Sprite\Enemy\0\Die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Enemy\0\Die.xnb</Output>
+      <Time>2010-05-12T16:15:20+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Sprite\Enemy\0\Idle.png</Source>
+      <Name>Texture\Sprite\Enemy\0\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Enemy\0\Idle.xnb</Output>
+      <Time>2010-05-12T16:15:20+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Sprite\Enemy\0\Run.png</Source>
+      <Name>Texture\Sprite\Enemy\0\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Enemy\0\Run.xnb</Output>
+      <Time>2010-05-12T16:15:20+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Sprite\Player\Celebrate.png</Source>
+      <Name>Texture\Sprite\Player\Celebrate</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Player\Celebrate.xnb</Output>
+      <Time>2010-10-19T08:46:38.40625+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Music.wma</Source>
+      <Name>Sound\Music</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Sound\Music.xnb</Output>
+      <Extra>F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Sound\Music.wma</Extra>
+      <Time>2010-05-12T15:33:44+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\ExitReached.wav</Source>
+      <Name>Sound\ExitReached</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Sound\ExitReached.xnb</Output>
+      <Time>2010-10-19T08:51:17.296875+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\GemCollected.wav</Source>
+      <Name>Sound\GemCollected</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Sound\GemCollected.xnb</Output>
+      <Time>2010-10-19T08:51:17.328125+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\PlayerFall.wav</Source>
+      <Name>Sound\PlayerKilled</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Sound\PlayerKilled.xnb</Output>
+      <Time>2010-10-19T08:51:17.328125+07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\Content\</RootDirectory>
+      <LoggerRootDirectory>F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\</LoggerRootDirectory>
+      <IntermediateDirectory>F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-24T02:41:18+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-24T02:41:18+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-24T02:41:18+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-24T02:41:18+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-24T02:41:18+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-24T02:41:18+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-06-03T23:33:39.2085993+07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

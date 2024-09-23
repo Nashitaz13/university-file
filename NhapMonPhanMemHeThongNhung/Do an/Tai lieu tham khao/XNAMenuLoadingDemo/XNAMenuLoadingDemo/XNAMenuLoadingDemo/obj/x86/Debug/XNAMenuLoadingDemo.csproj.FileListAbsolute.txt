@@ -1,0 +1,24 @@
+c:\users\nvmwy41\documents\visual studio 2010\Projects\XNAMenuLoadingDemo\XNAMenuLoadingDemo\XNAMenuLoadingDemo\bin\x86\Debug\Content\orb.xnb
+c:\users\nvmwy41\documents\visual studio 2010\Projects\XNAMenuLoadingDemo\XNAMenuLoadingDemo\XNAMenuLoadingDemo\bin\x86\Debug\XNAMenuLoadingDemo.exe
+c:\users\nvmwy41\documents\visual studio 2010\Projects\XNAMenuLoadingDemo\XNAMenuLoadingDemo\XNAMenuLoadingDemo\bin\x86\Debug\XNAMenuLoadingDemo.pdb
+c:\users\nvmwy41\documents\visual studio 2010\Projects\XNAMenuLoadingDemo\XNAMenuLoadingDemo\XNAMenuLoadingDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\nvmwy41\documents\visual studio 2010\Projects\XNAMenuLoadingDemo\XNAMenuLoadingDemo\XNAMenuLoadingDemo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\nvmwy41\documents\visual studio 2010\Projects\XNAMenuLoadingDemo\XNAMenuLoadingDemo\XNAMenuLoadingDemo\obj\x86\Debug\XNAMenuLoadingDemo.exe
+c:\users\nvmwy41\documents\visual studio 2010\Projects\XNAMenuLoadingDemo\XNAMenuLoadingDemo\XNAMenuLoadingDemo\obj\x86\Debug\XNAMenuLoadingDemo.pdb
+c:\users\nvmwy41\documents\visual studio 2010\Projects\XNAMenuLoadingDemo\XNAMenuLoadingDemo\XNAMenuLoadingDemo\bin\x86\Debug\Content\exit.xnb
+c:\users\nvmwy41\documents\visual studio 2010\Projects\XNAMenuLoadingDemo\XNAMenuLoadingDemo\XNAMenuLoadingDemo\bin\x86\Debug\Content\pause.xnb
+c:\users\nvmwy41\documents\visual studio 2010\Projects\XNAMenuLoadingDemo\XNAMenuLoadingDemo\XNAMenuLoadingDemo\bin\x86\Debug\Content\resume.xnb
+c:\users\nvmwy41\documents\visual studio 2010\Projects\XNAMenuLoadingDemo\XNAMenuLoadingDemo\XNAMenuLoadingDemo\bin\x86\Debug\Content\start.xnb
+c:\users\nvmwy41\documents\visual studio 2010\Projects\XNAMenuLoadingDemo\XNAMenuLoadingDemo\XNAMenuLoadingDemo\bin\x86\Debug\Content\loading.xnb
+C:\Users\Bien\Desktop\XNAMenuLoadingDemo\XNAMenuLoadingDemo\XNAMenuLoadingDemo\bin\x86\Debug\Content\orb.xnb
+C:\Users\Bien\Desktop\XNAMenuLoadingDemo\XNAMenuLoadingDemo\XNAMenuLoadingDemo\bin\x86\Debug\Content\exit.xnb
+C:\Users\Bien\Desktop\XNAMenuLoadingDemo\XNAMenuLoadingDemo\XNAMenuLoadingDemo\bin\x86\Debug\Content\pause.xnb
+C:\Users\Bien\Desktop\XNAMenuLoadingDemo\XNAMenuLoadingDemo\XNAMenuLoadingDemo\bin\x86\Debug\Content\resume.xnb
+C:\Users\Bien\Desktop\XNAMenuLoadingDemo\XNAMenuLoadingDemo\XNAMenuLoadingDemo\bin\x86\Debug\Content\start.xnb
+C:\Users\Bien\Desktop\XNAMenuLoadingDemo\XNAMenuLoadingDemo\XNAMenuLoadingDemo\bin\x86\Debug\Content\loading.xnb
+C:\Users\Bien\Desktop\XNAMenuLoadingDemo\XNAMenuLoadingDemo\XNAMenuLoadingDemo\bin\x86\Debug\XNAMenuLoadingDemo.exe
+C:\Users\Bien\Desktop\XNAMenuLoadingDemo\XNAMenuLoadingDemo\XNAMenuLoadingDemo\bin\x86\Debug\XNAMenuLoadingDemo.pdb
+C:\Users\Bien\Desktop\XNAMenuLoadingDemo\XNAMenuLoadingDemo\XNAMenuLoadingDemo\obj\x86\Debug\XNAMenuLoadingDemo.csprojResolveAssemblyReference.cache
+C:\Users\Bien\Desktop\XNAMenuLoadingDemo\XNAMenuLoadingDemo\XNAMenuLoadingDemo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Bien\Desktop\XNAMenuLoadingDemo\XNAMenuLoadingDemo\XNAMenuLoadingDemo\obj\x86\Debug\XNAMenuLoadingDemo.exe
+C:\Users\Bien\Desktop\XNAMenuLoadingDemo\XNAMenuLoadingDemo\XNAMenuLoadingDemo\obj\x86\Debug\XNAMenuLoadingDemo.pdb

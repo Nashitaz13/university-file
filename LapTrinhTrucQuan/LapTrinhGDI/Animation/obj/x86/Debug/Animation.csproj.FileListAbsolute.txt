@@ -1,0 +1,27 @@
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\Animation\bin\Debug\Animation.exe
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\Animation\bin\Debug\Animation.pdb
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\Animation\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\Animation\obj\x86\Debug\Animation.Animation.resources
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\Animation\obj\x86\Debug\Animation.Properties.Resources.resources
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\Animation\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\Animation\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\Animation\obj\x86\Debug\Animation.exe
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\Animation\obj\x86\Debug\Animation.pdb
+d:\Tai Lieu\Giang day\Lap trinh Windows\Slide\2011\Chuong 05 - GDI - Slide\LapTrinhGDI\Animation\obj\x86\Debug\Animation.exe
+d:\Tai Lieu\Giang day\Lap trinh Windows\Slide\2011\Chuong 05 - GDI - Slide\LapTrinhGDI\Animation\obj\x86\Debug\Animation.pdb
+d:\Tai Lieu\Giang day\Lap trinh Windows\Slide\2011\Chuong 05 - GDI - Slide\LapTrinhGDI\Animation\bin\Debug\Animation.exe
+d:\Tai Lieu\Giang day\Lap trinh Windows\Slide\2011\Chuong 05 - GDI - Slide\LapTrinhGDI\Animation\bin\Debug\Animation.pdb
+d:\Tai Lieu\Giang day\Lap trinh Windows\Slide\2011\Chuong 05 - GDI - Slide\LapTrinhGDI\Animation\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\Tai Lieu\Giang day\Lap trinh Windows\Slide\2011\Chuong 05 - GDI - Slide\LapTrinhGDI\Animation\obj\x86\Debug\Animation.Animation.resources
+d:\Tai Lieu\Giang day\Lap trinh Windows\Slide\2011\Chuong 05 - GDI - Slide\LapTrinhGDI\Animation\obj\x86\Debug\Animation.Properties.Resources.resources
+d:\Tai Lieu\Giang day\Lap trinh Windows\Slide\2011\Chuong 05 - GDI - Slide\LapTrinhGDI\Animation\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\Tai Lieu\Giang day\Lap trinh Windows\Slide\2011\Chuong 05 - GDI - Slide\LapTrinhGDI\Animation\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\NGUYET MINH\UIT-CNPM\CNCQ\LTW\2013\TK\2012\Chuong 05 - GDI - Slide\LapTrinhGDI\Animation\bin\Debug\Animation.exe
+D:\NGUYET MINH\UIT-CNPM\CNCQ\LTW\2013\TK\2012\Chuong 05 - GDI - Slide\LapTrinhGDI\Animation\bin\Debug\Animation.pdb
+D:\NGUYET MINH\UIT-CNPM\CNCQ\LTW\2013\TK\2012\Chuong 05 - GDI - Slide\LapTrinhGDI\Animation\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\NGUYET MINH\UIT-CNPM\CNCQ\LTW\2013\TK\2012\Chuong 05 - GDI - Slide\LapTrinhGDI\Animation\obj\x86\Debug\Animation.Animation.resources
+D:\NGUYET MINH\UIT-CNPM\CNCQ\LTW\2013\TK\2012\Chuong 05 - GDI - Slide\LapTrinhGDI\Animation\obj\x86\Debug\Animation.Properties.Resources.resources
+D:\NGUYET MINH\UIT-CNPM\CNCQ\LTW\2013\TK\2012\Chuong 05 - GDI - Slide\LapTrinhGDI\Animation\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\NGUYET MINH\UIT-CNPM\CNCQ\LTW\2013\TK\2012\Chuong 05 - GDI - Slide\LapTrinhGDI\Animation\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\NGUYET MINH\UIT-CNPM\CNCQ\LTW\2013\TK\2012\Chuong 05 - GDI - Slide\LapTrinhGDI\Animation\obj\x86\Debug\Animation.exe
+D:\NGUYET MINH\UIT-CNPM\CNCQ\LTW\2013\TK\2012\Chuong 05 - GDI - Slide\LapTrinhGDI\Animation\obj\x86\Debug\Animation.pdb

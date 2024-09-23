@@ -1,0 +1,133 @@
+﻿<Window x:Class="QLDKINTERNET.GUI.StupidGui.StupidWindow.SettingsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="SettingsWindow" Height="590.044" Width="920.647" ResizeMode="NoResize">
+    <Grid>
+
+        <GroupBox x:Name="gbModemSetting" Header="Modem"  
+                  Height="170" 
+                  Margin="20,20,20,0" 
+                  AllowDrop="True"
+                  VerticalAlignment="Top"
+                  KeyDown="gbModemSetting_KeyDown">
+            <DockPanel>
+                <StackPanel >
+                    
+                    <DockPanel Width="350" Height="35" HorizontalAlignment="Left" Margin="10,0,0,0" >
+                        <Label Content="Tên Modem: " Height="30" Width="150"/>
+                        <TextBox Name="txtbTenModem" Height="30" Width="200"/>
+                    </DockPanel>
+                    <DockPanel Width="350" Height="35" HorizontalAlignment="Left" Margin="10,0,0,0">
+                        <Label Content="Đơn giá:" Height="30" Width="150"/>
+                        <TextBox Name="txtbGiaModem" Height="30" Width="200" PreviewTextInput="txtbGiaModem_PreviewTextInput"/>
+                    </DockPanel>
+
+                    <DockPanel Width="350" Height="41" HorizontalAlignment="Left" Margin="10,0,0,0">
+                        <Button Name="btnThemMoDem" Height="30" Width="150" Content="Thêm modem" Click="btnThemModem_Click"/>
+                    </DockPanel>
+                </StackPanel>
+                <StackPanel Width="380">
+                    <ListView Name="lvModem" KeyDown="lvModem_KeyDown">
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn Header="STT" DisplayMemberBinding="{Binding Index}" />
+                                <GridViewColumn Header="Mã modem" DisplayMemberBinding="{Binding MaModem}"/>
+                                <GridViewColumn Header="Tên modem" DisplayMemberBinding="{Binding TenModem}"/>
+                                <GridViewColumn Header="Đơn giá" DisplayMemberBinding="{Binding GiaModem}"/>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                </StackPanel>
+            </DockPanel>
+        </GroupBox>
+        
+        <GroupBox Header="Kiểu cài đặt" Margin="20,200,20,0" Height="170" VerticalAlignment="Top"
+                  KeyDown="gbKieuCaiDat_KeyDow">
+            <DockPanel>
+                <StackPanel >
+                    
+                    <DockPanel Width="350" Height="35" HorizontalAlignment="Left" >
+                        <Label Content="Tên kiểu cài đặt:" Height="30" Width="150"/>
+                        <TextBox Name="txtbTenKieuCaiDat" Height="30" Width="200"/>
+                    </DockPanel>
+                    <DockPanel Width="350" Height="35" HorizontalAlignment="Left" >
+                        <Label Content="Đơn giá:" Height="30" Width="150"/>
+                        <TextBox Name="txtbGiaKieuCaiDat" Height="30" Width="200" PreviewTextInput="txtbGiaKieuCaiDat_PreviewTextInput"/>
+                    </DockPanel>
+                    <DockPanel Width="350" Height="42" HorizontalAlignment="Left" Margin="10,0,0,0">
+                        <Button Name="btnThemKieuCaiDat" Height="30" Width="150" Content="Thêm kiểu cài đặt" 
+                            Click="btnThemKieuCaiDat_Click"/>
+                    </DockPanel>
+                </StackPanel>
+                
+                <StackPanel Width="380">
+                    <ListView Name="lvKieuCaiDat" KeyDown="lvKieuCaiDat_KeyDown">
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn Header="STT" DisplayMemberBinding="{Binding Index}" Width="auto"/>
+                                <GridViewColumn Header="Mã kiểu cài đặt" DisplayMemberBinding="{Binding MaKieuCaiDat}" Width="auto"/>
+                                <GridViewColumn Header="Tên kiểu cài đặt" DisplayMemberBinding="{Binding TenKieuCaiDat}" Width="auto"/>
+                                <GridViewColumn Header="Giá kiểu cài đặt" DisplayMemberBinding="{Binding GiaKieuCaiDat}" Width="auto"/>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                </StackPanel>
+            </DockPanel>
+        </GroupBox>
+        <!--gbCaiDatGoiCuoc-->
+        <GroupBox Header="Gói cước" Margin="20,380,20,0" Height="170" VerticalAlignment="Top"
+                  KeyDown="gbGoiCuoc_KeyDow">
+            <DockPanel>
+                <StackPanel >
+                   
+                    <DockPanel Width="350" Height="35" HorizontalAlignment="Left" >
+                        <Label Content="Tên gói cước:" Height="30" Width="150"/>
+                        <TextBox Name="txtbTenGoiCuoc" Height="30" Width="200"/>
+                    </DockPanel>
+                    <DockPanel Width="350" Height="35" HorizontalAlignment="Left" >
+                        <Label Content="Giá trọn gói:" Height="30" Width="150"/>
+                        <TextBox Name="txtbGiaTronGoi" Height="30" Width="200" PreviewTextInput="txtbGiaTronGoi_PreviewTextInput"/>
+                    </DockPanel>
+                    <DockPanel Width="350" Height="40" HorizontalAlignment="Left" Margin="10,0,0,0">
+                        <Button Name="btnThemGoiCuoc" Height="30" Width="150" Content="Thêm gói cước" 
+                            Click="btnThemGoiCuoc_Click"/>
+                    </DockPanel>
+                </StackPanel>
+
+                <StackPanel Width="380">
+                    <ListView Name="lvGoiCuoc" KeyDown="lvGoiCuoc_KeyDown">
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn Header="STT" DisplayMemberBinding="{Binding Index}" Width="auto"/>
+                                <GridViewColumn Header="Mã gói cước" DisplayMemberBinding="{Binding MaGoiCuoc}" Width="auto"/>
+                                <GridViewColumn Header="Tên gói cước" DisplayMemberBinding="{Binding TenGoiCuoc}" Width="auto"/>
+                                <GridViewColumn Header="Giá trọn gói" DisplayMemberBinding="{Binding GiaTronGoi}" Width="auto"/>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                </StackPanel>
+            </DockPanel>
+        </GroupBox>
+
+
+        <!--<GroupBox Header="Cài đặt tài khoản" Margin="20,375,20,0" Height="227" VerticalAlignment="Top"
+                  KeyDown="GroupBox_KeyDown_2"
+                  >
+            <Grid>
+                <Label Content="Tên tài khoản" Height="30" Width="150" Margin="148,10,444,165" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                <TextBox x:Name="tbxUserName" Height="30" Width="200" Margin="350,10,192,165" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                <Label Content="Mật khẩu cũ" Height="30" Width="150" Margin="148,45,444,130" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                <PasswordBox x:Name="pwbOldPassWord" Height="30" Width="200"  Margin="350,46,192,129" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                <PasswordBox x:Name="pwbNewPassWord" Height="30" Width="200"  Margin="350,81,192,94" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                <PasswordBox x:Name="pwbNewPassWord_Copy" Height="30" Width="200"  Margin="350,116,192,59" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                <Button x:Name="btnEditPassWord" Height="30" Content="Đổi mật khẩu" 
+                    		Click="btnEditPassWord_Click" VerticalAlignment="Center" Margin="271,165,271,10"
+                        />
+                <Label Content="Mật khẩu mới" Height="30" Width="150" Margin="148,81,444,94" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                <Label Content="Xác nhận lại mật khẩu mới" Height="30" Margin="148,116,428,59" HorizontalAlignment="Center" Width="166" VerticalAlignment="Center"/>
+            </Grid>
+        </GroupBox>-->
+        
+        
+    </Grid>
+</Window>

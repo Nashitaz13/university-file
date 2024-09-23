@@ -1,0 +1,23 @@
+c:\users\the flash\documents\visual studio 2012\Projects\WindowsFormsApplication1\QLDKINTERNET.Data\bin\Debug\QLDKINTERNET.Data.dll.config
+c:\users\the flash\documents\visual studio 2012\Projects\WindowsFormsApplication1\QLDKINTERNET.Data\bin\Debug\QLDKINTERNET.Data.dll
+c:\users\the flash\documents\visual studio 2012\Projects\WindowsFormsApplication1\QLDKINTERNET.Data\bin\Debug\QLDKINTERNET.Data.pdb
+c:\users\the flash\documents\visual studio 2012\Projects\WindowsFormsApplication1\QLDKINTERNET.Data\obj\Debug\QLDKINTERNET.Data.csprojResolveAssemblyReference.cache
+c:\users\the flash\documents\visual studio 2012\Projects\WindowsFormsApplication1\QLDKINTERNET.Data\obj\Debug\QLDKINTERNET.Data.dll
+c:\users\the flash\documents\visual studio 2012\Projects\WindowsFormsApplication1\QLDKINTERNET.Data\obj\Debug\QLDKINTERNET.Data.pdb
+C:\Users\The Flash\documents\visual studio 2012\Projects\WindowsFormsApplication1\QLDKINTERNET.Data\bin\Debug\QLDKINTERNET.Public.dll
+C:\Users\The Flash\documents\visual studio 2012\Projects\WindowsFormsApplication1\QLDKINTERNET.Data\bin\Debug\QLDKINTERNET.Public.pdb
+E:\PTTKHT\WindowsFormsApplication1\QLDKINTERNET.Data\obj\Debug\QLDKINTERNET.Data.csprojResolveAssemblyReference.cache
+E:\PTTKHT\WindowsFormsApplication1\QLDKINTERNET.Data\obj\Debug\QLDKINTERNET.Data.dll
+E:\PTTKHT\WindowsFormsApplication1\QLDKINTERNET.Data\bin\Debug\QLDKINTERNET.Data.dll.config
+E:\PTTKHT\WindowsFormsApplication1\QLDKINTERNET.Data\bin\Debug\QLDKINTERNET.Data.dll
+E:\PTTKHT\WindowsFormsApplication1\QLDKINTERNET.Data\bin\Debug\QLDKINTERNET.Data.pdb
+E:\PTTKHT\WindowsFormsApplication1\QLDKINTERNET.Data\bin\Debug\QLDKINTERNET.Public.dll
+E:\PTTKHT\WindowsFormsApplication1\QLDKINTERNET.Data\bin\Debug\QLDKINTERNET.Public.pdb
+E:\PTTKHT\WindowsFormsApplication1\QLDKINTERNET.Data\obj\Debug\QLDKINTERNET.Data.pdb
+C:\Users\Canh\Desktop\11520496_11520469_11520352_11520687_2\Project\SourceCode\WindowsFormsApplication1\QLDKINTERNET.Data\bin\Debug\QLDKINTERNET.Data.dll
+C:\Users\Canh\Desktop\11520496_11520469_11520352_11520687_2\Project\SourceCode\WindowsFormsApplication1\QLDKINTERNET.Data\bin\Debug\QLDKINTERNET.Data.pdb
+C:\Users\Canh\Desktop\11520496_11520469_11520352_11520687_2\Project\SourceCode\WindowsFormsApplication1\QLDKINTERNET.Data\bin\Debug\QLDKINTERNET.Public.dll
+C:\Users\Canh\Desktop\11520496_11520469_11520352_11520687_2\Project\SourceCode\WindowsFormsApplication1\QLDKINTERNET.Data\bin\Debug\QLDKINTERNET.Public.pdb
+C:\Users\Canh\Desktop\11520496_11520469_11520352_11520687_2\Project\SourceCode\WindowsFormsApplication1\QLDKINTERNET.Data\obj\Debug\QLDKINTERNET.Data.csprojResolveAssemblyReference.cache
+C:\Users\Canh\Desktop\11520496_11520469_11520352_11520687_2\Project\SourceCode\WindowsFormsApplication1\QLDKINTERNET.Data\obj\Debug\QLDKINTERNET.Data.dll
+C:\Users\Canh\Desktop\11520496_11520469_11520352_11520687_2\Project\SourceCode\WindowsFormsApplication1\QLDKINTERNET.Data\obj\Debug\QLDKINTERNET.Data.pdb

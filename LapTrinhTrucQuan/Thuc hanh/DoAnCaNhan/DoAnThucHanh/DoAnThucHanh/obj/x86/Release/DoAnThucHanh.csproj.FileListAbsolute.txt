@@ -1,0 +1,8 @@
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\DoAnThucHanh\DoAnThucHanh\bin\Release\DoAnThucHanh.exe
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\DoAnThucHanh\DoAnThucHanh\bin\Release\DoAnThucHanh.pdb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\DoAnThucHanh\DoAnThucHanh\obj\x86\Release\DoAnThucHanh.Form1.resources
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\DoAnThucHanh\DoAnThucHanh\obj\x86\Release\DoAnThucHanh.Form2.resources
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\DoAnThucHanh\DoAnThucHanh\obj\x86\Release\DoAnThucHanh.Properties.Resources.resources
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\DoAnThucHanh\DoAnThucHanh\obj\x86\Release\DoAnThucHanh.csproj.GenerateResource.Cache
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\DoAnThucHanh\DoAnThucHanh\obj\x86\Release\DoAnThucHanh.exe
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\DoAnThucHanh\DoAnThucHanh\obj\x86\Release\DoAnThucHanh.pdb

@@ -1,0 +1,18 @@
+﻿ul#submenu {
+    display: none;
+    position:absolute;
+    margin-left:120px;
+    margin-top: -55px;
+    height:auto;
+    }
+ 
+ul#navmenu li:hover > ul#submenu{
+    display: block;
+    }
+
+ul#submenu li a{
+    display:block; 
+    padding: 25px 40px;
+    color:#757575; 
+    text-decoration: none;
+    }

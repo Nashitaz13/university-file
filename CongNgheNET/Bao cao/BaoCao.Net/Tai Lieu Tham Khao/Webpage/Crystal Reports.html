@@ -1,0 +1,868 @@
+<!DOCTYPE html>
+<!-- saved from url=(0063)https://msdn.microsoft.com/en-us/library/aa287920(v=vs.71).aspx -->
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="WT.seg_1" content="en-us"><link rel="canonical" href="https://msdn.microsoft.com/en-us/library/aa287920(v=vs.71).aspx">
+    <title>Crystal Reports</title>
+
+
+
+
+
+
+
+<meta name="DCS.dcsuri" content="/en-us/library/aa287920(d=default,l=en-us,v=vs.71).aspx">
+
+<meta name="NormalizedUrl" content="https://msdn.microsoft.com/en-us/library/aa287920(d=default,l=en-us,v=vs.71).aspx">
+
+<meta name="ms.normalizedurl" content="https://msdn.microsoft.com/en-us/library/aa287920(d=default,l=en-us,v=vs.71).aspx">
+
+<meta name="AmbientContext" content="{&quot;layout.limit_max_width&quot;:true,&quot;AmbientContextId&quot;:&quot;A4C41A24-BF44-4CEC-B578-BBFDE9B33187&quot;,&quot;display.use_large_font&quot;:true,&quot;insight.perf_timing&quot;:true,&quot;AmbientContextDownstream&quot;:{},&quot;display.high_contrast&quot;:false,&quot;insight.use_wedcs_vnext&quot;:true}">
+
+<meta name="VotingContextUrl" content="https://msdn.microsoft.com/en-us/library/aa287920(d=default,l=en-us,v=vs.71).aspx">
+
+<meta name="MN" content="BF1CA93C-7:17:30 PM">
+
+<meta name="Search.ShortId" content="aa287920">
+
+<meta name="ms.shortidmsdn" content="aa287920">
+
+<meta name="ms.locale" content="en-us">
+
+<meta name="ms.prodver" content="VS.71">
+
+<meta name="ms.contentlang" content="EN">
+
+<meta name="ms.lang" content="EN">
+
+<meta name="ms.loc" content="US">
+
+<meta name="ms.sitever" content="2016.06.02.1">
+
+<meta name="ms.assetid" content="VS|crystlmn|~\html\crconcrystalreports.htm">
+
+<meta name="ms.auth" content="0">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    
+    
+
+
+
+
+
+
+
+
+
+    <script type="text/javascript" src="./Crystal Reports_files/ai.0.js" async=""></script><script type="text/javascript" data-do-not-move="true">
+        //<![CDATA[
+        var AmbientContext = null;
+
+        (function(){
+            var root = (function(){return this;}).call(null);
+
+            var GetCookie = function(name){
+                var cookies = root.document.cookie ? root.document.cookie.split('; ') : [];
+                for (var i = 0; i < cookies.length; i++) {
+                    var pos = cookies[i].indexOf('=');
+                    if (name === root.decodeURIComponent(cookies[i].slice(0, pos)))
+                    {
+                        var cookie = cookies[i].slice(pos + 1).replace(/\+/g, ' ');
+                        cookie = root.decodeURIComponent(cookie);
+                        return cookie;
+                    }
+                }
+            };
+
+            var JsonDeserialize = function(content) {
+                return root.JSON && root.JSON.parse ? root.JSON.parse(content) : (new Function('return (' + content + ')'))();
+            };
+
+            try {
+                AmbientContext = GetCookie('AmbientContext');
+                AmbientContext = AmbientContext && JsonDeserialize(AmbientContext);
+            } catch(ex) {
+            } finally {
+                AmbientContext = AmbientContext || null;
+            }
+        })();
+        //]]>
+    </script>
+
+    <script type="text/javascript" src="./Crystal Reports_files/jquery-1.9.1.min.js" data-do-not-move="true" data-provides="jQuery"></script><style></style>
+    
+<link rel="stylesheet" type="text/css" href="./Crystal Reports_files/Combined.css"><script class="mtps-injected">try {
+/**/
+(window.MTPS || (window.MTPS = {})).cdnDomains || (window.MTPS.cdnDomains = { 
+	"image": "https://i-msdn.sec.s-msft.com", 
+	"js": "https://i2-msdn.sec.s-msft.com", 
+	"css": "https://i-msdn.sec.s-msft.com", 
+	"ttf": "https://i-msdn.sec.s-msft.com"
+});
+/**/
+} finally { MTPS._injectNextScript_0 && MTPS._injectNextScript_0(); }</script><script class="mtps-injected">try {
+//
+
+        window.appInsightsId = '5eb1b2eb-c47a-497a-a7ac-a1c230b2882f';
+        //
+} finally { MTPS._injectNextScript_1 && MTPS._injectNextScript_1(); }</script><script class="mtps-injected" src="./Crystal Reports_files/Combined.js"></script><link href="./Crystal Reports_files/PrintView.css" rel="stylesheet" type="text/css" media="print"><meta name="ms.layout_limit_max_width" content="true"><meta name="ms.AmbientContextId" content="A4C41A24-BF44-4CEC-B578-BBFDE9B33187"><meta name="ms.display_use_large_font" content="true"><meta name="ms.insight_perf_timing" content="true"><meta name="ms.AmbientContextDownstream" content="%7B%7D"><meta name="ms.display_high_contrast" content="false"><meta name="ms.insight_use_wedcs_vnext" content="true"><meta name="ms.perf.timing" content=",,3566,3566,3566,3568,5305,5307,5307,6949,6949,7307,,,"><script type="text/javascript" src="./Crystal Reports_files/ms.js"></script><script type="text/javascript" src="./Crystal Reports_files/jsll-3.2.0.js"></script><script class="mtps-injected" src="./Crystal Reports_files/SearchBox.jss"></script><script class="mtps-injected" src="./Crystal Reports_files/Combined(1).js"></script><script src="./Crystal Reports_files/broker.js"></script><script class="mtps-injected">try {
+$(document).ready(function() {
+        try {
+            var token = $("#globalRequestVerification input[name='__RequestVerificationToken']").clone();
+            $("#siteFeedbackForm").append(token);
+        } catch(err) {
+            
+        }
+    });
+} finally { MTPS._injectNextScript_5 && MTPS._injectNextScript_5(); }</script></head>
+<body class="library Chrome">
+    <div id="page">
+
+        
+
+        
+    
+
+    
+    <link type="text/css" rel="stylesheet">
+    
+        
+        
+    <input type="hidden" id="isHeaderBleeding" value="true">
+    <div id="ux-header" dir="ltr" class="ltr msdn" data-device-type="desktop">
+        
+
+      <header ms.pgarea="header">
+        <span id="singleCol"></span>
+        <span id="doubleCol"></span>
+        <span id="isMobile"></span>
+        <div>
+          <div class="row topRow">
+            <div class="top">
+              <div class="left">
+                <a class="msdnLogoImg" href="https://msdn.microsoft.com/en-us" title="MSDN home">
+                  <div id="msft-logo" class="msft-logo"></div>
+                </a>
+                <div class="GrayPipe"></div>
+                  <a class="DevCenterFullNameNonMegaBlade" href="https://msdn.microsoft.com/en-us">Developer Network</a>
+                <a class="DevCenterFullName" href="https://msdn.microsoft.com/en-us">Developer Network</a>
+                <a class="DevCenterShortName" href="https://msdn.microsoft.com/en-us">Developer</a>
+              </div>
+              <div class="right">
+                <div id="signIn">
+
+  <div class="profileImage"></div>
+
+
+
+<a class="scarabLink" href="https://login.live.com/login.srf?wa=wsignin1.0&amp;rpsnv=12&amp;ct=1466821050&amp;rver=6.7.6640.0&amp;wp=mcmbi&amp;wlcxt=msdn%24msdn%24msdn&amp;wreply=https%3a%2f%2fmsdn.microsoft.com%2fen-us%2flibrary%2faa287920%2528v%3dvs.71%2529.aspx&amp;lc=1033&amp;id=254354&amp;mkt=en-us">Sign in</a></div>
+
+
+
+
+                <div class="auxNav">
+                  <div>
+                    <div data-fragmentname="Subscriptions" id="Fragment_Subscriptions" xmlns="http://www.w3.org/1999/xhtml">
+  <a href="https://msdn.microsoft.com/subscriptions/manage/hh442900" id="Subscriptions_2153_1" xmlns="http://www.w3.org/1999/xhtml">MSDN subscriptions</a>
+</div>
+                    <div data-fragmentname="GetTools" id="Fragment_GetTools" xmlns="http://www.w3.org/1999/xhtml">
+  <a href="http://go.microsoft.com/fwlink/?LinkId=309297&amp;clcid=0x409&amp;slcid=0x409&amp;campaign=o~msft~msdn~gettools-header~dn308572" id="GetTools_2153_3" xmlns="http://www.w3.org/1999/xhtml">Get tools</a>
+</div>
+                  </div>
+                        <div>
+                            
+                        </div>
+                </div>
+              </div>
+            </div>
+
+          </div>
+          <div class="row middleRow">
+            <div class="expandTop" style="display: none;">
+              <div class="left"></div>
+              <div class="right"></div>
+            </div>
+          </div>
+        </div>
+        <div id="buttomRowWrapper" class="bg_default">
+          <div class="row buttomRow bg_default">
+            <div class="bottom">
+              <div class="left">
+                <a id="grip" class="menu-icon" href="javascript:void(0)"></a>
+                
+                <div id="drawer">
+                  <div class="toc">
+                    
+        <nav>
+            <ul class="navL1" ms.cmpgrp="main nav">
+                        <li class="inactive toggle">
+                            <a href="javascript:void(0)">Technologies</a>
+                                <ul class="navL2" style="display: none;">
+                                        <li class="inactive">
+                                            <a href="https://msdn.microsoft.com/app-development-msdn" title="App Development">App Development</a>
+
+                                                   
+                                        </li>
+                                        <li class="inactive">
+                                            <a href="https://msdn.microsoft.com/cloud-app-development-msdn" title="Cloud">Cloud</a>
+
+                                                   
+                                        </li>
+                                        <li class="inactive">
+                                            <a href="https://msdn.microsoft.com/web-app-development-msdn" title="Web">Web</a>
+
+                                                   
+                                        </li>
+                                        <li class="inactive">
+                                            <a href="https://msdn.microsoft.com/big-data-development-msdn" title="Data">Data</a>
+
+                                                   
+                                        </li>
+                                        <li class="inactive">
+                                            <a href="https://msdn.microsoft.com/games-development-msdn" title="Gaming">Gaming</a>
+
+                                                   
+                                        </li>
+                                        <li class="inactive">
+                                            <a href="https://msdn.microsoft.com/internetofthings" title="Internet of Things">Internet of Things</a>
+
+                                                   
+                                        </li>
+                                </ul>
+                        </li>
+                        <li class="inactive toggle">
+                            <a href="javascript:void(0)">Downloads</a>
+                                <ul class="navL2" style="display: none;">
+                                        <li class="inactive">
+                                            <a href="https://www.visualstudio.com/downloads/download-visual-studio-vs" title="Visual Studio">Visual Studio</a>
+
+                                                   
+                                        </li>
+                                        <li class="inactive">
+                                            <a href="https://msdn.microsoft.com/subscriptions" title="MSDN subscription access">MSDN subscription access</a>
+
+                                                   
+                                        </li>
+                                        <li class="inactive">
+                                            <a href="https://msdn.microsoft.com/microsoft-sdks-msdn" title="SDKs">SDKs</a>
+
+                                                   
+                                        </li>
+                                        <li class="inactive toggle">
+                                            <a href="javascript:void(0)" title="Trial software">Trial software</a>
+
+                                                <ul class="navL3" style="display: none;">
+                                                        <li class="inactive">
+                                                            <a href="https://msdn.microsoft.com/evalcenter" title="Free downloads">Free downloads</a>
+                                                        </li>
+                                                        <li class="inactive">
+                                                            <a href="https://msdn.microsoft.com/officeevaluationresources" title="Office resources">Office resources</a>
+                                                        </li>
+                                                        <li class="inactive">
+                                                            <a href="https://msdn.microsoft.com/sharepoint2013resources" title="SharePoint Server 2013 resources">SharePoint Server 2013 resources</a>
+                                                        </li>
+                                                        <li class="inactive">
+                                                            <a href="https://msdn.microsoft.com/sqlserver2014expressresources" title="SQL Server 2014 Express resources">SQL Server 2014 Express resources</a>
+                                                        </li>
+                                                        <li class="inactive">
+                                                            <a href="https://msdn.microsoft.com/windowsserver2012r2resources" title="Windows Server 2012 resources">Windows Server 2012 resources</a>
+                                                        </li>
+                                                </ul>
+                                                   
+                                        </li>
+                                </ul>
+                        </li>
+                        <li class="inactive toggle">
+                            <a href="javascript:void(0)">Programs</a>
+                                <ul class="navL2" style="display: none;">
+                                        <li class="inactive toggle">
+                                            <a href="javascript:void(0)" title="MSDN subscriptions">MSDN subscriptions</a>
+
+                                                <ul class="navL3" style="display: none;">
+                                                        <li class="inactive">
+                                                            <a href="https://msdn.microsoft.com/msdn-subscriptions-overview" title="Overview">Overview</a>
+                                                        </li>
+                                                        <li class="inactive">
+                                                            <a href="https://msdn.microsoft.com/benefits-overview" title="Benefits">Benefits</a>
+                                                        </li>
+                                                        <li class="inactive">
+                                                            <a href="https://msdn.microsoft.com/msdn-subscriptions-administration" title="Administrators">Administrators</a>
+                                                        </li>
+                                                </ul>
+                                                   
+                                        </li>
+                                        <li class="inactive toggle">
+                                            <a href="javascript:void(0)" title="Students">Students</a>
+
+                                                <ul class="navL3" style="display: none;">
+                                                        <li class="inactive">
+                                                            <a href="https://msdn.microsoft.com/imagine/imagine-home" title="Microsoft Imagine">Microsoft Imagine</a>
+                                                        </li>
+                                                        <li class="inactive">
+                                                            <a href="https://msdn.microsoft.com/microsoftstudentpartners" title="Microsoft Student Partners">Microsoft Student Partners</a>
+                                                        </li>
+                                                </ul>
+                                                   
+                                        </li>
+                                        <li class="inactive toggle">
+                                            <a href="javascript:void(0)" title="Architects">Architects</a>
+
+                                                <ul class="navL3" style="display: none;">
+                                                        <li class="inactive">
+                                                            <a href="https://msdn.microsoft.com/architects-overview-msdn" title="Overview">Overview</a>
+                                                        </li>
+                                                        <li class="inactive">
+                                                            <a href="https://msdn.microsoft.com/architects-case-studies-msdn" title="Case studies">Case studies</a>
+                                                        </li>
+                                                        <li class="inactive">
+                                                            <a href="https://msdn.microsoft.com/architects-blueprints-msdn" title="Blueprints">Blueprints</a>
+                                                        </li>
+                                                        <li class="inactive">
+                                                            <a href="http://blogs.msdn.com/b/msarchitecture/" title="Blog">Blog</a>
+                                                        </li>
+                                                        <li class="inactive">
+                                                            <a href="http://social.msdn.microsoft.com/forums/en-us/home?brandignore=true&amp;sort=relevancedesc&amp;searchterm=architecture+or+architect" title="Forums">Forums</a>
+                                                        </li>
+                                                </ul>
+                                                   
+                                        </li>
+                                        <li class="inactive">
+                                            <a href="https://msdn.microsoft.com/applicationbuilder" title="ISV">ISV</a>
+
+                                                   
+                                        </li>
+                                        <li class="inactive">
+                                            <a href="https://www.microsoft.com/bizspark" title="Startups">Startups</a>
+
+                                                   
+                                        </li>
+                                        <li class="inactive">
+                                            <a href="https://rewards.msdn.microsoft.com/" title="TechRewards">TechRewards</a>
+
+                                                   
+                                        </li>
+                                        <li class="inactive">
+                                            <a href="http://events.msdn.microsoft.com/" title="Events">Events</a>
+
+                                                   
+                                        </li>
+                                </ul>
+                        </li>
+                        <li class="inactive toggle">
+                            <a href="javascript:void(0)">Community</a>
+                                <ul class="navL2" style="display: none;">
+                                        <li class="inactive">
+                                            <a href="https://msdn.microsoft.com/magazine/dd767791" title="Magazine">Magazine</a>
+
+                                                   
+                                        </li>
+                                        <li class="inactive">
+                                            <a href="https://social.msdn.microsoft.com/forums/" title="Forums">Forums</a>
+
+                                                   
+                                        </li>
+                                        <li class="inactive">
+                                            <a href="https://blogs.msdn.microsoft.com/" title="Blogs">Blogs</a>
+
+                                                   
+                                        </li>
+                                        <li class="inactive">
+                                            <a href="http://tech-advisors.msdn.microsoft.com/en-us" title="Tech Advisors">Tech Advisors</a>
+
+                                                   
+                                        </li>
+                                        <li class="inactive">
+                                            <a href="http://channel9.msdn.com/" title="Channel 9">Channel 9</a>
+
+                                                   
+                                        </li>
+                                </ul>
+                        </li>
+                        <li class="inactive current toggle">
+                            <a href="javascript:void(0)">Documentation</a>
+                                <ul class="navL2" style="display: none;">
+                                        <li class="inactive current">
+                                            <a href="https://msdn.microsoft.com/library" title="APIs and reference">APIs and reference</a>
+
+                                                   
+                                        </li>
+                                        <li class="inactive">
+                                            <a href="https://msdn.microsoft.com/developer-centers-msdn" title="Dev centers">Dev centers</a>
+
+                                                   
+                                        </li>
+                                </ul>
+                        </li>
+                        <li class="inactive">
+                            <a href="https://code.msdn.microsoft.com/">Samples</a>
+                        </li>
+            </ul>
+        </nav>
+
+                  </div>
+                </div>
+              </div>
+              <div class="right">
+                <div data-fragmentname="SearchBox" id="Fragment_SearchBox" xmlns="http://www.w3.org/1999/xhtml">
+  <div class="SearchBox">
+    <form id="HeaderSearchForm" name="HeaderSearchForm" method="get">
+      <button id="FakeHeaderSearchButton" value="Search" type="submit" class="header-search-button" ms.interactiontype="2" ms.title="search" ms.pgarea="header" ms.searchtype="icon">
+        <div id="search-finder" class="search-finder"></div>
+      </button>
+      <button id="HeaderSearchButton" style="display:none" data-searchtype="icon" data-pgarea="header" title="Search MSDN" ms.interactiontype="2" ms.title="search" ms.pgarea="header" ms.searchtype="icon"></button>
+      <div id="searchSplitter"></div>
+      <div id="searchCloseIcon" class="search-clear-x"></div>
+      <div id="searchTextContainer" style="width: 0px; display: none;">
+        <input id="HeaderSearchTextBox" name="query" type="text" maxlength="200" onfocus="Epx.Controls.SearchBox.watermarkFocus(event, this.title)" onblur="Epx.Controls.SearchBox.watermarkBlur(event, this.title)" autocomplete="off" data-searchtype="searchbox" data-pgarea="header" ms.interactiontype="2" ms.title="search" ms.pgarea="header" ms.searchtype="enter-key">
+      <div id="SearchFlyoutContainer" style="display: none; text-align: left; border: 1px solid buttonshadow; position: absolute; z-index: 1000; padding: 2px; color: rgb(255, 255, 255); font-family: Arial; font-size: 16px; background-color: rgb(255, 255, 255);"><div id="SuggestionContainer"><ul data-pgarea="header" data-searchtype="search dropdown" ms.interactiontype="2" ms.title="search" ms.pgarea="header" ms.searchtype="suggested keyword" style="list-style: none; padding: 4px 2px 0px 1px; cursor: pointer; margin: 1px; white-space: nowrap;"></ul></div></div></div>
+    </form>
+    
+    
+  </div>
+</div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </header>
+
+    <div id="overlayMaskHeader"></div></div>
+
+    
+    
+    
+    <div id="jumpInfo" style="display: none">We’re sorry. The content you requested has been removed. You’ll be auto redirected in 1 second.</div>
+
+
+
+
+
+<link type="text/css" rel="stylesheet">
+<link type="text/css" rel="stylesheet">
+
+
+    <div id="breadcrumbs" ms.pgarea="body" ms.cmpgrp="breadcrumbs">
+        <div id="breadcrumbDesktop" class="breadCrumb">
+                        <span class="breadcrumbEllipsis"><a href="https://msdn.microsoft.com/en-us/library/aa187916.aspx" title="Development Tools and Languages"></a></span>
+                        <span><a href="https://msdn.microsoft.com/en-us/library/aa973739(v=vs.71).aspx" title="Visual Studio .NET"><span>Visual Studio .NET</span></a></span>
+                        <span><a href="https://msdn.microsoft.com/en-us/library/h8w79z10(v=vs.71).aspx" title="Developing with Visual Studio .NET"><span>Developing with Visual Studio .NET</span></a></span>
+                        <span class="breadcrumbDropSmall">
+                            <a id="breadcrumbDropDownButton" href="https://msdn.microsoft.com/en-us/library/aa287920(v=vs.71).aspx#" targethref="https://msdn.microsoft.com/en-us/library/h8w79z10(v=vs.71).aspx" title="Designing Distributed Applications"><span>Designing Distributed Applications</span></a>
+                        </span>
+        </div>
+        <div id="breadcrumbDropDownMenu" style="display: none;"></div>
+        <div id="tocDropDownMenu" style="display: none;"></div>
+
+        <div id="breadcrumbTablet" class="breadCrumb">
+                        <span class="breadcrumbEllipsis"><a href="https://msdn.microsoft.com/en-us/library/h8w79z10(v=vs.71).aspx" title="Developing with Visual Studio .NET"></a></span>
+                    <span><a href="https://msdn.microsoft.com/en-us/library/aa292470(v=vs.71).aspx" title="Designing Distributed Applications"><span>Designing Distributed Applications</span></a></span>
+                <span class="breadcrumbDropSmall"><a id="tocDropDownButton" href="https://msdn.microsoft.com/en-us/library/aa287920(v=vs.71).aspx#" title="Crystal Reports"><span>Crystal Reports</span></a></span>
+        <div id="navigationButtons" style="display: none;">
+            <a id="isd_print" href="https://msdn.microsoft.com/en-us/library/aa287920(d=printer,v=vs.71).aspx" rel="nofollow"><ins class="print"></ins>Print </a>
+            <a id="isd_printABook" href="https://msdn.microsoft.com/en-us/library/export/help/?returnurl=%2fen-us%2flibrary%2faa287920(v%3dvs.71).aspx">
+                <ins class="export"></ins>Export (<span class="count">0</span>)
+            </a>
+        </div></div>
+        <div id="breadcrumbMobile" class="breadCrumb">
+                <span class="breadcrumbEllipsis"><a href="https://msdn.microsoft.com/en-us/library/aa292470(v=vs.71).aspx" title="Designing Distributed Applications"></a></span>
+            <span class="breadcrumbDropSmall"><a id="tocPopupButton" href="https://msdn.microsoft.com/en-us/library/aa287920(v=vs.71).aspx#" title="Crystal Reports"><span>Crystal Reports</span></a></span>
+        <div id="navigationButtons" style="display: none;">
+            <a id="isd_print" href="https://msdn.microsoft.com/en-us/library/aa287920(d=printer,v=vs.71).aspx" rel="nofollow"><ins class="print"></ins>Print </a>
+            <a id="isd_printABook" href="https://msdn.microsoft.com/en-us/library/export/help/?returnurl=%2fen-us%2flibrary%2faa287920(v%3dvs.71).aspx">
+                <ins class="export"></ins>Export (<span class="count">0</span>)
+            </a>
+        </div></div>
+    </div>
+    <div id="tocPopupMenu" style="display: none;">
+        <div id="tocPopMenuClose" class="tocCloseLarge"></div>
+        <div id="tocTitle">Crystal Reports</div>        
+    </div>
+
+    
+
+
+        <div id="body" ms.pgarea="body">
+            <span id="tabletView_large"></span>
+            <span id="tabletView_small"></span>
+            <span id="mobileView"></span>
+            
+
+
+
+
+
+
+
+
+
+    <div id="leftNav" ms.cmpgrp="left toc" style="height: auto;">
+
+
+
+
+
+<div id="tocnav" class=" ArchiveV2" style="">
+    <div class="tocunselected">
+        <div id="tocExpandArea" style="display: block;">
+            <span class="toc_empty"></span>
+            <span id="tocExpandButton"><a href="https://msdn.microsoft.com/en-us/library/aa287920(v=vs.71).aspx#"></a></span>
+        </div>
+        <div id="tocExpand"><div class="toclevel  archive" data-toclevel="1">
+<span class="toc_empty"></span><a href="https://msdn.microsoft.com/en-us/library/aa291344(v=vs.71).aspx" mtpsaliasid="" mtpsassetid="" mtpsshortid="" title="Architectural Shifts and Developer Challenges">Architectural Shifts and Developer Challenges</a>                <a href="https://msdn.microsoft.com/en-us/library/aa287920(v=vs.71).aspx#" title="The document is archived and information here might be outdated"></a></div><div class="toclevel  archive" data-toclevel="1">
+<span class="toc_empty"></span><a href="https://msdn.microsoft.com/en-us/library/aa291332(v=vs.71).aspx" mtpsaliasid="" mtpsassetid="" mtpsshortid="" title="An Overview of Distributed Applications">An Overview of Distributed Applications</a>                <a href="https://msdn.microsoft.com/en-us/library/aa287920(v=vs.71).aspx#" title="The document is archived and information here might be outdated"></a></div><div class="toclevel  archive" data-toclevel="1">
+<a class="toc_collapsed" href="https://msdn.microsoft.com/en-us/library/aa287920(v=vs.71).aspx#" aria-label="Expand the table of content"></a><a data-tochassubtree="true" href="https://msdn.microsoft.com/en-us/library/aa291862(v=vs.71).aspx" id="aa287264_VS.71_en-us" mtpsaliasid="" mtpsassetid="" mtpsshortid="" title="Design Goals">Design Goals</a>                <a href="https://msdn.microsoft.com/en-us/library/aa287920(v=vs.71).aspx#" title="The document is archived and information here might be outdated"></a></div><div class="toclevel  archive" data-toclevel="1">
+<a class="toc_collapsed" href="https://msdn.microsoft.com/en-us/library/aa287920(v=vs.71).aspx#" aria-label="Expand the table of content"></a><a data-tochassubtree="true" href="https://msdn.microsoft.com/en-us/library/aa292478(v=vs.71).aspx" id="aa287292_VS.71_en-us" mtpsaliasid="" mtpsassetid="" mtpsshortid="" title="Planning Distributed Applications">Planning Distributed Applications</a>                <a href="https://msdn.microsoft.com/en-us/library/aa287920(v=vs.71).aspx#" title="The document is archived and information here might be outdated"></a></div><div class="toclevel  archive" data-toclevel="1">
+<span class="toc_empty"></span><a href="https://msdn.microsoft.com/en-us/library/9t8zkaxa(v=vs.71).aspx" mtpsaliasid="" mtpsassetid="" mtpsshortid="" title="Programming the Web with XML Web Services">Programming the Web with XML Web Services</a>                <a href="https://msdn.microsoft.com/en-us/library/aa287920(v=vs.71).aspx#" title="The document is archived and information here might be outdated"></a></div><div class="toclevel  archive" data-toclevel="1">
+<a class="toc_collapsed" href="https://msdn.microsoft.com/en-us/library/aa287920(v=vs.71).aspx#" aria-label="Expand the table of content"></a><a data-tochassubtree="true" href="https://msdn.microsoft.com/en-us/library/f9yfbax1(v=vs.71).aspx" id="aa287323_VS.71_en-us" mtpsaliasid="" mtpsassetid="" mtpsshortid="" title="Enterprise Templates for Distributed Applications">Enterprise Templates for Distributed Applications</a>                <a href="https://msdn.microsoft.com/en-us/library/aa287920(v=vs.71).aspx#" title="The document is archived and information here might be outdated"></a></div></div>
+    <div class="toclevel  archive" data-toclevel="1">
+<a class="toc_collapsed" href="https://msdn.microsoft.com/en-us/library/aa287920(v=vs.71).aspx#" aria-label="Expand the table of content"></a><a data-tochassubtree="true" href="https://msdn.microsoft.com/en-us/library/aa290752(v=vs.71).aspx" id="aa287395_VS.71_en-us" mtpsaliasid="" mtpsassetid="" mtpsshortid="" title="Data Design">Data Design</a>                <a href="https://msdn.microsoft.com/en-us/library/aa287920(v=vs.71).aspx#" title="The document is archived and information here might be outdated"></a></div><div class="toclevel  archive" data-toclevel="1">
+<a class="toc_collapsed" href="https://msdn.microsoft.com/en-us/library/aa287920(v=vs.71).aspx#" aria-label="Expand the table of content"></a><a data-tochassubtree="true" href="https://msdn.microsoft.com/en-us/library/y5a4ezk9(v=vs.71).aspx" id="aa287150_VS.71_en-us" mtpsaliasid="" mtpsassetid="" mtpsshortid="" title="Visual Database Tools">Visual Database Tools</a>                <a href="https://msdn.microsoft.com/en-us/library/aa287920(v=vs.71).aspx#" title="The document is archived and information here might be outdated"></a></div><div class="toclevel  archive" data-toclevel="1">
+<a class="toc_collapsed" href="https://msdn.microsoft.com/en-us/library/aa287920(v=vs.71).aspx#" aria-label="Expand the table of content"></a><a data-tochassubtree="true" href="https://msdn.microsoft.com/en-us/library/aa288393(v=vs.71).aspx" id="aa287041_VS.71_en-us" mtpsaliasid="" mtpsassetid="" mtpsshortid="" title="Developing for Devices">Developing for Devices</a>                <a href="https://msdn.microsoft.com/en-us/library/aa287920(v=vs.71).aspx#" title="The document is archived and information here might be outdated"></a></div></div>
+    <div class="tocselected"><div class="toclevel current archive" data-toclevel="1" data-childrenloaded="true">
+<a class="toc_expanded" href="https://msdn.microsoft.com/en-us/library/aa287920(v=vs.71).aspx#" aria-label="Collapse the table of content"></a><a data-tochassubtree="true" href="https://msdn.microsoft.com/en-us/library/aa287920(v=vs.71).aspx" id="ms296260_VS.71_en-us" mtpsaliasid="" mtpsassetid="" mtpsshortid="" title="Crystal Reports">Crystal Reports</a>                <a href="https://msdn.microsoft.com/en-us/library/aa287920(v=vs.71).aspx#" title="The document is archived and information here might be outdated"></a></div><div class="tocPadding"><div class="toclevel  archive" data-toclevel="2">
+<a class="toc_collapsed" href="https://msdn.microsoft.com/en-us/library/aa287920(v=vs.71).aspx#" aria-label="Expand the table of content"></a><a data-tochassubtree="true" href="https://msdn.microsoft.com/en-us/library/aa287933(v=vs.71).aspx" id="ms296266_VS.71_en-us" mtpsaliasid="" mtpsassetid="" mtpsshortid="" title="Getting Started">Getting Started</a>                <a href="https://msdn.microsoft.com/en-us/library/aa287920(v=vs.71).aspx#" title="The document is archived and information here might be outdated"></a></div><div class="toclevel  archive" data-toclevel="2">
+<a class="toc_collapsed" href="https://msdn.microsoft.com/en-us/library/aa287920(v=vs.71).aspx#" aria-label="Expand the table of content"></a><a data-tochassubtree="true" href="https://msdn.microsoft.com/en-us/library/aa287935(v=vs.71).aspx" id="ms296276_VS.71_en-us" mtpsaliasid="" mtpsassetid="" mtpsshortid="" title="Incorporating Reports into Applications">Incorporating Reports into Applications</a>                <a href="https://msdn.microsoft.com/en-us/library/aa287920(v=vs.71).aspx#" title="The document is archived and information here might be outdated"></a></div><div class="toclevel  archive" data-toclevel="2">
+<a class="toc_collapsed" href="https://msdn.microsoft.com/en-us/library/aa287920(v=vs.71).aspx#" aria-label="Expand the table of content"></a><a data-tochassubtree="true" href="https://msdn.microsoft.com/en-us/library/aa287929(v=vs.71).aspx" id="ms296286_VS.71_en-us" mtpsaliasid="" mtpsassetid="" mtpsshortid="" title="Designing Reports">Designing Reports</a>                <a href="https://msdn.microsoft.com/en-us/library/aa287920(v=vs.71).aspx#" title="The document is archived and information here might be outdated"></a></div><div class="toclevel  archive" data-toclevel="2">
+<a class="toc_collapsed" href="https://msdn.microsoft.com/en-us/library/aa287920(v=vs.71).aspx#" aria-label="Expand the table of content"></a><a data-tochassubtree="true" href="https://msdn.microsoft.com/en-us/library/aa287934(v=vs.71).aspx" id="ms296292_VS.71_en-us" mtpsaliasid="" mtpsassetid="" mtpsshortid="" title="Implementing Runtime Customization">Implementing Runtime Customization</a>                <a href="https://msdn.microsoft.com/en-us/library/aa287920(v=vs.71).aspx#" title="The document is archived and information here might be outdated"></a></div><div class="toclevel  archive" data-toclevel="2">
+<a class="toc_collapsed" href="https://msdn.microsoft.com/en-us/library/aa287920(v=vs.71).aspx#" aria-label="Expand the table of content"></a><a data-tochassubtree="true" href="https://msdn.microsoft.com/en-us/library/aa287928(v=vs.71).aspx" id="ms296300_VS.71_en-us" mtpsaliasid="" mtpsassetid="" mtpsshortid="" title="Deploying Crystal Reports in .NET Applications">Deploying Crystal Reports in .NET Applications</a>                <a href="https://msdn.microsoft.com/en-us/library/aa287920(v=vs.71).aspx#" title="The document is archived and information here might be outdated"></a></div><div class="toclevel  archive" data-toclevel="2">
+<a class="toc_collapsed" href="https://msdn.microsoft.com/en-us/library/aa287920(v=vs.71).aspx#" aria-label="Expand the table of content"></a><a data-tochassubtree="true" href="https://msdn.microsoft.com/en-us/library/aa288199(v=vs.71).aspx" id="ms296329_VS.71_en-us" mtpsaliasid="" mtpsassetid="" mtpsshortid="" title="Samples">Samples</a>                <a href="https://msdn.microsoft.com/en-us/library/aa287920(v=vs.71).aspx#" title="The document is archived and information here might be outdated"></a></div><div class="toclevel  archive" data-toclevel="2">
+<a class="toc_collapsed" href="https://msdn.microsoft.com/en-us/library/aa287920(v=vs.71).aspx#" aria-label="Expand the table of content"></a><a data-tochassubtree="true" href="https://msdn.microsoft.com/en-us/library/aa664260(v=vs.71).aspx" id="ms296349_VS.71_en-us" mtpsaliasid="" mtpsassetid="" mtpsshortid="" title="Reference">Reference</a>                <a href="https://msdn.microsoft.com/en-us/library/aa287920(v=vs.71).aspx#" title="The document is archived and information here might be outdated"></a></div></div></div>
+    <div class="tocunselected">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+    </div>
+    <a id="tocMenuToggler" href="https://msdn.microsoft.com/en-us/library/aa287920(v=vs.71).aspx#">
+        <span id="tocMenuTogglerIcon" class="tocMenuCollapse"></span>
+        <div id="tocMenuTogglerLabel">TOC</div>
+    </a>
+</div>            <div style="display:none">
+                <div id="CollapseLocalizeString">Collapse the table of content</div>
+                <div id="ExpandLocalizeString">Expand the table of content</div>
+            </div>
+        <div>
+            <a id="isd_archiveControlResponsive" style="display:none;" data-include-archive="Show Archived Versions" data-exclude-archive="Hide Archived Versions">
+            </a>
+            <div id="isd_archiveInstrument" style="display:none">The document is archived and information here might be outdated</div>
+        </div>
+    </div>
+     <div id="content" class="content" ms.cmpgrp="content body" style="padding-top: 0px;">
+
+
+
+
+
+
+
+
+        <div id="archiveDisclaimer" style="width: 100%; top: 0px; border-top-style: none; position: relative;">
+            <div class="archiveDisclaimerLeft">
+                <div class="archiveWarning"></div>
+            </div>
+            <div class="archiveDisclaimerRight">
+                <div class="archiveDisclaimerMessage">The document is archived and information here might be outdated</div>
+            </div>
+        </div>
+        
+    <div id="archiveDisclaimerText" style="display:none">The document is archived and information here might be outdated</div>
+
+
+
+<div class="topic" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns="http://www.w3.org/1999/xhtml">
+  <h1 class="title">Crystal Reports</h1>
+  
+  <div class="lw_vs">
+    <div id="curversion">
+      <strong>
+                Visual Studio .NET 2003
+            </strong>
+    </div>
+  </div>
+  <div style="clear:both;"></div>
+  
+  <a name="crconcrystalreports">
+    
+  </a>  <div id="nstext" valign="bottom"> <p>Crystal Reports for Visual Studio .NET is the standard reporting tool for Visual Studio .NET; it brings the ability to create interactive, presentation-quality content — which has been the strength of Crystal Reports for years — to the .NET platform. </p> <h4 class="dtH4">In the Crystal Reports Documentation</h4> <dl> <dt><a href="https://msdn.microsoft.com/en-us/library/aa287933(v=vs.71).aspx">Getting Started</a></dt> <dd>Provides an overview of Crystal Reports for Visual Studio .NET.</dd> <dt><a href="https://msdn.microsoft.com/en-us/library/aa287935(v=vs.71).aspx">Incorporating Reports into Applications</a></dt> <dd>Explains how to create a Web or Windows application that hosts a local report or Report Web Service. </dd> <dt><a href="https://msdn.microsoft.com/en-us/library/aa287929(v=vs.71).aspx">Designing Reports</a></dt> <dd>Explains how to create and format a Crystal Report in the Visual Studio .NET environment.</dd> <dt><a href="https://msdn.microsoft.com/en-us/library/aa287934(v=vs.71).aspx">Implementing Runtime Customization</a></dt> <dd>Explains how to enable users to make changes to reports or report viewers at runtime. </dd> <dt><a href="https://msdn.microsoft.com/en-us/library/aa287928(v=vs.71).aspx">Deploying Crystal Reports in .NET Applications</a></dt> <dd>Explains how to distribute Crystal Report applications to users.</dd> <dt><a href="https://msdn.microsoft.com/en-us/library/aa288199(v=vs.71).aspx">Samples</a></dt> <dd>Contains links to walkthroughs, pre-built sample applications, and sample reports.</dd> <dt><a href="https://msdn.microsoft.com/en-us/library/aa664260(v=vs.71).aspx">Reference</a></dt> <dd>Explains the Crystal Reports architecture and contains the Crystal Reports class library SDK reference. </dd> </dl> <h4 class="dtH4">Related Sections</h4> <dl> <dt><span class="unresolvedLink">Building Applications</span></dt> <dd>Gives information on creating ASP.NET Web applications and Windows Forms applications.</dd> </dl>  </div> </div>
+
+
+
+
+
+
+<div class="libraryMemberFilter">
+    <div class="filterContainer">
+        <span>Show:</span>
+        <label>
+            <input type="checkbox" class="libraryFilterInherited" checked="checked" value="Inherit">Inherited
+        </label>
+        <label>
+            <input type="checkbox" class="libraryFilterProtected" checked="checked" value="Protected">Protected
+        </label>
+    </div>
+</div>
+    
+<input type="hidden" id="libraryMemberFilterEmptyWarning" value="There are no members available with your current filter settings.">
+
+
+
+    </div>
+<div id="rightNavigationMenu" ms.cmpgrp="right nav" style="">
+    <div id="mobileButtons">
+        
+    </div>
+    <div id="navMain">
+        <div id="closeNavigation">
+            <a class="tocCloseSmall" id="closeButton"></a>
+        </div>
+        <div id="navigationButtons" style="display: none;">
+            <a id="isd_print" href="https://msdn.microsoft.com/en-us/library/aa287920(d=printer,v=vs.71).aspx" rel="nofollow"><ins class="print"></ins>Print </a>
+            <a id="isd_printABook2" href="https://msdn.microsoft.com/en-us/library/export/help/?returnurl=%2fen-us%2flibrary%2faa287920(v%3dvs.71).aspx">
+                <ins class="export"></ins>Export (<span class="count">0</span>)
+            </a>
+            <a id="isdShare" href="https://msdn.microsoft.com/en-us/library/aa287920(v=vs.71).aspx#">
+                <ins class="share"></ins>Share
+            </a>
+            <div id="socials" style="display: none">
+                <a class="isdFacebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmsdn.microsoft.com%2Fen-us%2Flibrary%2Faa287920(v%3Dvs.71).aspx">
+                    <ins class="facebook"></ins>
+                </a>
+                <a class="isdTwitter" href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fmsdn.microsoft.com%2Fen-us%2Flibrary%2Faa287920(v%3Dvs.71).aspx&amp;text=Crystal%20Reports&amp;tw_p=tweetbutton&amp;url=https%3A%2F%2Fmsdn.microsoft.com%2Fen-us%2Flibrary%2Faa287920(v%3Dvs.71).aspx">
+                    <ins class="twitter"></ins>
+                </a>
+                <a class="isdGooglePlus" href="https://plus.google.com/share?url=https%3A%2F%2Fmsdn.microsoft.com%2Fen-us%2Flibrary%2Faa287920(v%3Dvs.71).aspx">
+                    <ins class="googlePlus"></ins>
+                </a>
+            </div>
+        </div>
+        <div id="indoc_toc" style="display: none" ms.cmpgrp="indoc toc">
+            <div id="indoc_title">IN THIS ARTICLE</div>
+            <ul id="indoc_toclist"></ul>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+        </div>
+        <div class="clear"></div>
+
+        
+
+    <div id="lib-footer">
+        
+
+    
+    <link type="text/css" rel="stylesheet">
+    
+        
+    <div id="ux-footer" class="" style="" dir="ltr">
+
+        <footer class="top">
+            <div data-fragmentname="LeftLinks" id="Fragment_LeftLinks" xmlns="http://www.w3.org/1999/xhtml">
+  
+  <div class="linkList">
+    <div class="linkListTitle">Dev centers</div>
+    <ul class="links">
+      <li>
+        <a href="https://dev.windows.com/" id="LeftLinks_2148_1" class="windowsBlue" xmlns="http://www.w3.org/1999/xhtml">Windows</a>
+      </li>
+      <li>
+        <a href="http://dev.office.com/" id="LeftLinks_2148_3" class="office" xmlns="http://www.w3.org/1999/xhtml">Office</a>
+      </li>
+      <li>
+        <a href="https://msdn.microsoft.com/vstudio" id="LeftLinks_2148_4" class="visualStudio" xmlns="http://www.w3.org/1999/xhtml">Visual Studio</a>
+      </li>
+      <li>
+        <a href="http://azure.microsoft.com/en-us/documentation/" target="_blank" id="LeftLinks_2148_12" xmlns="http://www.w3.org/1999/xhtml">Microsoft Azure</a>
+      </li>
+      <li>
+        <a href="https://msdn.microsoft.com/developer-centers-msdn" id="LeftLinks_2148_5" xmlns="http://www.w3.org/1999/xhtml">More...</a>
+      </li>
+    </ul>
+  </div>
+</div>
+            <div id="rightLinks">
+                <div data-fragmentname="CenterLinks1" id="Fragment_CenterLinks1" xmlns="http://www.w3.org/1999/xhtml">
+  
+  <div class="linkList">
+    <div class="linkListTitle">Learning resources</div>
+    <ul class="links">
+      <li>
+        <a href="http://www.microsoftvirtualacademy.com/" id="CenterLinks1_2151_4" xmlns="http://www.w3.org/1999/xhtml">Microsoft Virtual Academy</a>
+      </li>
+      <li>
+        <a href="http://channel9.msdn.com/" id="CenterLinks1_2151_5" xmlns="http://www.w3.org/1999/xhtml">Channel 9</a>
+      </li>
+      <li>
+        <a href="https://msdn.microsoft.com/magazine/" id="CenterLinks1_2151_7" xmlns="http://www.w3.org/1999/xhtml">MSDN Magazine</a>
+      </li>
+    </ul>
+  </div>
+</div>
+                <div data-fragmentname="CenterLinks2" id="Fragment_CenterLinks2" xmlns="http://www.w3.org/1999/xhtml">
+  
+  <div class="linkList">
+    <div class="linkListTitle">Community</div>
+    <ul class="links">
+      <li>
+        <a href="https://social.msdn.microsoft.com/forums/en-us/home" id="CenterLinks2_2151_8" xmlns="http://www.w3.org/1999/xhtml">Forums</a>
+      </li>
+      <li>
+        <a href="http://blogs.msdn.com/b/developer-tools/" id="CenterLinks2_2151_9" xmlns="http://www.w3.org/1999/xhtml">Blogs</a>
+      </li>
+      <li>
+        <a href="http://www.codeplex.com/" id="CenterLinks2_2151_10" xmlns="http://www.w3.org/1999/xhtml">Codeplex</a>
+      </li>
+    </ul>
+  </div>
+</div>
+                <div data-fragmentname="CenterLinks3" id="Fragment_CenterLinks3" xmlns="http://www.w3.org/1999/xhtml">
+  
+  <div class="linkList">
+    <div class="linkListTitle">Support</div>
+    <ul class="links">
+      <li>
+        <a href="https://msdn.microsoft.com/hh361695" id="CenterLinks3_2151_11" xmlns="http://www.w3.org/1999/xhtml">Self support</a>
+      </li>
+    </ul>
+  </div>
+</div>
+                <div data-fragmentname="CenterLinks4" id="Fragment_CenterLinks4" xmlns="http://www.w3.org/1999/xhtml" class="nth-child-4n">
+  
+  <div class="linkList">
+    <div class="linkListTitle">Programs</div>
+    <ul class="links">
+      <li>
+        <a href="https://www.microsoft.com/bizspark/" id="CenterLinks4_2151_13" xmlns="http://www.w3.org/1999/xhtml">BizSpark (for startups)</a>
+      </li>
+      <li>
+        <a href="https://www.dreamspark.com/" id="CenterLinks4_2151_14" xmlns="http://www.w3.org/1999/xhtml">DreamSpark</a>
+      </li>
+      <li>
+        <a href="http://www.imaginecup.com/" id="CenterLinks4_2151_17" xmlns="http://www.w3.org/1999/xhtml">Imagine Cup</a>
+      </li>
+    </ul>
+  </div>
+</div>
+            </div>
+        </footer>
+
+        <footer class="bottom">
+            <span class="localeContainer">
+                
+    <form class="selectLocale" id="selectLocaleForm" action="https://msdn.microsoft.com/en-us/selectlocale-dmc">
+        <input type="hidden" name="fromPage" value="https%3a%2f%2fmsdn.microsoft.com%2fen-us%2flibrary%2faa287920(v%3dvs.71).aspx">
+        <a href="https://msdn.microsoft.com/en-us/library/aa287920(v=vs.71).aspx#" onclick="$(&#39;#selectLocaleForm&#39;).submit();return false;" title="Change your language">United States (English)</a>
+    </form>
+
+
+            </span>
+
+            <div data-fragmentname="BottomLinks" id="Fragment_BottomLinks" xmlns="http://www.w3.org/1999/xhtml">
+  
+  <div class="linkList">
+    <ul class="links horizontal">
+      <li>
+        <a href="https://msdn.microsoft.com/newsletter.aspx" id="BottomLinks_2148_7" xmlns="http://www.w3.org/1999/xhtml">Newsletter</a>
+      </li>
+      <li>
+        <a href="https://msdn.microsoft.com/dn529288" id="BottomLinks_2148_8" xmlns="http://www.w3.org/1999/xhtml">Privacy &amp; cookies</a>
+      </li>
+      <li>
+        <a href="https://msdn.microsoft.com/cc300389" id="BottomLinks_2148_9" xmlns="http://www.w3.org/1999/xhtml">Terms of use</a>
+      </li>
+      <li>
+        <a href="https://www.microsoft.com/en-us/legal/intellectualproperty/Trademarks/EN-US.aspx" id="BottomLinks_2148_10" xmlns="http://www.w3.org/1999/xhtml">Trademarks</a>
+      </li>
+    </ul>
+  </div>
+</div>
+            <span class="logoLegal">
+                <span class="logo"></span>
+                <span class="copyright">© 2016 Microsoft</span>
+            </span>
+        </footer>
+    </div>
+    
+;
+    </div>
+
+
+        <div class="footerPrintView">
+            <div class="footerCopyrightPrintView">© 2016 Microsoft</div>
+        </div>
+
+        
+        
+
+        
+        
+        
+
+    <input id="tocPaddingPerLevel" type="hidden" value="17">
+
+
+
+        <input id="MtpsDevice" type="hidden" value="Default">
+
+
+<!--[CDATA[ Third party scripts and code linked to or referenced from this website are licensed to you by the parties that own such code, not by Microsoft.  See ASP.NET Ajax CDN Terms of Use – http://www.asp.net/ajaxlibrary/CDN.ashx. ]]-->
+
+        
+        
+        
+            
+        
+
+<!--[CDATA[ WebTrends view model not available or IncludeLegacyWebTrendsScriptInGlobal feature flag is off]]-->
+
+
+
+
+<div id="globalRequestVerification">
+    <input name="__RequestVerificationToken" type="hidden" value="kS-dXT8pzUj3BSdplGJCcuEc9XbFjn_M3OfqSgoBONAerGy1yI-u6h8o3qaDZu7gY4VqcI4E2jcFc8nGnxUI7lW1QJU1">
+</div>
+
+
+    </div>
+
+    
+    
+
+    
+
+    
+<script type="text/javascript" class="mtps-injected">
+/*<![CDATA[*/
+(function(window,document){"use strict";function preload(scripts){for(var result=[],script,e,i=0;i<scripts.length;i++)script=scripts[i],script.hasOwnProperty("url")&&(e=document.createElement("script"),e.src=script.url,script.throwaway=e),result.push(script);return result}function inject(scripts,index){var script,elem;if(index>=scripts.length){delete mtps.injectScripts;return}script=scripts[index];elem=document.createElement("script");elem.className="mtps-injected";elem.async=!1;var isLoaded=!1,timeoutId=0,injectNextFnName="",injectNext=elem.onerror=function(){isLoaded||(isLoaded=!0,inject(scripts,index+1),window.clearTimeout(timeoutId),elem.onload=elem.onerror=elem.onreadystatechange=null,injectNextFnName&&delete mtps[injectNextFnName],elem.removeEventListener&&elem.removeEventListener("load",injectNext,!1))};elem.addEventListener?elem.addEventListener("load",injectNext,!1):elem.readyState==="uninitialized"?elem.onreadystatechange=function(){(this.readyState==="loaded"||this.readyState==="complete")&&injectNext()}:elem.onload=injectNext;script.hasOwnProperty("url")?(timeoutId=window.setTimeout(injectNext,12e4),elem.src=script.url):(injectNextFnName="_injectNextScript_"+index,mtps[injectNextFnName]=injectNext,timeoutId=window.setTimeout(injectNext,2e3),elem.text="try {\n"+script.txt+"\n} finally { MTPS."+injectNextFnName+" && MTPS."+injectNextFnName+"(); }");parent.appendChild(elem)}var mtps=window.MTPS||(window.MTPS={}),parent=document.getElementsByTagName("head")[0];mtps.injectScripts=function(scripts){inject(preload(scripts),0)}})(window,document);
+MTPS.injectScripts([
+	{ txt: "/**/\r\n(window.MTPS || (window.MTPS = {})).cdnDomains || (window.MTPS.cdnDomains = { \r\n\t\"image\": \"https://i-msdn.sec.s-msft.com\", \r\n\t\"js\": \"https://i2-msdn.sec.s-msft.com\", \r\n\t\"css\": \"https://i-msdn.sec.s-msft.com\", \r\n\t\"ttf\": \"https://i-msdn.sec.s-msft.com\"\r\n});\r\n/**/" },
+	{ txt: "//\n\n        window.appInsightsId = \u00275eb1b2eb-c47a-497a-a7ac-a1c230b2882f\u0027;\n        //" },
+	{ url: "https://i2-msdn.sec.s-msft.com/Combined.js?resources=0:Utilities,1:Layout,2:Header,3:Breadcrumbs,4:LibraryRightNavigationMenu,4:PrintExportButton,2:Footer,0:Topic,0:AppInsightsPerf,3:ResponsiveToc,0:ABTestControl,4:WEDCS,3:CmpgrpForHeader,1:SearchBox;/Areas/Epx/Content/Scripts:0,/Areas/Epx/Themes/Base/Content:1,/Areas/Centers/Themes/StandardDevCenter/Content:2,/Areas/Library/Content:3,/Areas/Library/Themes/Base/Content:4\u0026amp;hashKey=7C64BECEC960FAD9C26A9F3F932E4C99\u0026amp;v=4ECB1D293F3758D6E5A34409EB67027C" },
+	{ url: "https://i1.services.social.microsoft.com/search/Widgets/SearchBox.jss?boxid=HeaderSearchTextBox\u0026btnid=HeaderSearchButton\u0026pgArea=header\u0026brand=Msdn\u0026loc=en-us\u0026focusOnInit=false\u0026emptyWatermark=true\u0026searchButtonTooltip=Search MSDN" },
+	{ url: "https://i2-msdn.sec.s-msft.com/Combined.js?resources=0:JumpRedirect,1:ArchiveDisclaimer,1:LibraryMemberFilter,2:Toc_Fixed,2:CodeSnippet,2:TopicNotInScope,1:ResponsiveSupport,2:VersionSelector,2:SurveyBroker;/Areas/Epx/Themes/Base/Content:0,/Areas/Library/Content:1,/Areas/Epx/Content/Scripts:2\u0026amp;hashKey=6585CAE3C05497B0DCEC3368E46E8784\u0026amp;v=4ECB1D293F3758D6E5A34409EB67027C" },
+	{ txt: "$(document).ready(function() {\n        try {\n            var token = $(\"#globalRequestVerification input[name=\u0027__RequestVerificationToken\u0027]\").clone();\n            $(\"#siteFeedbackForm\").append(token);\n        } catch(err) {\n            \n        }\n    });" }
+]);
+
+/*]]>*/
+</script>
+
+<div id="overlayMask"></div><script src="./Crystal Reports_files/broker-config.js"></script></body></html>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<QLCuonSach xmlns="http://tempuri.org/csdl_qlcuonsach.xsd" >
+	<CUONSACH>
+		<MaCuonSach>11</MaCuonSach>
+		<MaSach>21</MaSach>
+		<TinhTrang>Chưa được mượn</TinhTrang>
+	</CUONSACH>
+	<CUONSACH>
+		<MaCuonSach>12</MaCuonSach>
+		<MaSach>22</MaSach>
+		<TinhTrang>Chưa được mượn</TinhTrang>
+	</CUONSACH>
+	<CUONSACH>
+		<MaCuonSach>13</MaCuonSach>
+		<MaSach>24</MaSach>
+		<TinhTrang>Đã được mượn</TinhTrang>
+	</CUONSACH>
+	<CUONSACH>
+		<MaCuonSach>15</MaCuonSach>
+		<MaSach>27</MaSach>
+		<TinhTrang>Đã được mượn</TinhTrang>
+	</CUONSACH>
+	<SACH>
+		<MaSach>21</MaSach>
+		<MaDauSach>36</MaDauSach>
+		<NamXuatBan>2011</NamXuatBan>
+		<NhaXuatBan>Kim đồng</NhaXuatBan>
+		<NgayNhap>6-4-2012</NgayNhap>
+		<TriGia>50000</TriGia>
+	</SACH>
+	<SACH>
+		<MaSach>22</MaSach>
+		<MaDauSach>37</MaDauSach>
+		<NamXuatBan>2010</NamXuatBan>
+		<NhaXuatBan>Hà Nội</NhaXuatBan>
+		<NgayNhap>6-10-2013</NgayNhap>
+		<TriGia>100000</TriGia>
+	</SACH>
+	<SACH>
+		<MaSach>25</MaSach>
+		<MaDauSach>46</MaDauSach>
+		<NamXuatBan>2001</NamXuatBan>
+		<NhaXuatBan>Thanh niên</NhaXuatBan>
+		<NgayNhap>1-1-2009</NgayNhap>
+		<TriGia>70000</TriGia>
+	</SACH>
+	<SACH>
+		<MaSach>29</MaSach>
+		<MaDauSach>45</MaDauSach>
+		<NamXuatBan>2012</NamXuatBan>
+		<NhaXuatBan>Nhi đồng</NhaXuatBan>
+		<NgayNhap>10-1-2014</NgayNhap>
+		<TriGia>80000</TriGia>
+	</SACH>
+</QLCuonSach>

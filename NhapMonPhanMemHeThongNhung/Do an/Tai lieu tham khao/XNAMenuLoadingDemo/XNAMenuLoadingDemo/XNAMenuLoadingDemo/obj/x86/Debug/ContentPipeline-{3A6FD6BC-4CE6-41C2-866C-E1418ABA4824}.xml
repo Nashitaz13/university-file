@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>orb.png</Source>
+      <Name>orb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bien\Desktop\XNAMenuLoadingDemo\XNAMenuLoadingDemo\XNAMenuLoadingDemo\bin\x86\Debug\Content\orb.xnb</Output>
+      <Time>2011-07-13T14:15:18.131062+07:00</Time>
+    </Item>
+    <Item>
+      <Source>exit.png</Source>
+      <Name>exit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bien\Desktop\XNAMenuLoadingDemo\XNAMenuLoadingDemo\XNAMenuLoadingDemo\bin\x86\Debug\Content\exit.xnb</Output>
+      <Time>2011-07-13T14:41:20.0949792+07:00</Time>
+    </Item>
+    <Item>
+      <Source>pause.png</Source>
+      <Name>pause</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bien\Desktop\XNAMenuLoadingDemo\XNAMenuLoadingDemo\XNAMenuLoadingDemo\bin\x86\Debug\Content\pause.xnb</Output>
+      <Time>2011-07-13T14:41:20.0979795+07:00</Time>
+    </Item>
+    <Item>
+      <Source>resume.png</Source>
+      <Name>resume</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bien\Desktop\XNAMenuLoadingDemo\XNAMenuLoadingDemo\XNAMenuLoadingDemo\bin\x86\Debug\Content\resume.xnb</Output>
+      <Time>2011-07-13T14:41:20.1009798+07:00</Time>
+    </Item>
+    <Item>
+      <Source>start.png</Source>
+      <Name>start</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bien\Desktop\XNAMenuLoadingDemo\XNAMenuLoadingDemo\XNAMenuLoadingDemo\bin\x86\Debug\Content\start.xnb</Output>
+      <Time>2011-07-13T14:41:20.10298+07:00</Time>
+    </Item>
+    <Item>
+      <Source>loading.png</Source>
+      <Name>loading</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bien\Desktop\XNAMenuLoadingDemo\XNAMenuLoadingDemo\XNAMenuLoadingDemo\bin\x86\Debug\Content\loading.xnb</Output>
+      <Time>2011-07-13T15:21:15.5212471+07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{3A6FD6BC-4CE6-41C2-866C-E1418ABA4824}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Bien\Desktop\XNAMenuLoadingDemo\XNAMenuLoadingDemo\XNAMenuLoadingDemoContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Bien\Desktop\XNAMenuLoadingDemo\XNAMenuLoadingDemo\XNAMenuLoadingDemo\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Bien\Desktop\XNAMenuLoadingDemo\XNAMenuLoadingDemo\XNAMenuLoadingDemo\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Bien\Desktop\XNAMenuLoadingDemo\XNAMenuLoadingDemo\XNAMenuLoadingDemo\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2012-09-07T04:52:54+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2012-09-07T04:52:54+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2012-09-07T04:52:54+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2012-09-07T04:52:54+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2012-09-07T04:52:54+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2012-09-07T04:52:54+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-09-24T13:11:51.2569068+07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

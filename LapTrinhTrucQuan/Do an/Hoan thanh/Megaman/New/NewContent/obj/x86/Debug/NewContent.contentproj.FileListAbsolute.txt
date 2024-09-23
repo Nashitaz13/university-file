@@ -1,0 +1,7 @@
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\New\New\NewContent\obj\x86\Debug\NewContent.contentprojResolveAssemblyReference.cache
+C:\Users\Canh\Desktop\New\New\NewContent\obj\x86\Debug\NewContent.contentprojResolveAssemblyReference.cache
+C:\Users\Bien\Downloads\New\New\NewContent\obj\x86\Debug\NewContent.contentprojResolveAssemblyReference.cache
+E:\HK4\Lap trinh truc quan\Do an\New\New\NewContent\obj\x86\Debug\NewContent.contentprojResolveAssemblyReference.cache
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\New\New\NewContent\obj\x86\Debug\NewContent.contentprojResolveAssemblyReference.cache
+E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\NewContent\obj\x86\Debug\NewContent.contentprojResolveAssemblyReference.cache
+F:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\NewContent\obj\x86\Debug\NewContent.contentprojResolveAssemblyReference.cache

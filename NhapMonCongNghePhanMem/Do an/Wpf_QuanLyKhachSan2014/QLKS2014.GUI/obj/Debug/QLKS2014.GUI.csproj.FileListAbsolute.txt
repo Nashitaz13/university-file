@@ -1,0 +1,116 @@
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\bin\Debug\QLKS2014.GUI.exe.config
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\QLKS2014.GUI.csprojResolveAssemblyReference.cache
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidContent\Bill.baml
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidContent\RentRoom.baml
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidContent\SearchByTime.baml
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidContent\UpdateRoom.baml
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidWindow\LogInWindow.baml
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidWindow\MainWindow.baml
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidContent\Bill.g.cs
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidContent\ListRoom.g.cs
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidContent\RentRoom.g.cs
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidContent\SearchByTime.g.cs
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidContent\UpdateRoom.g.cs
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidWindow\LogInWindow.g.cs
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidWindow\MainWindow.g.cs
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\App.g.cs
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\QLKS2014.GUI_MarkupCompile.cache
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\QLKS2014.GUI_MarkupCompile.lref
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\bin\Debug\QLKS2014.GUI.exe
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\bin\Debug\QLKS2014.GUI.pdb
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\bin\Debug\QLKS2014.BLL.dll
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\bin\Debug\QLKS2014.PUBLIC.dll
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\bin\Debug\RibbonControlsLibrary.dll
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\bin\Debug\QLKS2014.DATA.dll
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\bin\Debug\QLKS2014.BLL.pdb
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\bin\Debug\QLKS2014.PUBLIC.pdb
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\bin\Debug\RibbonControlsLibrary.pdb
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\bin\Debug\RibbonControlsLibrary.xml
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\bin\Debug\QLKS2014.DATA.pdb
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidContent\ListRoom.baml
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\QLKS2014.GUI.g.resources
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\QLKS2014.GUI.Properties.Resources.resources
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\QLKS2014.GUI.csproj.GenerateResource.Cache
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\QLKS2014.GUI.exe
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\QLKS2014.GUI.pdb
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidContent\CreateReport.baml
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidContent\SearchRoom.baml
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidContent\SearchByRoomType.baml
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidWindow\SettingsWindow.baml
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidContent\CreateReport.g.cs
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidContent\SearchRoom.g.cs
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidContent\SearchByRoomType.g.cs
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidWindow\SettingsWindow.g.cs
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidWindow\DetailRoomRentedWindow.baml
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidWindow\ListBillWindow.baml
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidWindow\ListDetailReportWindow.baml
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidWindow\ListRentRoomWindow.baml
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidWindow\ListReportWindow.baml
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidWindow\DetailRoomRentedWindow.g.cs
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidWindow\ListBillWindow.g.cs
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidWindow\ListDetailReportWindow.g.cs
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidWindow\ListRentRoomWindow.g.cs
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidWindow\ListReportWindow.g.cs
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\QLKS2014.GUI.StupidWindow.AboutWindow.resources
+C:\Users\Bien\Downloads\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\bin\Debug\QLKS2014.GUI.exe.config
+C:\Users\Bien\Downloads\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\QLKS2014.GUI.exe
+C:\Users\Bien\Downloads\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\QLKS2014.GUI.pdb
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\bin\Debug\QLKS2014.GUI.exe.config
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\QLKS2014.GUI.exe
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\QLKS2014.GUI.pdb
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\bin\Debug\QLKS2014.GUI.exe
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\bin\Debug\QLKS2014.GUI.pdb
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\bin\Debug\QLKS2014.BLL.dll
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\bin\Debug\QLKS2014.PUBLIC.dll
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\bin\Debug\QLKS2014.DATA.dll
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\bin\Debug\Microsoft.Windows.Shell.dll
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\bin\Debug\QLKS2014.BLL.pdb
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\bin\Debug\QLKS2014.PUBLIC.pdb
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\bin\Debug\RibbonControlsLibrary.pdb
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\bin\Debug\RibbonControlsLibrary.xml
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\bin\Debug\QLKS2014.DATA.pdb
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\bin\Debug\Microsoft.Windows.Shell.pdb
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\bin\Debug\Microsoft.Windows.Shell.xml
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\QLKS2014.GUI.csprojResolveAssemblyReference.cache
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidContent\Bill.baml
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidContent\RentRoom.baml
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidContent\CreateReport.baml
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidContent\SearchRoom.baml
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidContent\SearchByTime.baml
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidContent\SearchByRoomType.baml
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidContent\UpdateRoom.baml
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidWindow\DetailRoomRentedWindow.baml
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidWindow\ListBillWindow.baml
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidWindow\ListDetailReportWindow.baml
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidWindow\ListRentRoomWindow.baml
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidWindow\ListReportWindow.baml
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidWindow\LoginWindow.baml
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidWindow\MainWindow.baml
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidWindow\SettingsWindow.baml
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidContent\Bill.g.cs
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidContent\ListRoom.g.cs
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidContent\RentRoom.g.cs
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidContent\CreateReport.g.cs
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidContent\SearchRoom.g.cs
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidContent\SearchByTime.g.cs
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidContent\SearchByRoomType.g.cs
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidContent\UpdateRoom.g.cs
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidWindow\DetailRoomRentedWindow.g.cs
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidWindow\ListBillWindow.g.cs
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidWindow\ListDetailReportWindow.g.cs
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidWindow\ListRentRoomWindow.g.cs
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidWindow\ListReportWindow.g.cs
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidWindow\LoginWindow.g.cs
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidWindow\MainWindow.g.cs
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidWindow\SettingsWindow.g.cs
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\App.g.cs
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\QLKS2014.GUI_MarkupCompile.cache
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\QLKS2014.GUI_MarkupCompile.lref
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\StupidContent\ListRoom.baml
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\QLKS2014.GUI.g.resources
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\QLKS2014.GUI.Properties.Resources.resources
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\QLKS2014.GUI.StupidWindow.AboutWindow.resources
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\QLKS2014.GUI.csproj.GenerateResource.Cache

@@ -1,0 +1,2 @@
+c:\users\bien\documents\visual studio 2012\Projects\FrogJump\FrogJump\FrogJumpContent\obj\Windows Phone\Debug\FrogJumpContent.contentprojResolveAssemblyReference.cache
+F:\HK5\Nhap mon phan mem & he thong nhung\Do an\Hoan thanh\FrogJump\FrogJump\FrogJumpContent\obj\Windows Phone\Debug\FrogJumpContent.contentprojResolveAssemblyReference.cache

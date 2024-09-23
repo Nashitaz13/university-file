@@ -1,0 +1,6 @@
+F:\HK6\Phan tich thiet ke he thong\WCF\SourceCode\HelloService\HelloService\bin\Debug\HelloService.dll.config
+F:\HK6\Phan tich thiet ke he thong\WCF\SourceCode\HelloService\HelloService\bin\Debug\HelloService.dll
+F:\HK6\Phan tich thiet ke he thong\WCF\SourceCode\HelloService\HelloService\bin\Debug\HelloService.pdb
+F:\HK6\Phan tich thiet ke he thong\WCF\SourceCode\HelloService\HelloService\obj\Debug\HelloService.csprojResolveAssemblyReference.cache
+F:\HK6\Phan tich thiet ke he thong\WCF\SourceCode\HelloService\HelloService\obj\Debug\HelloService.dll
+F:\HK6\Phan tich thiet ke he thong\WCF\SourceCode\HelloService\HelloService\obj\Debug\HelloService.pdb

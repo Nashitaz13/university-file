@@ -1,0 +1,12 @@
+E:\SGU\GiangDay\WebServices\T07_T12_SOA_WCF\WCF\CodeMinhHoa\05_WcfStockService\WcfStockService\bin\Debug\WcfStockService.dll.config
+E:\SGU\GiangDay\WebServices\T07_T12_SOA_WCF\WCF\CodeMinhHoa\05_WcfStockService\WcfStockService\bin\Debug\WcfStockService.dll
+E:\SGU\GiangDay\WebServices\T07_T12_SOA_WCF\WCF\CodeMinhHoa\05_WcfStockService\WcfStockService\bin\Debug\WcfStockService.pdb
+E:\SGU\GiangDay\WebServices\T07_T12_SOA_WCF\WCF\CodeMinhHoa\05_WcfStockService\WcfStockService\obj\Debug\ResolveAssemblyReference.cache
+E:\SGU\GiangDay\WebServices\T07_T12_SOA_WCF\WCF\CodeMinhHoa\05_WcfStockService\WcfStockService\obj\Debug\WcfStockService.dll
+E:\SGU\GiangDay\WebServices\T07_T12_SOA_WCF\WCF\CodeMinhHoa\05_WcfStockService\WcfStockService\obj\Debug\WcfStockService.pdb
+D:\trinhdct\tài liệu học bài\WCF\WCF\CodeMinhHoa\05_WcfStockService\WcfStockService\bin\Debug\WcfStockService.dll.config
+D:\trinhdct\tài liệu học bài\WCF\WCF\CodeMinhHoa\05_WcfStockService\WcfStockService\bin\Debug\WcfStockService.dll
+D:\trinhdct\tài liệu học bài\WCF\WCF\CodeMinhHoa\05_WcfStockService\WcfStockService\bin\Debug\WcfStockService.pdb
+D:\trinhdct\tài liệu học bài\WCF\WCF\CodeMinhHoa\05_WcfStockService\WcfStockService\obj\Debug\ResolveAssemblyReference.cache
+D:\trinhdct\tài liệu học bài\WCF\WCF\CodeMinhHoa\05_WcfStockService\WcfStockService\obj\Debug\WcfStockService.dll
+D:\trinhdct\tài liệu học bài\WCF\WCF\CodeMinhHoa\05_WcfStockService\WcfStockService\obj\Debug\WcfStockService.pdb

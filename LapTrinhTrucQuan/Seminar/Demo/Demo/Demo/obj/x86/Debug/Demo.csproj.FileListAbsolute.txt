@@ -1,0 +1,20 @@
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\Demo\Demo\Demo\bin\x86\Debug\Demo.exe
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\Demo\Demo\Demo\bin\x86\Debug\Demo.pdb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\Demo\Demo\Demo\obj\x86\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\Demo\Demo\Demo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\Demo\Demo\Demo\obj\x86\Debug\Demo.exe
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\Demo\Demo\Demo\obj\x86\Debug\Demo.pdb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\Demo\Demo\Demo\bin\x86\Debug\Content\Treasure.xnb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\Demo\Demo\Demo\bin\x86\Debug\Content\BackgrounDemo.xnb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\Demo\Demo\Demo\bin\x86\Debug\Content\win.xnb
+C:\Users\Bien\Documents\Visual Studio 2010\Projects\Demo\Demo\Demo\bin\x86\Debug\Content\Demo.xnb
+E:\HK4\Lap trinh truc quan\Seminar\Demo\Demo\Demo\bin\x86\Debug\Content\Demo.xnb
+E:\HK4\Lap trinh truc quan\Seminar\Demo\Demo\Demo\bin\x86\Debug\Content\Treasure.xnb
+E:\HK4\Lap trinh truc quan\Seminar\Demo\Demo\Demo\bin\x86\Debug\Content\BackgrounDemo.xnb
+E:\HK4\Lap trinh truc quan\Seminar\Demo\Demo\Demo\bin\x86\Debug\Content\win.xnb
+E:\HK4\Lap trinh truc quan\Seminar\Demo\Demo\Demo\bin\x86\Debug\Demo.exe
+E:\HK4\Lap trinh truc quan\Seminar\Demo\Demo\Demo\bin\x86\Debug\Demo.pdb
+E:\HK4\Lap trinh truc quan\Seminar\Demo\Demo\Demo\obj\x86\Debug\Demo.csprojResolveAssemblyReference.cache
+E:\HK4\Lap trinh truc quan\Seminar\Demo\Demo\Demo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\HK4\Lap trinh truc quan\Seminar\Demo\Demo\Demo\obj\x86\Debug\Demo.exe
+E:\HK4\Lap trinh truc quan\Seminar\Demo\Demo\Demo\obj\x86\Debug\Demo.pdb

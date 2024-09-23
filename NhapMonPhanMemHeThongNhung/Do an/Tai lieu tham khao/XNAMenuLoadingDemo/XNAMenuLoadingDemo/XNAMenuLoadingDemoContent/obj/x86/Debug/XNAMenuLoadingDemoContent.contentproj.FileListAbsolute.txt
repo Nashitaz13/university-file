@@ -1,0 +1,2 @@
+c:\users\nvmwy41\documents\visual studio 2010\Projects\XNAMenuLoadingDemo\XNAMenuLoadingDemo\XNAMenuLoadingDemoContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bien\Desktop\XNAMenuLoadingDemo\XNAMenuLoadingDemo\XNAMenuLoadingDemoContent\obj\x86\Debug\XNAMenuLoadingDemoContent.contentprojResolveAssemblyReference.cache

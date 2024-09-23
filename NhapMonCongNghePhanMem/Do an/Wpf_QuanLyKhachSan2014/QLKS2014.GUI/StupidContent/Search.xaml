@@ -1,0 +1,23 @@
+﻿<UserControl x:Class="QLKS2014.GUI.StupidContent.Search"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" d:DesignWidth="1000" FontFamily="Times New Roman" Height="400">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="500"/>
+        </Grid.RowDefinitions>
+        <Label Content="Tìm kiếm theo" Height="30" Width="100" Margin="10,10,0,0" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+        <ComboBox Name="cbboxTypeSearch" Height="30" Width="400"  
+                 HorizontalAlignment="Left" VerticalAlignment="Top"
+                 Margin="150,10,0,0" SelectionChanged="listboxTypeSearch_SelectionChanged" >
+            <ComboBoxItem>Theo thời gian khoang thời gian thuê</ComboBoxItem>
+            <ComboBoxItem>Theo phòng</ComboBoxItem>
+        </ComboBox>
+
+        <ContentControl x:Name="contentTypeSearch" 
+                        Margin="10" Grid.Row="1"/>
+    </Grid>
+</UserControl>

@@ -1,0 +1,14 @@
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\Brush\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\Brush\obj\x86\Debug\Brush.Properties.Resources.resources
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\Brush\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\Brush\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\Brush\bin\Debug\Brush.exe
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\Brush\bin\Debug\Brush.pdb
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\Brush\obj\x86\Debug\Brush.SolidBrushEx.resources
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\Brush\obj\x86\Debug\Brush.exe
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\Brush\obj\x86\Debug\Brush.pdb
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\Brush\obj\x86\Debug\Brush.HatchBrushEx.resources
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\Brush\obj\x86\Debug\Brush.TextureBrushEx.resources
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\Brush\obj\x86\Debug\Brush.LinearGradientBrushEx.resources
+D:\NGUYET MINH\UIT-CNPM\CNCQ\LTW\2013\TK\2012\Chuong 05 - GDI - Slide\LapTrinhGDI\Brush\obj\x86\Debug\Brush.exe
+D:\NGUYET MINH\UIT-CNPM\CNCQ\LTW\2013\TK\2012\Chuong 05 - GDI - Slide\LapTrinhGDI\Brush\obj\x86\Debug\Brush.pdb

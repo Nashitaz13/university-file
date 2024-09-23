@@ -1,0 +1,32 @@
+﻿<Window x:Class="QLKS2014.GUI.StupidWindow.ListRentRoomWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Danh Sách Phiếu Thuê Phòng" Height="400" Width="500" ResizeMode="CanMinimize"
+        FontFamily="Times New Roman" FontSize="15">
+    <Grid>
+        <GroupBox x:Name="gpTableRentRoom" Header="Danh Sách Phiếu Thuê Phòng">
+            <DataGrid Name="dgRentRoom" 
+                  CanUserDeleteRows="True"
+                      AutoGenerateColumns="False"  KeyDown="dgRentRoom_KeyDown"
+                  LoadingRow="dgRentRoom_LoadingRow"
+                  IsReadOnly="True"
+                      >
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Mã Phiếu Thuê" Binding="{Binding TenPhong}"/>
+                    <DataGridTextColumn Header="Mã Phòng" Binding="{Binding TenLoaiPhong}"/>
+                    <DataGridTextColumn Header="Ngày Thuê" Binding="{Binding GiaPhong}"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </GroupBox>
+        <!--<ListView Name="listRentRoom" 
+                  KeyDown="listRentRoom_KeyDown">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Mã Phiếu Thuê" DisplayMemberBinding="{Binding idRentRoom}"/>
+                    <GridViewColumn Header="Mã Phòng " DisplayMemberBinding="{Binding idRoom}"/>
+                    <GridViewColumn Header="Ngày Thuê" DisplayMemberBinding="{Binding date}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>-->
+    </Grid>
+</Window>

@@ -1,0 +1,137 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:ribbon="clr-namespace:Microsoft.Windows.Controls.Ribbon;assembly=RibbonControlsLibrary"
+        xmlns:Custom="http://schemas.microsoft.com/winfx/2006/xaml/presentation/ribbon" x:Class="QLKS2014.GUI.StupidWindow.MainWindow"
+        Title="Phần mềm quản lý khách sạn" MinHeight="700" MinWidth="1100" 
+    WindowStartupLocation="CenterScreen" FontSize="14"
+    FontFamily="Times New Roman"
+    Icon="/Images/Alpha Dista Icon 18.ico" Closed="Window_Closed_1">
+    <Grid x:Name="gRoot">
+
+        <Grid.RowDefinitions>
+            <!--Menu&toolbar-->
+            <RowDefinition Height="auto"/>
+            <!--TabControl For Function-->
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--Ribbon Toolbar-->
+        <Grid x:Name="gToolbar" Grid.Row="0">
+            <ribbon:Ribbon x:Name="Ribbon" Margin="0,0,0,0" 
+                       Grid.RowSpan="2" Height="137" 
+                       VerticalAlignment="Top">
+                <ribbon:Ribbon.ApplicationMenu>
+                    <ribbon:RibbonApplicationMenu>
+                        <ribbon:RibbonApplicationMenuItem Header="Cài đặt"
+                                                      Name="btnSetting"
+                                                      ImageSource="/Images/Setting.ico" 
+                                                      Click="btnSetting_Click"
+                                                       />
+                        <ribbon:RibbonApplicationMenuItem Header="Exit"
+                                                      x:Name="btnExit"
+                                                      ImageSource="/Images/Exit.png"
+                                                      Click="btnExit_Click"/>
+                    </ribbon:RibbonApplicationMenu>
+                </ribbon:Ribbon.ApplicationMenu>
+                <ribbon:RibbonTab x:Name="HomePage" 
+                              Header="Home" Margin="0,0,0,0">
+                    <ribbon:RibbonGroup Name="Group1">
+                        <ribbon:RibbonButton x:Name="btnLogIn"
+                                         LargeImageSource="/Images/LogIn.PNG"
+                                         Label="Đăng xuất"
+                                         Click="btnLogIn_Click"
+                                         />
+                    </ribbon:RibbonGroup>
+                    <ribbon:RibbonGroup>
+                        <ribbon:RibbonButton x:Name="btnAddOrEditRoom"
+                                         LargeImageSource="/Images/Bookmark-add.png"
+                                         Label="Thêm phòng"
+                                         Click="btnAddOrEditRoom_Click"/>
+                        <ribbon:RibbonButton x:Name="btnRefresh"
+                                         LargeImageSource="/Images/refresh.png"
+                                         Label="Làm mới" 
+                                         Click="btnRefresh_Click"
+                                         />
+                    </ribbon:RibbonGroup>
+                    <ribbon:RibbonGroup>
+                        <ribbon:RibbonButton x:Name="btnViewListRentRoom"
+                                         LargeImageSource="/Images/actions_view_list_details.png"
+                                         Label="Danh sách các phiếu thuê"
+                                         Click="btnViewListRentRoom_Click"
+                                         />
+                        <ribbon:RibbonButton x:Name="btnNewRentRoom"
+                                         LargeImageSource="/Images/actions_view_list_details.png"
+                                         Label="Lập phiếu thuê"
+                                         Click="btnNewRentRoom_Click"
+                                         />
+                        <ribbon:RibbonButton Name="btnCustomer"
+                                         Label="Danh sách khách hàng"
+                                         Click="btnCustomer_Click" 
+                                         LargeImageSource="/Images/user-group-icon.png"
+                                         />
+                    </ribbon:RibbonGroup>
+                    <ribbon:RibbonGroup>
+                        <ribbon:RibbonButton x:Name="btnListBill" 
+                                         LargeImageSource="/Images/list.png"
+                                         Label="Danh sách các hóa đơn"
+                                         Click="btnListBill_Click"
+                                         />
+                        <ribbon:RibbonButton x:Name="btnNewBill"
+                                         LargeImageSource="/Images/newBill.png"
+                                         Label="Lập hóa đơn" 
+                                         Click="btnNewBill_Click"
+                                         />
+
+                    </ribbon:RibbonGroup>
+                    <ribbon:RibbonGroup>
+                        <ribbon:RibbonButton x:Name="btnListReport" 
+                                         LargeImageSource="/Images/report_icon.png"
+                                         Label="Danh sách các báo cáo"
+                                         Click="btnListReport_Click"
+                                         />
+                    </ribbon:RibbonGroup>
+                </ribbon:RibbonTab>
+                <ribbon:RibbonTab Header="Help">
+                    <ribbon:RibbonGroup Name="Group2">
+                        <ribbon:RibbonButton Name="btnAbout"
+                                         Label="Thông tin phần mềm"
+                                         LargeImageSource="/Images/about.png"
+                                         Click="btnAbout_Click"/>
+                        <ribbon:RibbonButton Name="btnUserManual"
+                                         Label="Hướng dẫn sử dụng" LargeImageSource="/Images/User Manual.png" 
+                                         Click="btnUserManual_Click"
+                                         />
+                    </ribbon:RibbonGroup>
+                </ribbon:RibbonTab>
+            </ribbon:Ribbon>
+        </Grid>
+
+        <!--Tab Control-->
+        <Grid x:Name="gTabControl" Grid.Row="1">
+            <TabControl Margin="0,0,0,0">
+
+                <TabItem Name="tListRoom" Header="Danh sách phòng" >
+
+                    <ContentControl x:Name="ccListRoom"/>
+                </TabItem>
+                <TabItem Name="tSearchRoom" Header="Tìm kiếm phòng" >
+                    <GroupBox >
+                        <ContentControl Name="ccSearchRoom"/>
+                    </GroupBox>
+
+                </TabItem>
+                <TabItem Name="tRentRoom" Header="Cho thuê phòng" >
+                    <ContentControl Name="ccRentRoom"/>
+                </TabItem>
+                <TabItem Name="tBill" Header="Hóa đơn thanh toán" >
+                    <ContentControl Name="ccBill"/>
+                </TabItem>
+                <TabItem Name="tCreateReport" Header="Báo cáo tháng" >
+                    <ContentControl Name="ccCreateReport"/>
+                </TabItem>
+            </TabControl>
+        </Grid>
+
+    </Grid>
+</Window>

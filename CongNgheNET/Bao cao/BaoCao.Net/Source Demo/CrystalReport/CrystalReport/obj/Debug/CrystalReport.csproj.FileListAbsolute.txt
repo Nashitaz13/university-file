@@ -1,0 +1,9 @@
+c:\users\pham hong son\documents\visual studio 2013\Projects\CrystalReport\CrystalReport\bin\Debug\CrystalReport.exe.config
+c:\users\pham hong son\documents\visual studio 2013\Projects\CrystalReport\CrystalReport\bin\Debug\CrystalReport.exe
+c:\users\pham hong son\documents\visual studio 2013\Projects\CrystalReport\CrystalReport\bin\Debug\CrystalReport.pdb
+c:\users\pham hong son\documents\visual studio 2013\Projects\CrystalReport\CrystalReport\obj\Debug\CrystalReport.csprojResolveAssemblyReference.cache
+c:\users\pham hong son\documents\visual studio 2013\Projects\CrystalReport\CrystalReport\obj\Debug\CrystalReport.Form1.resources
+c:\users\pham hong son\documents\visual studio 2013\Projects\CrystalReport\CrystalReport\obj\Debug\CrystalReport.Properties.Resources.resources
+c:\users\pham hong son\documents\visual studio 2013\Projects\CrystalReport\CrystalReport\obj\Debug\CrystalReport.csproj.GenerateResource.Cache
+c:\users\pham hong son\documents\visual studio 2013\Projects\CrystalReport\CrystalReport\obj\Debug\CrystalReport.exe
+c:\users\pham hong son\documents\visual studio 2013\Projects\CrystalReport\CrystalReport\obj\Debug\CrystalReport.pdb

@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Other\SpriteFont1.spritefont</Source>
+      <Name>Other\SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\HK5\Nhap mon phan mem &amp; he thong nhung\Do an\Hoan thanh\FrogJump\FrogJump\FrogJump\bin\Windows Phone\Debug\Content\Other\SpriteFont1.xnb</Output>
+      <Time>2014-12-28T14:33:08.5873935+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\JumpSound.wav</Source>
+      <Name>Sound\JumpSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\HK5\Nhap mon phan mem &amp; he thong nhung\Do an\Hoan thanh\FrogJump\FrogJump\FrogJump\bin\Windows Phone\Debug\Content\Sound\JumpSound.xnb</Output>
+      <Time>2014-12-19T18:47:20.4349389+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\TapSound.wav</Source>
+      <Name>Sound\TapSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\HK5\Nhap mon phan mem &amp; he thong nhung\Do an\Hoan thanh\FrogJump\FrogJump\FrogJump\bin\Windows Phone\Debug\Content\Sound\TapSound.xnb</Output>
+      <Time>2014-12-19T18:59:53.5549825+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\DeadSound.wav</Source>
+      <Name>Sound\DeadSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\HK5\Nhap mon phan mem &amp; he thong nhung\Do an\Hoan thanh\FrogJump\FrogJump\FrogJump\bin\Windows Phone\Debug\Content\Sound\DeadSound.xnb</Output>
+      <Time>2014-12-27T21:26:09.8784734+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Object\Frog.png</Source>
+      <Name>Object\Frog</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\HK5\Nhap mon phan mem &amp; he thong nhung\Do an\Hoan thanh\FrogJump\FrogJump\FrogJump\bin\Windows Phone\Debug\Content\Object\Frog.xnb</Output>
+      <Time>2014-12-20T21:11:15.900908+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Object\Leaf.png</Source>
+      <Name>Object\Leaf</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\HK5\Nhap mon phan mem &amp; he thong nhung\Do an\Hoan thanh\FrogJump\FrogJump\FrogJump\bin\Windows Phone\Debug\Content\Object\Leaf.xnb</Output>
+      <Time>2014-12-20T21:11:16.0259137+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Icon\Life.png</Source>
+      <Name>Icon\Life</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\HK5\Nhap mon phan mem &amp; he thong nhung\Do an\Hoan thanh\FrogJump\FrogJump\FrogJump\bin\Windows Phone\Debug\Content\Icon\Life.xnb</Output>
+      <Time>2014-12-20T21:11:16.041538+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Object\Jump.png</Source>
+      <Name>Object\Jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\HK5\Nhap mon phan mem &amp; he thong nhung\Do an\Hoan thanh\FrogJump\FrogJump\FrogJump\bin\Windows Phone\Debug\Content\Object\Jump.xnb</Output>
+      <Time>2014-12-21T17:29:11.7964861+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Icon\Pause.png</Source>
+      <Name>Icon\Pause</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\HK5\Nhap mon phan mem &amp; he thong nhung\Do an\Hoan thanh\FrogJump\FrogJump\FrogJump\bin\Windows Phone\Debug\Content\Icon\Pause.xnb</Output>
+      <Time>2014-12-25T20:10:16.4634004+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Screen\PauseScreen.png</Source>
+      <Name>Screen\PauseScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\HK5\Nhap mon phan mem &amp; he thong nhung\Do an\Hoan thanh\FrogJump\FrogJump\FrogJump\bin\Windows Phone\Debug\Content\Screen\PauseScreen.xnb</Output>
+      <Time>2014-12-25T21:59:34.3311687+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Icon\MusicOff.png</Source>
+      <Name>Icon\MusicOff</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\HK5\Nhap mon phan mem &amp; he thong nhung\Do an\Hoan thanh\FrogJump\FrogJump\FrogJump\bin\Windows Phone\Debug\Content\Icon\MusicOff.xnb</Output>
+      <Time>2014-12-26T00:04:59.0167002+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Icon\MusicOn.png</Source>
+      <Name>Icon\MusicOn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\HK5\Nhap mon phan mem &amp; he thong nhung\Do an\Hoan thanh\FrogJump\FrogJump\FrogJump\bin\Windows Phone\Debug\Content\Icon\MusicOn.xnb</Output>
+      <Time>2014-12-26T00:04:59.1009273+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Icon\PlayLeaf.png</Source>
+      <Name>Icon\PlayLeaf</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\HK5\Nhap mon phan mem &amp; he thong nhung\Do an\Hoan thanh\FrogJump\FrogJump\FrogJump\bin\Windows Phone\Debug\Content\Icon\PlayLeaf.xnb</Output>
+      <Time>2014-12-27T22:40:02.0380594+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Screen\GameOverScreen.png</Source>
+      <Name>Screen\GameOverScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\HK5\Nhap mon phan mem &amp; he thong nhung\Do an\Hoan thanh\FrogJump\FrogJump\FrogJump\bin\Windows Phone\Debug\Content\Screen\GameOverScreen.xnb</Output>
+      <Time>2014-12-28T14:48:56.1633203+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Screen\Title.png</Source>
+      <Name>Screen\Title</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\HK5\Nhap mon phan mem &amp; he thong nhung\Do an\Hoan thanh\FrogJump\FrogJump\FrogJump\bin\Windows Phone\Debug\Content\Screen\Title.xnb</Output>
+      <Time>2014-12-28T15:18:01.3767285+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Icon\Information.png</Source>
+      <Name>Icon\Information</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\HK5\Nhap mon phan mem &amp; he thong nhung\Do an\Hoan thanh\FrogJump\FrogJump\FrogJump\bin\Windows Phone\Debug\Content\Icon\Information.xnb</Output>
+      <Time>2014-12-28T16:44:21.4188636+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Screen\InformationScreen.png</Source>
+      <Name>Screen\InformationScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\HK5\Nhap mon phan mem &amp; he thong nhung\Do an\Hoan thanh\FrogJump\FrogJump\FrogJump\bin\Windows Phone\Debug\Content\Screen\InformationScreen.xnb</Output>
+      <Time>2014-12-28T17:45:31.0861973+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Screen\Background.png</Source>
+      <Name>Screen\Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\HK5\Nhap mon phan mem &amp; he thong nhung\Do an\Hoan thanh\FrogJump\FrogJump\FrogJump\bin\Windows Phone\Debug\Content\Screen\Background.xnb</Output>
+      <Time>2014-12-29T14:57:12.206808+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Other\pixel.png</Source>
+      <Name>Other\pixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\HK5\Nhap mon phan mem &amp; he thong nhung\Do an\Hoan thanh\FrogJump\FrogJump\FrogJump\bin\Windows Phone\Debug\Content\Other\pixel.xnb</Output>
+      <Time>2014-12-29T21:22:21.5917564+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\BackgroundSong.mp3</Source>
+      <Name>Sound\BackgroundSong</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\HK5\Nhap mon phan mem &amp; he thong nhung\Do an\Hoan thanh\FrogJump\FrogJump\FrogJump\bin\Windows Phone\Debug\Content\Sound\BackgroundSong.xnb</Output>
+      <Extra>F:\HK5\Nhap mon phan mem &amp; he thong nhung\Do an\Hoan thanh\FrogJump\FrogJump\FrogJump\bin\Windows Phone\Debug\Content\Sound\BackgroundSong.wma</Extra>
+      <Time>2014-12-21T10:46:05.0175423+07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{7D671ED6-BBDC-4C24-9F5F-EBADBE5CF926}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>F:\HK5\Nhap mon phan mem &amp; he thong nhung\Do an\Hoan thanh\FrogJump\FrogJump\FrogJumpContent\</RootDirectory>
+      <LoggerRootDirectory>F:\HK5\Nhap mon phan mem &amp; he thong nhung\Do an\Hoan thanh\FrogJump\FrogJump\FrogJump\</LoggerRootDirectory>
+      <IntermediateDirectory>F:\HK5\Nhap mon phan mem &amp; he thong nhung\Do an\Hoan thanh\FrogJump\FrogJump\FrogJump\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>F:\HK5\Nhap mon phan mem &amp; he thong nhung\Do an\Hoan thanh\FrogJump\FrogJump\FrogJump\bin\Windows Phone\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2012-09-07T04:52:54+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2012-09-07T04:52:54+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2012-09-07T04:52:54+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2012-09-07T04:52:54+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2012-09-07T04:52:54+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2012-09-07T04:52:54+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-09-24T13:11:51.2569068+07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

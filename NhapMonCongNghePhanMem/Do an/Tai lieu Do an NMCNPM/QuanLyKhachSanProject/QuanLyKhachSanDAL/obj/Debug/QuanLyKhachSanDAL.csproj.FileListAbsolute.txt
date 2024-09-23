@@ -1,0 +1,14 @@
+c:\users\canh\documents\visual studio 2013\Projects\QuanLyKhachSanProject\QuanLyKhachSanDAL\bin\Debug\QuanLyKhachSanDAL.dll
+c:\users\canh\documents\visual studio 2013\Projects\QuanLyKhachSanProject\QuanLyKhachSanDAL\bin\Debug\QuanLyKhachSanDAL.pdb
+c:\users\canh\documents\visual studio 2013\Projects\QuanLyKhachSanProject\QuanLyKhachSanDAL\obj\Debug\QuanLyKhachSanDAL.dll
+c:\users\canh\documents\visual studio 2013\Projects\QuanLyKhachSanProject\QuanLyKhachSanDAL\obj\Debug\QuanLyKhachSanDAL.pdb
+C:\Users\Canh\Documents\Visual Studio 2013\Projects\QuanLyKhachSanProject\QuanLyKhachSanDAL\bin\Debug\QuanLyKhachSanEntity.dll
+C:\Users\Canh\Documents\Visual Studio 2013\Projects\QuanLyKhachSanProject\QuanLyKhachSanDAL\bin\Debug\QuanLyKhachSanEntity.pdb
+C:\Users\Canh\Documents\Visual Studio 2013\Projects\QuanLyKhachSanProject\QuanLyKhachSanDAL\obj\Debug\QuanLyKhachSanDAL.csprojResolveAssemblyReference.cache
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSanProject\QuanLyKhachSanDAL\bin\Debug\QuanLyKhachSanDAL.dll
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSanProject\QuanLyKhachSanDAL\bin\Debug\QuanLyKhachSanDAL.pdb
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSanProject\QuanLyKhachSanDAL\bin\Debug\QuanLyKhachSanEntity.dll
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSanProject\QuanLyKhachSanDAL\bin\Debug\QuanLyKhachSanEntity.pdb
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSanProject\QuanLyKhachSanDAL\obj\Debug\QuanLyKhachSanDAL.csprojResolveAssemblyReference.cache
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSanProject\QuanLyKhachSanDAL\obj\Debug\QuanLyKhachSanDAL.dll
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSanProject\QuanLyKhachSanDAL\obj\Debug\QuanLyKhachSanDAL.pdb

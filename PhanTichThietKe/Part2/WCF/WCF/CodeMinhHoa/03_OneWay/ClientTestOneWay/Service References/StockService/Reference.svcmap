@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="fa7fa0a7-fc60-44d6-b751-a68db8a1840a" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8000/EssentialWCF" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="EssentialWCF.xsd" MetadataType="Schema" ID="dd6dd798-6858-44ee-857e-5bf3b1494ea4" SourceId="1" SourceUrl="http://localhost:8000/EssentialWCF?xsd=xsd0" />
+    <MetadataFile FileName="EssentialWCF.disco" MetadataType="Disco" ID="aa6f9b35-a46a-474a-a38d-2193ff30183c" SourceId="1" SourceUrl="http://localhost:8000/EssentialWCF?disco" />
+    <MetadataFile FileName="EssentialWCF1.xsd" MetadataType="Schema" ID="b2eb7d2a-c3b1-4d8f-a296-e86a55e63eff" SourceId="1" SourceUrl="http://localhost:8000/EssentialWCF?xsd=xsd1" />
+    <MetadataFile FileName="StockService.wsdl" MetadataType="Wsdl" ID="9475361a-cd27-4ff6-8050-cf3e96bb1153" SourceId="1" SourceUrl="http://localhost:8000/EssentialWCF?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

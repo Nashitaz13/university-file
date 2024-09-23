@@ -1,0 +1,39 @@
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QLNT.BusinessLogicLayer\bin\Debug\QLNT.BusinessLogicLayer.dll
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QLNT.BusinessLogicLayer\bin\Debug\QLNT.BusinessLogicLayer.pdb
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QLNT.BusinessLogicLayer\bin\Debug\QLNT.CommonLayer.dll
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QLNT.BusinessLogicLayer\bin\Debug\QLNT.DataAccessLayer.dll
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QLNT.BusinessLogicLayer\bin\Debug\QLNT.DataTransferObject.dll
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QLNT.BusinessLogicLayer\bin\Debug\QLNT.CommonLayer.pdb
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QLNT.BusinessLogicLayer\bin\Debug\QLNT.DataAccessLayer.pdb
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QLNT.BusinessLogicLayer\bin\Debug\QLNT.DataTransferObject.pdb
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QLNT.BusinessLogicLayer\obj\Debug\QLNT.BusinessLogicLayer.csprojResolveAssemblyReference.cache
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QLNT.BusinessLogicLayer\obj\Debug\QLNT.BusinessLogicLayer.Properties.Resources.resources
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QLNT.BusinessLogicLayer\obj\Debug\QLNT.BusinessLogicLayer.csproj.GenerateResource.Cache
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QLNT.BusinessLogicLayer\obj\Debug\QLNT.BusinessLogicLayer.dll
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QLNT.BusinessLogicLayer\obj\Debug\QLNT.BusinessLogicLayer.pdb
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QLNT.BusinessLogicLayer\bin\Debug\QLNT.BusinessLogicLayer.dll
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QLNT.BusinessLogicLayer\bin\Debug\QLNT.BusinessLogicLayer.pdb
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QLNT.BusinessLogicLayer\bin\Debug\QLNT.CommonLayer.dll
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QLNT.BusinessLogicLayer\bin\Debug\QLNT.DataAccessLayer.dll
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QLNT.BusinessLogicLayer\bin\Debug\QLNT.DataTransferObject.dll
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QLNT.BusinessLogicLayer\bin\Debug\QLNT.CommonLayer.pdb
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QLNT.BusinessLogicLayer\bin\Debug\QLNT.DataAccessLayer.pdb
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QLNT.BusinessLogicLayer\bin\Debug\QLNT.DataTransferObject.pdb
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QLNT.BusinessLogicLayer\obj\Debug\QLNT.BusinessLogicLayer.csprojResolveAssemblyReference.cache
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QLNT.BusinessLogicLayer\obj\Debug\QLNT.BusinessLogicLayer.Properties.Resources.resources
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QLNT.BusinessLogicLayer\obj\Debug\QLNT.BusinessLogicLayer.csproj.GenerateResource.Cache
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QLNT.BusinessLogicLayer\obj\Debug\QLNT.BusinessLogicLayer.dll
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QLNT.BusinessLogicLayer\obj\Debug\QLNT.BusinessLogicLayer.pdb
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QLNT.BusinessLogicLayer\bin\Debug\QLNT.BusinessLogicLayer.dll
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QLNT.BusinessLogicLayer\bin\Debug\QLNT.BusinessLogicLayer.pdb
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QLNT.BusinessLogicLayer\bin\Debug\QLNT.CommonLayer.dll
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QLNT.BusinessLogicLayer\bin\Debug\QLNT.DataAccessLayer.dll
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QLNT.BusinessLogicLayer\bin\Debug\QLNT.DataTransferObject.dll
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QLNT.BusinessLogicLayer\bin\Debug\QLNT.CommonLayer.pdb
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QLNT.BusinessLogicLayer\bin\Debug\QLNT.DataAccessLayer.pdb
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QLNT.BusinessLogicLayer\bin\Debug\QLNT.DataTransferObject.pdb
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QLNT.BusinessLogicLayer\obj\Debug\QLNT.BusinessLogicLayer.csprojResolveAssemblyReference.cache
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QLNT.BusinessLogicLayer\obj\Debug\QLNT.BusinessLogicLayer.Properties.Resources.resources
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QLNT.BusinessLogicLayer\obj\Debug\QLNT.BusinessLogicLayer.csproj.GenerateResource.Cache
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QLNT.BusinessLogicLayer\obj\Debug\QLNT.BusinessLogicLayer.dll
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QLNT.BusinessLogicLayer\obj\Debug\QLNT.BusinessLogicLayer.pdb

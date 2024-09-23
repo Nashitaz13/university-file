@@ -1,0 +1,10 @@
+c:\users\the flash\documents\visual studio 2012\Projects\WindowsFormsApplication1\QLDKINTERNET.Public\bin\Debug\QLDKINTERNET.Public.dll
+c:\users\the flash\documents\visual studio 2012\Projects\WindowsFormsApplication1\QLDKINTERNET.Public\bin\Debug\QLDKINTERNET.Public.pdb
+c:\users\the flash\documents\visual studio 2012\Projects\WindowsFormsApplication1\QLDKINTERNET.Public\obj\Debug\QLDKINTERNET.Public.csprojResolveAssemblyReference.cache
+c:\users\the flash\documents\visual studio 2012\Projects\WindowsFormsApplication1\QLDKINTERNET.Public\obj\Debug\QLDKINTERNET.Public.dll
+c:\users\the flash\documents\visual studio 2012\Projects\WindowsFormsApplication1\QLDKINTERNET.Public\obj\Debug\QLDKINTERNET.Public.pdb
+C:\Users\Canh\Desktop\11520496_11520469_11520352_11520687_2\Project\SourceCode\WindowsFormsApplication1\QLDKINTERNET.Public\bin\Debug\QLDKINTERNET.Public.dll
+C:\Users\Canh\Desktop\11520496_11520469_11520352_11520687_2\Project\SourceCode\WindowsFormsApplication1\QLDKINTERNET.Public\bin\Debug\QLDKINTERNET.Public.pdb
+C:\Users\Canh\Desktop\11520496_11520469_11520352_11520687_2\Project\SourceCode\WindowsFormsApplication1\QLDKINTERNET.Public\obj\Debug\QLDKINTERNET.Public.csprojResolveAssemblyReference.cache
+C:\Users\Canh\Desktop\11520496_11520469_11520352_11520687_2\Project\SourceCode\WindowsFormsApplication1\QLDKINTERNET.Public\obj\Debug\QLDKINTERNET.Public.dll
+C:\Users\Canh\Desktop\11520496_11520469_11520352_11520687_2\Project\SourceCode\WindowsFormsApplication1\QLDKINTERNET.Public\obj\Debug\QLDKINTERNET.Public.pdb

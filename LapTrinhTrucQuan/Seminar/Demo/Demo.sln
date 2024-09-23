@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo\Demo.csproj", "{FBF95027-DED7-4504-9FE1-5D44F69CCAF4}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "DemoContent", "Demo\DemoContent\DemoContent.contentproj", "{A1B95658-0064-4A8E-9EF8-A7A3BE2B977B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBF95027-DED7-4504-9FE1-5D44F69CCAF4}.Debug|x86.ActiveCfg = Debug|x86
+		{FBF95027-DED7-4504-9FE1-5D44F69CCAF4}.Debug|x86.Build.0 = Debug|x86
+		{FBF95027-DED7-4504-9FE1-5D44F69CCAF4}.Release|x86.ActiveCfg = Release|x86
+		{FBF95027-DED7-4504-9FE1-5D44F69CCAF4}.Release|x86.Build.0 = Release|x86
+		{A1B95658-0064-4A8E-9EF8-A7A3BE2B977B}.Debug|x86.ActiveCfg = Debug|x86
+		{A1B95658-0064-4A8E-9EF8-A7A3BE2B977B}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

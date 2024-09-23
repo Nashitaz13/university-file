@@ -1,0 +1,6 @@
+E:\SGU\GiangDay\WebServices\T07_T12_SOA_WCF\WCF\CodeMinhHoa\04_Duplex\Client\bin\Debug\Client.exe.config
+E:\SGU\GiangDay\WebServices\T07_T12_SOA_WCF\WCF\CodeMinhHoa\04_Duplex\Client\bin\Debug\Client.exe
+E:\SGU\GiangDay\WebServices\T07_T12_SOA_WCF\WCF\CodeMinhHoa\04_Duplex\Client\bin\Debug\Client.pdb
+E:\SGU\GiangDay\WebServices\T07_T12_SOA_WCF\WCF\CodeMinhHoa\04_Duplex\Client\obj\Debug\ResolveAssemblyReference.cache
+E:\SGU\GiangDay\WebServices\T07_T12_SOA_WCF\WCF\CodeMinhHoa\04_Duplex\Client\obj\Debug\Client.exe
+E:\SGU\GiangDay\WebServices\T07_T12_SOA_WCF\WCF\CodeMinhHoa\04_Duplex\Client\obj\Debug\Client.pdb

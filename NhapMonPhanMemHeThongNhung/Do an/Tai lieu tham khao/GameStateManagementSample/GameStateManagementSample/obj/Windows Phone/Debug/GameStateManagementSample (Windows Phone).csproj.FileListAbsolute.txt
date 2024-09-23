@@ -1,0 +1,25 @@
+C:\Users\Bien\Downloads\GameStateManagementSample\GameStateManagementSample\bin\Windows Phone\Debug\Content\background.xnb
+C:\Users\Bien\Downloads\GameStateManagementSample\GameStateManagementSample\bin\Windows Phone\Debug\Content\blank.xnb
+C:\Users\Bien\Downloads\GameStateManagementSample\GameStateManagementSample\bin\Windows Phone\Debug\Content\gradient.xnb
+C:\Users\Bien\Downloads\GameStateManagementSample\GameStateManagementSample\bin\Windows Phone\Debug\Content\menufont.xnb
+C:\Users\Bien\Downloads\GameStateManagementSample\GameStateManagementSample\bin\Windows Phone\Debug\Content\gamefont.xnb
+C:\Users\Bien\Downloads\GameStateManagementSample\GameStateManagementSample\bin\Windows Phone\Debug\GameStateManagementSample.dll
+C:\Users\Bien\Downloads\GameStateManagementSample\GameStateManagementSample\bin\Windows Phone\Debug\GameStateManagementSample.pdb
+C:\Users\Bien\Downloads\GameStateManagementSample\GameStateManagementSample\bin\Windows Phone\Debug\GameStateManagement.dll
+C:\Users\Bien\Downloads\GameStateManagementSample\GameStateManagementSample\bin\Windows Phone\Debug\GameStateManagement.pdb
+C:\Users\Bien\Downloads\GameStateManagementSample\GameStateManagementSample\obj\Windows Phone\Debug\GameStateManagementSample (Windows Phone).csprojResolveAssemblyReference.cache
+C:\Users\Bien\Downloads\GameStateManagementSample\GameStateManagementSample\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Bien\Downloads\GameStateManagementSample\GameStateManagementSample\obj\Windows Phone\Debug\GameStateManagementSample.dll
+C:\Users\Bien\Downloads\GameStateManagementSample\GameStateManagementSample\obj\Windows Phone\Debug\GameStateManagementSample.pdb
+C:\Users\Bien\Downloads\GameStateManagementSample\GameStateManagementSample\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\Bien\Downloads\GameStateManagementSample\GameStateManagementSample\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\Bien\Downloads\GameStateManagementSample\GameStateManagementSample\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\
+C:\Users\Bien\Downloads\GameStateManagementSample\GameStateManagementSample\bin\Windows Phone\Debug\GameStateManagementSample.xap
+C:\Users\Bien\Downloads\GameStateManagementSample\GameStateManagementSample\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\Bien\Downloads\GameStateManagementSample\GameStateManagementSample\bin\Windows Phone\Debug\GameStateManagementSample.xap
+C:\Users\Bien\Downloads\GameStateManagementSample\GameStateManagementSample\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\Bien\Downloads\GameStateManagementSample\GameStateManagementSample\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\Bien\Downloads\GameStateManagementSample\GameStateManagementSample\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\Bien\Downloads\GameStateManagementSample\GameStateManagementSample\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\

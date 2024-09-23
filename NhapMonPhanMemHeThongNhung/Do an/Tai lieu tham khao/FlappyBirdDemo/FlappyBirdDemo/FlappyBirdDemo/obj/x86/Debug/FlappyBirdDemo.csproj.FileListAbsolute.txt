@@ -1,0 +1,32 @@
+c:\users\canh\documents\visual studio 2013\Projects\FlappyBirdDemo\FlappyBirdDemo\FlappyBirdDemo\bin\x86\Debug\FlappyBirdDemo.exe
+c:\users\canh\documents\visual studio 2013\Projects\FlappyBirdDemo\FlappyBirdDemo\FlappyBirdDemo\bin\x86\Debug\FlappyBirdDemo.pdb
+c:\users\canh\documents\visual studio 2013\Projects\FlappyBirdDemo\FlappyBirdDemo\FlappyBirdDemo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\canh\documents\visual studio 2013\Projects\FlappyBirdDemo\FlappyBirdDemo\FlappyBirdDemo\obj\x86\Debug\FlappyBirdDemo.exe
+c:\users\canh\documents\visual studio 2013\Projects\FlappyBirdDemo\FlappyBirdDemo\FlappyBirdDemo\obj\x86\Debug\FlappyBirdDemo.pdb
+C:\Users\Canh\documents\visual studio 2013\Projects\FlappyBirdDemo\FlappyBirdDemo\FlappyBirdDemo\bin\x86\Debug\Content\Textures\background.xnb
+C:\Users\Canh\documents\visual studio 2013\Projects\FlappyBirdDemo\FlappyBirdDemo\FlappyBirdDemo\bin\x86\Debug\Content\Textures\bird1.xnb
+C:\Users\Canh\documents\visual studio 2013\Projects\FlappyBirdDemo\FlappyBirdDemo\FlappyBirdDemo\bin\x86\Debug\Content\Textures\bird2.xnb
+C:\Users\Canh\documents\visual studio 2013\Projects\FlappyBirdDemo\FlappyBirdDemo\FlappyBirdDemo\bin\x86\Debug\Content\Textures\bird3.xnb
+C:\Users\Canh\documents\visual studio 2013\Projects\FlappyBirdDemo\FlappyBirdDemo\FlappyBirdDemo\bin\x86\Debug\Content\Textures\gameover.xnb
+C:\Users\Canh\documents\visual studio 2013\Projects\FlappyBirdDemo\FlappyBirdDemo\FlappyBirdDemo\bin\x86\Debug\Content\Textures\pixel.xnb
+C:\Users\Canh\documents\visual studio 2013\Projects\FlappyBirdDemo\FlappyBirdDemo\FlappyBirdDemo\bin\x86\Debug\Content\Textures\sand.xnb
+C:\Users\Canh\documents\visual studio 2013\Projects\FlappyBirdDemo\FlappyBirdDemo\FlappyBirdDemo\bin\x86\Debug\Content\Textures\scroll.xnb
+C:\Users\Canh\documents\visual studio 2013\Projects\FlappyBirdDemo\FlappyBirdDemo\FlappyBirdDemo\bin\x86\Debug\Content\Textures\tuyaux.xnb
+C:\Users\Canh\documents\visual studio 2013\Projects\FlappyBirdDemo\FlappyBirdDemo\FlappyBirdDemo\obj\x86\Debug\FlappyBirdDemo.csprojResolveAssemblyReference.cache
+C:\Users\Canh\documents\visual studio 2013\Projects\FlappyBirdDemo\FlappyBirdDemo\FlappyBirdDemo\bin\x86\Debug\Content\Fonts\font.xnb
+C:\Users\Bien\Desktop\FlappyBirdDemo\FlappyBirdDemo\FlappyBirdDemo\bin\x86\Debug\Content\Textures\background.xnb
+C:\Users\Bien\Desktop\FlappyBirdDemo\FlappyBirdDemo\FlappyBirdDemo\bin\x86\Debug\Content\Textures\bird1.xnb
+C:\Users\Bien\Desktop\FlappyBirdDemo\FlappyBirdDemo\FlappyBirdDemo\bin\x86\Debug\Content\Textures\bird2.xnb
+C:\Users\Bien\Desktop\FlappyBirdDemo\FlappyBirdDemo\FlappyBirdDemo\bin\x86\Debug\Content\Textures\bird3.xnb
+C:\Users\Bien\Desktop\FlappyBirdDemo\FlappyBirdDemo\FlappyBirdDemo\bin\x86\Debug\Content\Textures\gameover.xnb
+C:\Users\Bien\Desktop\FlappyBirdDemo\FlappyBirdDemo\FlappyBirdDemo\bin\x86\Debug\Content\Textures\pixel.xnb
+C:\Users\Bien\Desktop\FlappyBirdDemo\FlappyBirdDemo\FlappyBirdDemo\bin\x86\Debug\Content\Textures\sand.xnb
+C:\Users\Bien\Desktop\FlappyBirdDemo\FlappyBirdDemo\FlappyBirdDemo\bin\x86\Debug\Content\Textures\scroll.xnb
+C:\Users\Bien\Desktop\FlappyBirdDemo\FlappyBirdDemo\FlappyBirdDemo\bin\x86\Debug\Content\Textures\tuyaux.xnb
+C:\Users\Bien\Desktop\FlappyBirdDemo\FlappyBirdDemo\FlappyBirdDemo\bin\x86\Debug\Content\Fonts\font.xnb
+C:\Users\Bien\Desktop\FlappyBirdDemo\FlappyBirdDemo\FlappyBirdDemo\bin\x86\Debug\FlappyBirdDemo.exe
+C:\Users\Bien\Desktop\FlappyBirdDemo\FlappyBirdDemo\FlappyBirdDemo\bin\x86\Debug\FlappyBirdDemo.pdb
+C:\Users\Bien\Desktop\FlappyBirdDemo\FlappyBirdDemo\FlappyBirdDemo\obj\x86\Debug\FlappyBirdDemo.csprojResolveAssemblyReference.cache
+C:\Users\Bien\Desktop\FlappyBirdDemo\FlappyBirdDemo\FlappyBirdDemo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Bien\Desktop\FlappyBirdDemo\FlappyBirdDemo\FlappyBirdDemo\obj\x86\Debug\FlappyBirdDemo.exe
+C:\Users\Bien\Desktop\FlappyBirdDemo\FlappyBirdDemo\FlappyBirdDemo\obj\x86\Debug\FlappyBirdDemo.pdb

@@ -1,0 +1,10 @@
+Content\Textures\background.xnb
+Content\Textures\bird1.xnb
+Content\Textures\bird2.xnb
+Content\Textures\bird3.xnb
+Content\Textures\gameover.xnb
+Content\Textures\pixel.xnb
+Content\Textures\sand.xnb
+Content\Textures\scroll.xnb
+Content\Textures\tuyaux.xnb
+Content\Fonts\font.xnb

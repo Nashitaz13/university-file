@@ -1,0 +1,52 @@
+c:\users\canh\documents\visual studio 2013\Projects\QuanLyKhachSanProject\QuanLyKhachSanProject\bin\Debug\QuanLyKhachSanProject.exe
+c:\users\canh\documents\visual studio 2013\Projects\QuanLyKhachSanProject\QuanLyKhachSanProject\bin\Debug\QuanLyKhachSanProject.pdb
+c:\users\canh\documents\visual studio 2013\Projects\QuanLyKhachSanProject\QuanLyKhachSanProject\obj\Debug\MainWindow.baml
+c:\users\canh\documents\visual studio 2013\Projects\QuanLyKhachSanProject\QuanLyKhachSanProject\obj\Debug\MainWindow.g.cs
+c:\users\canh\documents\visual studio 2013\Projects\QuanLyKhachSanProject\QuanLyKhachSanProject\obj\Debug\App.g.cs
+c:\users\canh\documents\visual studio 2013\Projects\QuanLyKhachSanProject\QuanLyKhachSanProject\obj\Debug\QuanLyKhachSanProject_MarkupCompile.cache
+c:\users\canh\documents\visual studio 2013\Projects\QuanLyKhachSanProject\QuanLyKhachSanProject\obj\Debug\QuanLyKhachSanProject.g.resources
+c:\users\canh\documents\visual studio 2013\Projects\QuanLyKhachSanProject\QuanLyKhachSanProject\obj\Debug\QuanLyKhachSanProject.Properties.Resources.resources
+c:\users\canh\documents\visual studio 2013\Projects\QuanLyKhachSanProject\QuanLyKhachSanProject\obj\Debug\QuanLyKhachSanProject.csproj.GenerateResource.Cache
+c:\users\canh\documents\visual studio 2013\Projects\QuanLyKhachSanProject\QuanLyKhachSanProject\obj\Debug\QuanLyKhachSanProject.exe
+c:\users\canh\documents\visual studio 2013\Projects\QuanLyKhachSanProject\QuanLyKhachSanProject\obj\Debug\QuanLyKhachSanProject.pdb
+C:\Users\Canh\Documents\Visual Studio 2013\Projects\QuanLyKhachSanProject\QuanLyKhachSanProject\bin\Debug\QuanLyKhachSanBUS.dll
+C:\Users\Canh\Documents\Visual Studio 2013\Projects\QuanLyKhachSanProject\QuanLyKhachSanProject\bin\Debug\QuanLyKhachSanEntity.dll
+C:\Users\Canh\Documents\Visual Studio 2013\Projects\QuanLyKhachSanProject\QuanLyKhachSanProject\bin\Debug\QuanLyKhachSanBUS.pdb
+C:\Users\Canh\Documents\Visual Studio 2013\Projects\QuanLyKhachSanProject\QuanLyKhachSanProject\bin\Debug\QuanLyKhachSanEntity.pdb
+C:\Users\Canh\Documents\Visual Studio 2013\Projects\QuanLyKhachSanProject\QuanLyKhachSanProject\obj\Debug\QuanLyKhachSanProject.csprojResolveAssemblyReference.cache
+C:\Users\Bien\Desktop\QuanLyKhachSanProject\QuanLyKhachSanProject\obj\Debug\QuanLyKhachSanProject.exe
+C:\Users\Bien\Desktop\QuanLyKhachSanProject\QuanLyKhachSanProject\obj\Debug\QuanLyKhachSanProject.pdb
+C:\Users\Bien\Desktop\QuanLyKhachSanProject\QuanLyKhachSanProject\bin\Debug\QuanLyKhachSanProject.exe
+C:\Users\Bien\Desktop\QuanLyKhachSanProject\QuanLyKhachSanProject\bin\Debug\QuanLyKhachSanProject.pdb
+C:\Users\Bien\Desktop\QuanLyKhachSanProject\QuanLyKhachSanProject\bin\Debug\QuanLyKhachSanBUS.dll
+C:\Users\Bien\Desktop\QuanLyKhachSanProject\QuanLyKhachSanProject\bin\Debug\QuanLyKhachSanEntity.dll
+C:\Users\Bien\Desktop\QuanLyKhachSanProject\QuanLyKhachSanProject\bin\Debug\QuanLyKhachSanDAL.dll
+C:\Users\Bien\Desktop\QuanLyKhachSanProject\QuanLyKhachSanProject\bin\Debug\QuanLyKhachSanBUS.pdb
+C:\Users\Bien\Desktop\QuanLyKhachSanProject\QuanLyKhachSanProject\bin\Debug\QuanLyKhachSanEntity.pdb
+C:\Users\Bien\Desktop\QuanLyKhachSanProject\QuanLyKhachSanProject\bin\Debug\QuanLyKhachSanDAL.pdb
+C:\Users\Bien\Desktop\QuanLyKhachSanProject\QuanLyKhachSanProject\obj\Debug\QuanLyKhachSanProject.csprojResolveAssemblyReference.cache
+C:\Users\Bien\Desktop\QuanLyKhachSanProject\QuanLyKhachSanProject\obj\Debug\MainWindow.baml
+C:\Users\Bien\Desktop\QuanLyKhachSanProject\QuanLyKhachSanProject\obj\Debug\MainWindow.g.cs
+C:\Users\Bien\Desktop\QuanLyKhachSanProject\QuanLyKhachSanProject\obj\Debug\App.g.cs
+C:\Users\Bien\Desktop\QuanLyKhachSanProject\QuanLyKhachSanProject\obj\Debug\QuanLyKhachSanProject_MarkupCompile.cache
+C:\Users\Bien\Desktop\QuanLyKhachSanProject\QuanLyKhachSanProject\obj\Debug\QuanLyKhachSanProject.g.resources
+C:\Users\Bien\Desktop\QuanLyKhachSanProject\QuanLyKhachSanProject\obj\Debug\QuanLyKhachSanProject.Properties.Resources.resources
+C:\Users\Bien\Desktop\QuanLyKhachSanProject\QuanLyKhachSanProject\obj\Debug\QuanLyKhachSanProject.csproj.GenerateResource.Cache
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSanProject\QuanLyKhachSanProject\obj\Debug\QuanLyKhachSanProject.exe
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSanProject\QuanLyKhachSanProject\obj\Debug\QuanLyKhachSanProject.pdb
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSanProject\QuanLyKhachSanProject\bin\Debug\QuanLyKhachSanProject.exe
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSanProject\QuanLyKhachSanProject\bin\Debug\QuanLyKhachSanProject.pdb
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSanProject\QuanLyKhachSanProject\bin\Debug\QuanLyKhachSanBUS.dll
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSanProject\QuanLyKhachSanProject\bin\Debug\QuanLyKhachSanEntity.dll
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSanProject\QuanLyKhachSanProject\bin\Debug\QuanLyKhachSanDAL.dll
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSanProject\QuanLyKhachSanProject\bin\Debug\QuanLyKhachSanBUS.pdb
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSanProject\QuanLyKhachSanProject\bin\Debug\QuanLyKhachSanEntity.pdb
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSanProject\QuanLyKhachSanProject\bin\Debug\QuanLyKhachSanDAL.pdb
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSanProject\QuanLyKhachSanProject\obj\Debug\QuanLyKhachSanProject.csprojResolveAssemblyReference.cache
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSanProject\QuanLyKhachSanProject\obj\Debug\MainWindow.baml
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSanProject\QuanLyKhachSanProject\obj\Debug\MainWindow.g.cs
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSanProject\QuanLyKhachSanProject\obj\Debug\App.g.cs
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSanProject\QuanLyKhachSanProject\obj\Debug\QuanLyKhachSanProject_MarkupCompile.cache
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSanProject\QuanLyKhachSanProject\obj\Debug\QuanLyKhachSanProject.g.resources
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSanProject\QuanLyKhachSanProject\obj\Debug\QuanLyKhachSanProject.Properties.Resources.resources
+C:\Users\Bien\Desktop\Do an NMCNPM\QuanLyKhachSanProject\QuanLyKhachSanProject\obj\Debug\QuanLyKhachSanProject.csproj.GenerateResource.Cache

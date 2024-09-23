@@ -1,0 +1,6 @@
+c:\users\bien\documents\visual studio 2013\Projects\DongHo\DongHo\bin\Debug\DongHo.exe.config
+c:\users\bien\documents\visual studio 2013\Projects\DongHo\DongHo\bin\Debug\DongHo.exe
+c:\users\bien\documents\visual studio 2013\Projects\DongHo\DongHo\bin\Debug\DongHo.pdb
+c:\users\bien\documents\visual studio 2013\Projects\DongHo\DongHo\obj\Debug\DongHo.csprojResolveAssemblyReference.cache
+c:\users\bien\documents\visual studio 2013\Projects\DongHo\DongHo\obj\Debug\DongHo.exe
+c:\users\bien\documents\visual studio 2013\Projects\DongHo\DongHo\obj\Debug\DongHo.pdb

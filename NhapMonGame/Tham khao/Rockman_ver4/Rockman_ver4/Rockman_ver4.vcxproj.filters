@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Rockman">
+      <UniqueIdentifier>{657f5955-c8ba-44a7-8eb4-acfc8db90576}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Rockman\DirectX">
+      <UniqueIdentifier>{b707c752-02df-425e-b914-466a1faed7b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Rockman\Game">
+      <UniqueIdentifier>{068d9581-6a2c-4431-9f8d-7d4e010a87b6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Rockman\GameObject">
+      <UniqueIdentifier>{680997c2-4299-45f4-acc6-206754b4b989}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Rockman\DirectX\Camera">
+      <UniqueIdentifier>{2c91bdc7-3988-461a-959a-761e6e768447}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Rockman\DirectX\Input">
+      <UniqueIdentifier>{205ae744-e89c-4eb5-998f-7e2a4e22a20e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Rockman\DirectX\Sprite">
+      <UniqueIdentifier>{baa9b92c-ac87-4d50-b0f0-43f402d83626}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Rockman\DirectX\Texture">
+      <UniqueIdentifier>{4c08bbe5-b44c-4036-a68d-1f4a016b3957}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Rockman\DirectX\Config">
+      <UniqueIdentifier>{1630a329-8865-4a1d-a044-936bc5e6291c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Rockman\Game\InGame">
+      <UniqueIdentifier>{57e4a7bf-b919-468a-b49c-195ad82a72fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Rockman\Game\GameMain">
+      <UniqueIdentifier>{7a329887-37cb-406f-ac49-0ff5d7cc783d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Rockman\Game\GameState">
+      <UniqueIdentifier>{e4031848-9960-4bce-9bea-5abfb8ca01a6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Rockman\Game\GameMain\Device">
+      <UniqueIdentifier>{3a763cd8-7cfe-498b-8a8e-8172551a1dab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Rockman\Game\GameMain\Game">
+      <UniqueIdentifier>{7c8dfef5-4769-4ac7-abf8-fb198afc233f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Rockman\Game\GameMain\Main">
+      <UniqueIdentifier>{e74cd801-5c01-48d7-9b2b-e70dc51efa0f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Rockman\Game\GameMain\View">
+      <UniqueIdentifier>{9840ea50-d20e-4fbc-83ef-4fd00dedea62}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Rockman\Game\GameMain\Rockman">
+      <UniqueIdentifier>{b8e4f2ca-920e-46b5-82e0-e6ff97a33a0f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Rockman\GameObject\Animation">
+      <UniqueIdentifier>{5f7e3d76-acce-478a-983f-d67829334a83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Rockman\GameObject\StaticObject">
+      <UniqueIdentifier>{dd817a25-dbfa-4bd8-9713-059508ab640f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Rockman\GameObject\Object">
+      <UniqueIdentifier>{c8a0e8fc-8701-4c63-88a4-ac6e8538c01d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Rockman\GameObject\Object\Rockman">
+      <UniqueIdentifier>{5c7fd761-e459-4072-bdee-e4d8d22ee30a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Rockman\GameObject\Object\Enemy">
+      <UniqueIdentifier>{1663570e-09a1-4d73-a50f-ba429352c19a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Rockman\GameObject\Object\Boss">
+      <UniqueIdentifier>{57710a95-4db2-4eda-9e8c-b451efdd1192}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Rockman\GameObject\NewFilter1">
+      <UniqueIdentifier>{d43dc63d-62ba-4dc0-890a-c99e7da1c5df}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Rockman\GameObject\StaticObject\Move">
+      <UniqueIdentifier>{e04ed0b7-7a87-452b-b770-6e4363467694}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Rockman\DirectX\Collision">
+      <UniqueIdentifier>{96874ad6-8883-4aef-bc91-6dd158b99a21}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files\Rockman\Game\GameMain\Main</Filter>
+    </ClCompile>
+    <ClCompile Include="Input.cpp">
+      <Filter>Source Files\Rockman\DirectX\Input</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Source Files\Rockman\DirectX\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>Source Files\Rockman\DirectX\Texture</Filter>
+    </ClCompile>
+    <ClCompile Include="Device.cpp">
+      <Filter>Source Files\Rockman\Game\GameMain\Device</Filter>
+    </ClCompile>
+    <ClCompile Include="ViewWindows.cpp">
+      <Filter>Source Files\Rockman\Game\GameMain\View</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source Files\Rockman\Game\GameMain\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="GameRockman.cpp">
+      <Filter>Source Files\Rockman\Game\GameMain\Rockman</Filter>
+    </ClCompile>
+    <ClCompile Include="State.cpp">
+      <Filter>Source Files\Rockman\Game\GameState</Filter>
+    </ClCompile>
+    <ClCompile Include="StateMain.cpp">
+      <Filter>Source Files\Rockman\Game\GameState</Filter>
+    </ClCompile>
+    <ClCompile Include="StateManagement.cpp">
+      <Filter>Source Files\Rockman\Game\GameState</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprite.cpp">
+      <Filter>Source Files\Rockman\DirectX\Sprite</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject.cpp">
+      <Filter>Source Files\Rockman\GameObject\StaticObject</Filter>
+    </ClCompile>
+    <ClCompile Include="Animation.cpp">
+      <Filter>Source Files\Rockman\GameObject\Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="DynamicObject.cpp">
+      <Filter>Source Files\Rockman\GameObject\StaticObject</Filter>
+    </ClCompile>
+    <ClCompile Include="Rockman.cpp">
+      <Filter>Source Files\Rockman\GameObject\Object\Rockman</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CSingleton.h">
+      <Filter>Source Files\Rockman\DirectX\Config</Filter>
+    </ClInclude>
+    <ClInclude Include="CGlobal.h">
+      <Filter>Source Files\Rockman\DirectX\Config</Filter>
+    </ClInclude>
+    <ClInclude Include="Include.h">
+      <Filter>Source Files\Rockman\DirectX\Config</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Source Files\Rockman\DirectX\Config</Filter>
+    </ClInclude>
+    <ClInclude Include="Input.h">
+      <Filter>Source Files\Rockman\DirectX\Input</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Source Files\Rockman\DirectX\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>Source Files\Rockman\DirectX\Texture</Filter>
+    </ClInclude>
+    <ClInclude Include="Device.h">
+      <Filter>Source Files\Rockman\Game\GameMain\Device</Filter>
+    </ClInclude>
+    <ClInclude Include="ViewWindows.h">
+      <Filter>Source Files\Rockman\Game\GameMain\View</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Source Files\Rockman\Game\GameMain\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="GameRockman.h">
+      <Filter>Source Files\Rockman\Game\GameMain\Rockman</Filter>
+    </ClInclude>
+    <ClInclude Include="State.h">
+      <Filter>Source Files\Rockman\Game\GameState</Filter>
+    </ClInclude>
+    <ClInclude Include="StateMain.h">
+      <Filter>Source Files\Rockman\Game\GameState</Filter>
+    </ClInclude>
+    <ClInclude Include="StateManagement.h">
+      <Filter>Source Files\Rockman\Game\GameState</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite.h">
+      <Filter>Source Files\Rockman\DirectX\Sprite</Filter>
+    </ClInclude>
+    <ClInclude Include="Move.h">
+      <Filter>Source Files\Rockman\GameObject\StaticObject\Move</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>Source Files\Rockman\GameObject\StaticObject</Filter>
+    </ClInclude>
+    <ClInclude Include="Animation.h">
+      <Filter>Source Files\Rockman\GameObject\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="DynamicObject.h">
+      <Filter>Source Files\Rockman\GameObject\StaticObject</Filter>
+    </ClInclude>
+    <ClInclude Include="Rockman.h">
+      <Filter>Source Files\Rockman\GameObject\Object\Rockman</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

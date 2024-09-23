@@ -1,0 +1,17 @@
+﻿Build started 5/13/2014 1:36:14 PM.
+     1>Project "c:\Users\Bien\documents\visual studio 2013\Projects\oslab3_c\TalkS\TalkS.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt "E:\HK4\He dieu hanh\Thuc hanh\2014 - 7\OSLab03\TalkApp\TalkServer\talks.c"
+         talks.c
+     1>e:\hk4\he dieu hanh\thuc hanh\2014 - 7\oslab03\talkapp\talkserver\talks.c(24): warning C4047: 'function' : 'size_t' differs in levels of indirection from 'char [12]'
+     1>e:\hk4\he dieu hanh\thuc hanh\2014 - 7\oslab03\talkapp\talkserver\talks.c(24): warning C4024: 'sprintf_s' : different types for formal and actual parameter 2
+     1>e:\hk4\he dieu hanh\thuc hanh\2014 - 7\oslab03\talkapp\talkserver\talks.c(40): warning C4047: 'function' : 'rsize_t' differs in levels of indirection from 'char [1]'
+     1>e:\hk4\he dieu hanh\thuc hanh\2014 - 7\oslab03\talkapp\talkserver\talks.c(40): warning C4024: 'strcpy_s' : different types for formal and actual parameter 2
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\Users\Bien\documents\visual studio 2013\Projects\oslab3_c\Debug\TalkS.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\Users\Bien\documents\visual studio 2013\Projects\oslab3_c\Debug\TalkS.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\Users\Bien\documents\visual studio 2013\Projects\oslab3_c\Debug\TalkS.lib" /MACHINE:X86 Debug\talks.obj
+         TalkS.vcxproj -> c:\Users\Bien\documents\visual studio 2013\Projects\oslab3_c\Debug\TalkS.exe
+     1>Done Building Project "c:\Users\Bien\documents\visual studio 2013\Projects\oslab3_c\TalkS\TalkS.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.64

@@ -1,0 +1,4 @@
+﻿http://www.ibm.com/developerworks/views/rational/libraryview.jsp?search_by=Design+SOA+services+with+Rational+Software+Architect,+Part
+http://www.ibm.com/developerworks/rational/tutorials/dw-r-modsoacase5/index.html
+http://www.ibm.com/developerworks/views/rational/libraryview.jsp?search_by=Modeling+SOA: 
+

@@ -1,0 +1,14 @@
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\Draw\bin\Debug\Draw.exe
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\Draw\bin\Debug\Draw.pdb
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\Draw\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\Draw\obj\x86\Debug\Draw.DrawLine.resources
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\Draw\obj\x86\Debug\Draw.Properties.Resources.resources
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\Draw\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\Draw\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\Draw\obj\x86\Debug\Draw.exe
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\Draw\obj\x86\Debug\Draw.pdb
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\Draw\obj\x86\Debug\Draw.DrawArc.resources
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\Draw\obj\x86\Debug\Draw.DrawCurve.resources
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\Draw\obj\x86\Debug\Draw.DrawString.resources
+D:\NGUYET MINH\UIT-CNPM\CNCQ\LTW\2013\TK\2012\Chuong 05 - GDI - Slide\LapTrinhGDI\Draw\obj\x86\Debug\Draw.exe
+D:\NGUYET MINH\UIT-CNPM\CNCQ\LTW\2013\TK\2012\Chuong 05 - GDI - Slide\LapTrinhGDI\Draw\obj\x86\Debug\Draw.pdb

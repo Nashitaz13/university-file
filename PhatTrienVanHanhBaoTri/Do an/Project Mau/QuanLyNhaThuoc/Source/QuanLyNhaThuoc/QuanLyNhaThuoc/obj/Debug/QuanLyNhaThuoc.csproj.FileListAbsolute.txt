@@ -1,0 +1,101 @@
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QuanLyNhaThuoc\bin\Debug\QuanLyNhaThuoc.exe.config
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QuanLyNhaThuoc\bin\Debug\QuanLyNhaThuoc.exe
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QuanLyNhaThuoc\bin\Debug\QuanLyNhaThuoc.pdb
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QuanLyNhaThuoc\bin\Debug\QLNT.BusinessLogicLayer.dll
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QuanLyNhaThuoc\bin\Debug\QLNT.CommonLayer.dll
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QuanLyNhaThuoc\bin\Debug\QLNT.DataTransferObject.dll
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QuanLyNhaThuoc\bin\Debug\QLNT.DataAccessLayer.dll
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QuanLyNhaThuoc\bin\Debug\QLNT.BusinessLogicLayer.pdb
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QuanLyNhaThuoc\bin\Debug\QLNT.CommonLayer.pdb
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QuanLyNhaThuoc\bin\Debug\QLNT.DataTransferObject.pdb
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QuanLyNhaThuoc\bin\Debug\QLNT.DataAccessLayer.pdb
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.csprojResolveAssemblyReference.cache
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.FrmPhieuBanThuoc.resources
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.FrmMain.resources
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.FrmPhieuNhapThuoc.resources
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.FrmSoPhieuNhapThuoc.resources
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.Properties.Resources.resources
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.csproj.GenerateResource.Cache
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.exe
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.pdb
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.FrmSoPhieuBanThuoc.resources
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.FrmThuoc.resources
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.FrmNhaCungCap.resources
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.FrmNhanVien.resources
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.FrmNhomThuoc.resources
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.FrmPhieuTraThuoc.resources
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.FrmSoPhieuTraThuoc.resources
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.AboutBox.resources
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.FrmThuocTonKho.resources
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.FrmBaoCaoDoanhThu.resources
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.FrmBaoCaoTonKho.resources
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\DiaNopThay\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\bin\Debug\QuanLyNhaThuoc.exe.config
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\bin\Debug\QuanLyNhaThuoc.exe.config
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\bin\Debug\QuanLyNhaThuoc.exe
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\bin\Debug\QuanLyNhaThuoc.pdb
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\bin\Debug\QLNT.BusinessLogicLayer.dll
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\bin\Debug\QLNT.CommonLayer.dll
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\bin\Debug\QLNT.DataTransferObject.dll
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\bin\Debug\QLNT.DataAccessLayer.dll
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\bin\Debug\QLNT.BusinessLogicLayer.pdb
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\bin\Debug\QLNT.CommonLayer.pdb
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\bin\Debug\QLNT.DataTransferObject.pdb
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\bin\Debug\QLNT.DataAccessLayer.pdb
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.csprojResolveAssemblyReference.cache
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.FrmPhieuBanThuoc.resources
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.FrmSoPhieuBanThuoc.resources
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.FrmBaoCaoDoanhThu.resources
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.FrmBaoCaoTonKho.resources
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.FrmNhanVien.resources
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.FrmNhomThuoc.resources
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.FrmNhaCungCap.resources
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.FrmThuoc.resources
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.FrmMain.resources
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.FrmPhieuNhapThuoc.resources
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.FrmSoPhieuNhapThuoc.resources
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.Properties.Resources.resources
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.FrmThuocTonKho.resources
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.FrmPhieuTraThuoc.resources
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.FrmSoPhieuTraThuoc.resources
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.AboutBox.resources
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.csproj.GenerateResource.Cache
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\RdlCompile.cache
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\RdlCompile.compiled
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.exe
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.pdb
+d:\ChamBai\NMCNPM\000RatHay\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\bin\Debug\QuanLyNhaThuoc.exe.config
+d:\ChamBai\NMCNPM\000RatHay\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.exe
+d:\ChamBai\NMCNPM\000RatHay\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.pdb
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\bin\Debug\QuanLyNhaThuoc.exe.config
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.exe
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.pdb
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\bin\Debug\QuanLyNhaThuoc.exe
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\bin\Debug\QuanLyNhaThuoc.pdb
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\bin\Debug\QLNT.BusinessLogicLayer.dll
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\bin\Debug\QLNT.CommonLayer.dll
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\bin\Debug\QLNT.DataTransferObject.dll
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\bin\Debug\QLNT.DataAccessLayer.dll
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\bin\Debug\QLNT.BusinessLogicLayer.pdb
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\bin\Debug\QLNT.CommonLayer.pdb
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\bin\Debug\QLNT.DataTransferObject.pdb
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\bin\Debug\QLNT.DataAccessLayer.pdb
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.csprojResolveAssemblyReference.cache
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.FrmPhieuBanThuoc.resources
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.FrmSoPhieuBanThuoc.resources
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.FrmBaoCaoDoanhThu.resources
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.FrmBaoCaoTonKho.resources
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.FrmNhanVien.resources
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.FrmNhomThuoc.resources
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.FrmNhaCungCap.resources
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.FrmThuoc.resources
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.FrmMain.resources
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.FrmPhieuNhapThuoc.resources
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.FrmSoPhieuNhapThuoc.resources
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.Properties.Resources.resources
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.FrmThuocTonKho.resources
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.FrmPhieuTraThuoc.resources
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.FrmSoPhieuTraThuoc.resources
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.AboutBox.resources
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\QuanLyNhaThuoc.csproj.GenerateResource.Cache
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\RdlCompile.cache
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QuanLyNhaThuoc\obj\Debug\RdlCompile.compiled

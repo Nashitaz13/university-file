@@ -1,0 +1,21 @@
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QLNT.DataTransferObject\bin\Debug\QLNT.DataTransferObject.dll
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QLNT.DataTransferObject\bin\Debug\QLNT.DataTransferObject.pdb
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QLNT.DataTransferObject\obj\Debug\QLNT.DataTransferObject.csprojResolveAssemblyReference.cache
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QLNT.DataTransferObject\obj\Debug\QLNT.DataTransferObject.Properties.Resources.resources
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QLNT.DataTransferObject\obj\Debug\QLNT.DataTransferObject.csproj.GenerateResource.Cache
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QLNT.DataTransferObject\obj\Debug\QLNT.DataTransferObject.dll
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QLNT.DataTransferObject\obj\Debug\QLNT.DataTransferObject.pdb
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QLNT.DataTransferObject\bin\Debug\QLNT.DataTransferObject.dll
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QLNT.DataTransferObject\bin\Debug\QLNT.DataTransferObject.pdb
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QLNT.DataTransferObject\obj\Debug\QLNT.DataTransferObject.csprojResolveAssemblyReference.cache
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QLNT.DataTransferObject\obj\Debug\QLNT.DataTransferObject.Properties.Resources.resources
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QLNT.DataTransferObject\obj\Debug\QLNT.DataTransferObject.csproj.GenerateResource.Cache
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QLNT.DataTransferObject\obj\Debug\QLNT.DataTransferObject.dll
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QLNT.DataTransferObject\obj\Debug\QLNT.DataTransferObject.pdb
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QLNT.DataTransferObject\bin\Debug\QLNT.DataTransferObject.dll
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QLNT.DataTransferObject\bin\Debug\QLNT.DataTransferObject.pdb
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QLNT.DataTransferObject\obj\Debug\QLNT.DataTransferObject.csprojResolveAssemblyReference.cache
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QLNT.DataTransferObject\obj\Debug\QLNT.DataTransferObject.Properties.Resources.resources
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QLNT.DataTransferObject\obj\Debug\QLNT.DataTransferObject.csproj.GenerateResource.Cache
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QLNT.DataTransferObject\obj\Debug\QLNT.DataTransferObject.dll
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QLNT.DataTransferObject\obj\Debug\QLNT.DataTransferObject.pdb

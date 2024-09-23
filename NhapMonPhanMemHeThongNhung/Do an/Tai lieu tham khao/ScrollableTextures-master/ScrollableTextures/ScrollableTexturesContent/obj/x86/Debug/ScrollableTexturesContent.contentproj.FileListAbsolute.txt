@@ -1,0 +1,2 @@
+C:\Users\Canh\Desktop\ScrollableTextures-master\ScrollableTextures\ScrollableTexturesContent\obj\x86\Debug\ScrollableTexturesContent.contentprojResolveAssemblyReference.cache
+C:\Users\Bien\Desktop\ScrollableTextures-master\ScrollableTextures\ScrollableTexturesContent\obj\x86\Debug\ScrollableTexturesContent.contentprojResolveAssemblyReference.cache

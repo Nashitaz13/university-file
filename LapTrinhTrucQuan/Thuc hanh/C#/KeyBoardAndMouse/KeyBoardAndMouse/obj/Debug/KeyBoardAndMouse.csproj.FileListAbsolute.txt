@@ -1,0 +1,6 @@
+c:\users\bien\documents\visual studio 2013\Projects\KeyBoardAndMouse\KeyBoardAndMouse\bin\Debug\KeyBoardAndMouse.exe.config
+c:\users\bien\documents\visual studio 2013\Projects\KeyBoardAndMouse\KeyBoardAndMouse\bin\Debug\KeyBoardAndMouse.exe
+c:\users\bien\documents\visual studio 2013\Projects\KeyBoardAndMouse\KeyBoardAndMouse\bin\Debug\KeyBoardAndMouse.pdb
+c:\users\bien\documents\visual studio 2013\Projects\KeyBoardAndMouse\KeyBoardAndMouse\obj\Debug\KeyBoardAndMouse.csprojResolveAssemblyReference.cache
+c:\users\bien\documents\visual studio 2013\Projects\KeyBoardAndMouse\KeyBoardAndMouse\obj\Debug\KeyBoardAndMouse.exe
+c:\users\bien\documents\visual studio 2013\Projects\KeyBoardAndMouse\KeyBoardAndMouse\obj\Debug\KeyBoardAndMouse.pdb

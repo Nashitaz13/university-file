@@ -1,0 +1,32 @@
+﻿<Window x:Class="QLKS2014.GUI.StupidWindow.ListReportWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Danh Sách Báo Cáo" Height="300" Width="300" KeyDown="Window_KeyDown" FontSize="15" FontFamily="Times New Roman">
+    <Grid>
+        <GroupBox x:Name="gpTableReport" Header="Chi Tiết Báo Cáo">
+            <DataGrid Name="dgReport" 
+                  CanUserDeleteRows="True"
+                      AutoGenerateColumns="False"  KeyDown="dgReport_KeyDown"
+                  LoadingRow="dgReport_LoadingRow"
+                  IsReadOnly="True"
+                      >
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Mã Báo Cáo" Binding="{Binding TenPhong}"/>
+                    <DataGridTextColumn Header="Tên Báo Cáo" Binding="{Binding TenLoaiPhong}"/>
+                    <DataGridTextColumn Header="Ngày Lập" Binding="{Binding GiaPhong}"/>
+                    <DataGridTextColumn Header="Tháng" Binding="{Binding GiaPhong}"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </GroupBox>
+        <!--<ListView Name="listReport" MouseDoubleClick="listReport_MouseDoubleClick">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Mã Báo Cáo" DisplayMemberBinding="{Binding idReport}"/>
+                    <GridViewColumn Header="Tên Báo Cáo" DisplayMemberBinding="{Binding nameReport}"/>
+                    <GridViewColumn Header="Ngày Lập" DisplayMemberBinding="{Binding dateBuil}"/>
+                    <GridViewColumn Header="Tháng" DisplayMemberBinding="{Binding month}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>-->
+    </Grid>
+</Window>

@@ -1,0 +1,560 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Others\Bullet.png</Source>
+      <Name>Others\Bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Others\Bullet.xnb</Output>
+      <Time>2014-04-14T00:29:46.3737238+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Map\1.png</Source>
+      <Name>Map\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\1.xnb</Output>
+      <Time>2014-05-12T07:40:39.8934698+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Map\10.png</Source>
+      <Name>Map\10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\10.xnb</Output>
+      <Time>2014-05-12T07:40:39.9090723+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Map\11.png</Source>
+      <Name>Map\11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\11.xnb</Output>
+      <Time>2014-05-12T07:40:39.9247003+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Map\12.png</Source>
+      <Name>Map\12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\12.xnb</Output>
+      <Time>2014-05-12T07:40:39.9247003+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Map\13.png</Source>
+      <Name>Map\13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\13.xnb</Output>
+      <Time>2014-05-12T07:40:39.9247003+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Map\14.png</Source>
+      <Name>Map\14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\14.xnb</Output>
+      <Time>2014-05-12T07:40:39.9247003+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Map\15.png</Source>
+      <Name>Map\15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\15.xnb</Output>
+      <Time>2014-05-12T07:40:39.9247003+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Map\16.png</Source>
+      <Name>Map\16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\16.xnb</Output>
+      <Time>2014-05-12T07:40:39.9247003+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Map\17.png</Source>
+      <Name>Map\17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\17.xnb</Output>
+      <Time>2014-05-12T07:40:39.9247003+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Map\18.png</Source>
+      <Name>Map\18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\18.xnb</Output>
+      <Time>2014-05-12T07:40:39.9403258+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Map\19.png</Source>
+      <Name>Map\19</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\19.xnb</Output>
+      <Time>2014-05-23T13:03:18.1723246+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Map\2.png</Source>
+      <Name>Map\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\2.xnb</Output>
+      <Time>2014-05-12T07:40:39.8934698+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Map\20.png</Source>
+      <Name>Map\20</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\20.xnb</Output>
+      <Time>2014-05-12T07:40:39.9403258+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Map\21.png</Source>
+      <Name>Map\21</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\21.xnb</Output>
+      <Time>2014-05-12T07:40:40.0653287+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Map\22.png</Source>
+      <Name>Map\22</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\22.xnb</Output>
+      <Time>2014-05-12T07:40:40.0809542+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Map\3.png</Source>
+      <Name>Map\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\3.xnb</Output>
+      <Time>2014-05-12T07:40:39.8934698+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Map\4.png</Source>
+      <Name>Map\4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\4.xnb</Output>
+      <Time>2014-05-12T07:40:39.9090723+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Map\5.png</Source>
+      <Name>Map\5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\5.xnb</Output>
+      <Time>2014-05-12T07:40:39.9090723+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Map\6.png</Source>
+      <Name>Map\6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\6.xnb</Output>
+      <Time>2014-05-12T07:40:39.9090723+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Map\7.png</Source>
+      <Name>Map\7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\7.xnb</Output>
+      <Time>2014-05-12T07:40:39.9090723+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Map\8.png</Source>
+      <Name>Map\8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\8.xnb</Output>
+      <Time>2014-05-12T07:40:39.9090723+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Map\9.png</Source>
+      <Name>Map\9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\9.xnb</Output>
+      <Time>2014-05-12T07:40:39.9090723+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Others\Health.png</Source>
+      <Name>Others\Health</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Others\Health.xnb</Output>
+      <Time>2014-05-22T11:16:53.3423392+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Others\HealthBar.png</Source>
+      <Name>Others\HealthBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Others\HealthBar.xnb</Output>
+      <Time>2014-05-22T11:33:08.8095055+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy\Enemy1.png</Source>
+      <Name>Enemy\Enemy1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Enemy\Enemy1.xnb</Output>
+      <Time>2014-05-22T23:42:13.9897747+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy\Enemy2.png</Source>
+      <Name>Enemy\Enemy2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Enemy\Enemy2.xnb</Output>
+      <Time>2014-05-23T00:31:21.8964865+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Others\BulletCannon.png</Source>
+      <Name>Others\BulletCannon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Others\BulletCannon.xnb</Output>
+      <Time>2014-05-23T17:42:35.8326081+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy\EnemyCannon.png</Source>
+      <Name>Enemy\EnemyCannon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Enemy\EnemyCannon.xnb</Output>
+      <Time>2014-05-23T17:42:35.8336098+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\SaveFlag.png</Source>
+      <Name>Items\SaveFlag</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Items\SaveFlag.xnb</Output>
+      <Time>2014-05-23T22:29:35.2498171+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Blood1.png</Source>
+      <Name>Items\Blood1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Items\Blood1.xnb</Output>
+      <Time>2014-05-23T23:06:56.2277704+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Screen\blank.png</Source>
+      <Name>Screen\blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Screen\blank.xnb</Output>
+      <Time>2014-05-24T09:44:41.4581825+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Screen\gradient.png</Source>
+      <Name>Screen\gradient</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Screen\gradient.xnb</Output>
+      <Time>2014-05-24T09:44:41.4621827+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Screen\Start.png</Source>
+      <Name>Screen\Start</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Screen\Start.xnb</Output>
+      <Time>2014-05-24T09:44:41.4661824+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Blood2.png</Source>
+      <Name>Items\Blood2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Items\Blood2.xnb</Output>
+      <Time>2014-05-24T14:11:21.1154711+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Others\Pause.png</Source>
+      <Name>Others\Pause</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Others\Pause.xnb</Output>
+      <Time>2014-05-24T15:14:57.7085105+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\Background1.jpg</Source>
+      <Name>Background\Background1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Background\Background1.xnb</Output>
+      <Time>2014-05-24T18:31:34.3425921+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\Background2.jpg</Source>
+      <Name>Background\Background2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Background\Background2.xnb</Output>
+      <Time>2014-05-24T18:31:34.3445979+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\GameOver.jpg</Source>
+      <Name>Background\GameOver</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Background\GameOver.xnb</Output>
+      <Time>2014-05-24T20:08:25.3762633+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Treasure.png</Source>
+      <Name>Items\Treasure</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Items\Treasure.xnb</Output>
+      <Time>2014-05-24T20:45:53.0544887+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Others\CannonHealth.png</Source>
+      <Name>Others\CannonHealth</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Others\CannonHealth.xnb</Output>
+      <Time>2014-05-25T23:16:13.2749012+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\Dash.png</Source>
+      <Name>Player\Dash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Player\Dash.xnb</Output>
+      <Time>2014-05-26T14:46:48.4262833+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\Idle.png</Source>
+      <Name>Player\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Player\Idle.xnb</Output>
+      <Time>2014-05-26T15:10:51.8637553+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\Injured.png</Source>
+      <Name>Player\Injured</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Player\Injured.xnb</Output>
+      <Time>2014-05-26T14:47:36.7827502+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\Jump.png</Source>
+      <Name>Player\Jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Player\Jump.xnb</Output>
+      <Time>2014-05-26T14:47:12.6221595+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\JumpShoot.png</Source>
+      <Name>Player\JumpShoot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Player\JumpShoot.xnb</Output>
+      <Time>2014-05-26T14:47:55.8916788+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\Run.png</Source>
+      <Name>Player\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Player\Run.xnb</Output>
+      <Time>2014-05-26T14:45:36.9691788+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\RunShoot.png</Source>
+      <Name>Player\RunShoot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Player\RunShoot.xnb</Output>
+      <Time>2014-05-26T14:46:15.6966335+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\Shoot.png</Source>
+      <Name>Player\Shoot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Player\Shoot.xnb</Output>
+      <Time>2014-05-26T14:48:16.0252052+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Map\Platform.png</Source>
+      <Name>Map\Platform</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Map\Platform.xnb</Output>
+      <Time>2014-06-11T00:28:41.5955256+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Key.png</Source>
+      <Name>Items\Key</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Items\Key.xnb</Output>
+      <Time>2014-06-25T10:32:01.5735361+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\Win.PNG</Source>
+      <Name>Background\Win</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Background\Win.xnb</Output>
+      <Time>2014-06-25T11:27:09.9018306+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\ShootEffect.wav</Source>
+      <Name>Sounds\ShootEffect</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Sounds\ShootEffect.xnb</Output>
+      <Time>2014-05-16T19:13:35.3608709+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Theme.mp3</Source>
+      <Name>Sounds\Theme</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Sounds\Theme.xnb</Output>
+      <Extra>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Sounds\Theme.wma</Extra>
+      <Time>2014-06-25T09:45:20.3064551+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Font\SpriteFont1.spritefont</Source>
+      <Name>Font\SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Font\SpriteFont1.xnb</Output>
+      <Time>2014-05-23T12:20:35.483307+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Screen\gamefont.spritefont</Source>
+      <Name>Screen\gamefont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Screen\gamefont.xnb</Output>
+      <Time>2014-05-24T09:44:41.4601828+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Screen\menufont.spritefont</Source>
+      <Name>Screen\menufont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\Screen\menufont.xnb</Output>
+      <Time>2014-05-24T09:44:41.4641829+07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\NewContent\</RootDirectory>
+      <LoggerRootDirectory>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\NewContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>E:\HK4\Lap trinh truc quan\Do an\Hoan thanh\Megaman\New\New\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-24T03:41:18+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-24T03:41:18+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-24T03:41:18+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-24T03:41:18+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-24T03:41:18+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-24T03:41:18+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-03-02T11:34:02.4074023+07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,49 @@
+﻿<UserControl x:Class="QLKS2014.GUI.StupidContent.SearchByRoomType"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="400" d:DesignWidth="400" FontFamily="Times New Roman" FontSize="15" KeyDown="SearchByRoomType_KeyDown">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="20*"/>
+            <ColumnDefinition Width="20*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Label Content="Loại phòng" Margin="0,10,90,0" Height="24" VerticalAlignment="Top" HorizontalAlignment="Right" Width="100"/>
+        <ComboBox Name="cbbRoomType" Margin="100,10,100,0" HorizontalAlignment="Center" Width="200" Height="30" VerticalAlignment="Top" Grid.ColumnSpan="2" />
+        <Button Name="btnSearch" Height="30" Width="100"
+                Content="Tìm kiếm"  Grid.Row="1" HorizontalAlignment="Center"
+                VerticalAlignment="Center" Grid.ColumnSpan="2" Margin="150,10" 
+                Click="btnSearch_Click"/>
+        <DataGrid x:Name="dgRoom" Margin="10" Grid.Row="2" Grid.ColumnSpan="2" ItemsSource="{Binding OcRoom, ElementName=own}"
+						CanUserDeleteRows="True"
+						AutoGenerateColumns="False" KeyDown="dgRoom_KeyDown"
+						LoadingRow="dgRoom_LoadingRow"
+						IsReadOnly="True"
+                      >
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Tên Phòng" Binding="{Binding MaNV}"/>
+                <DataGridTextColumn Header="Loại Phòng" Binding="{Binding TenNV}"/>
+                <DataGridTextColumn Header="Đơn Giá" Binding="{Binding DiaChiNV}"/>
+                <DataGridTextColumn Header="Tình Trạng" Binding="{Binding SDT}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <!--<ListView Name="listRoom" Margin="10" Grid.Row="2" Grid.ColumnSpan="2">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="STT" DisplayMemberBinding="{Binding indexRoom}"/>
+                    <GridViewColumn Header="Tên Phòng" DisplayMemberBinding="{Binding nameRoom}"/>
+                    <GridViewColumn Header="Loại Phòng" DisplayMemberBinding="{Binding typeRoom}"/>
+                    <GridViewColumn Header="Đơn giá" DisplayMemberBinding="{Binding price}"/>
+                    <GridViewColumn Header="Tình trạng" DisplayMemberBinding="{Binding status}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>-->
+    </Grid>
+</UserControl>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app> xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance&#8221;
+xmlns="http://java.sun.com/xml/ns/javaee&#8221; xmlns:web="http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd&#8221;
+xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd&#8221;
+id="WebApp_ID" version="2.5">
+<servlet>
+	<servlet-name>MuaHang</servlet-name>
+	<servlet-class>MuaHang</servlet-class>
+</servlet>
+<servlet>
+	<servlet-name>XuLy</servlet-name>
+	<servlet-class>XuLy</servlet-class>
+</servlet>
+<servlet>
+    <description></description>
+    <display-name>LoginController</display-name>
+    <servlet-name>LoginController</servlet-name>
+    <servlet-class>LoginController</servlet-class>
+  </servlet>
+
+<servlet-mapping>
+	<servlet-name>MuaHang</servlet-name>
+	<url-pattern>/MuaHang</url-pattern>
+</servlet-mapping>
+<servlet-mapping>
+	<servlet-name>XuLy</servlet-name>
+	<url-pattern>/XuLy</url-pattern>
+</servlet-mapping>
+<servlet-mapping>
+    <servlet-name>LoginController</servlet-name>
+    <url-pattern>/LoginController</url-pattern>
+</servlet-mapping>
+
+<filter>
+	<filter-name>utf</filter-name>
+	<filter-class>UTF8Filter</filter-class>
+</filter>
+<filter-mapping>
+	<filter-name>utf</filter-name>
+	<url-pattern>/*</url-pattern>
+</filter-mapping>
+
+</web-app>

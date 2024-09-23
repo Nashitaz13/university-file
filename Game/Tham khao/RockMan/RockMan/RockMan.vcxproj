@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Asset.h" />
+    <ClInclude Include="CBarMana.h" />
+    <ClInclude Include="CBlock.h" />
+    <ClInclude Include="CBoomManBullet.h" />
+    <ClInclude Include="CBoomRockManBullet.h" />
+    <ClInclude Include="CBulletNinja.h" />
+    <ClInclude Include="CBulletRockman.h" />
+    <ClInclude Include="CBulletSnapper.h" />
+    <ClInclude Include="CCameraPath.h" />
+    <ClInclude Include="CCutManBullet.h" />
+    <ClInclude Include="CDieArrow.h" />
+    <ClInclude Include="CDoor.h" />
+    <ClInclude Include="CEnemyBoomBullet.h" />
+    <ClInclude Include="CEnemyFishBullet.h" />
+    <ClInclude Include="CEnemyHat.h" />
+    <ClInclude Include="CEnemyMachine.h" />
+    <ClInclude Include="CEnemyMachineAutoBullet.h" />
+    <ClInclude Include="CEnemyNinja.h" />
+    <ClInclude Include="CEnemySnapper.h" />
+    <ClInclude Include="CEnemyWallShooter.h" />
+    <ClInclude Include="CEnemyWorkerBullet.h" />
+    <ClInclude Include="CGameInfo.h" />
+    <ClInclude Include="CGameMenu.h" />
+    <ClInclude Include="CGameStart.h" />
+    <ClInclude Include="CGutsManBullet.h" />
+    <ClInclude Include="CGutsRockManBullet.h" />
+    <ClInclude Include="CIntroCharacter.h" />
+    <ClInclude Include="CollisionInfo.h" />
+    <ClInclude Include="CPopup.h" />
+    <ClInclude Include="CRock.h" />
+    <ClInclude Include="CRockCutBullet.h" />
+    <ClInclude Include="CSceneInfo.h" />
+    <ClInclude Include="CTextblock.h" />
+    <ClInclude Include="ExplodingEffect.h" />
+    <ClInclude Include="CExplodingEffectManager.h" />
+    <ClInclude Include="CExplodingEffectX.h" />
+    <ClInclude Include="PowerEnergyX.h" />
+    <ClInclude Include="ResourceManager.h" />
+    <ClInclude Include="CBoomMan.h" />
+    <ClInclude Include="CBullet.h" />
+    <ClInclude Include="CCutMan.h" />
+    <ClInclude Include="CElevator.h" />
+    <ClInclude Include="CEnemyBall.h" />
+    <ClInclude Include="CEnemyBoom.h" />
+    <ClInclude Include="CEnemyCut.h" />
+    <ClInclude Include="CEnemyEye.h" />
+    <ClInclude Include="CEnemyFish.h" />
+    <ClInclude Include="CEnemyInk.h" />
+    <ClInclude Include="CEnemyMachineAuto.h" />
+    <ClInclude Include="CEnemyRobot.h" />
+    <ClInclude Include="CEnemyTank.h" />
+    <ClInclude Include="CEnemyBubble.h" />
+    <ClInclude Include="CCollision.h" />
+    <ClInclude Include="CEnemy.h" />
+    <ClInclude Include="CEnemyWorker.h" />
+    <ClInclude Include="CGameObject.h" />
+    <ClInclude Include="CGameOver.h" />
+    <ClInclude Include="CGutsMan.h" />
+    <ClInclude Include="CImage.h" />
+    <ClInclude Include="CItem.h" />
+    <ClInclude Include="CMenuItem.h" />
+    <ClInclude Include="CCamera.h" />
+    <ClInclude Include="CControl.h" />
+    <ClInclude Include="CGameApp.h" />
+    <ClInclude Include="CGameTime.h" />
+    <ClInclude Include="CGraphics.h" />
+    <ClInclude Include="CInput.h" />
+    <ClInclude Include="Config.h" />
+    <ClInclude Include="CPlayScreen.h" />
+    <ClInclude Include="CRockman.h" />
+    <ClInclude Include="CScreen.h" />
+    <ClInclude Include="CScreenManager.h" />
+    <ClInclude Include="CSprite.h" />
+    <ClInclude Include="CGlobal.h" />
+    <ClInclude Include="CObject.h" />
+    <ClInclude Include="CStair.h" />
+    <ClInclude Include="CTexture.h" />
+    <ClInclude Include="CWindow.h" />
+    <ClInclude Include="DSUtil.h" />
+    <ClInclude Include="CQuadNode.h" />
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="SkillInfo.h" />
+    <ClInclude Include="Trace.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Asset.cpp" />
+    <ClCompile Include="CBarMana.cpp" />
+    <ClCompile Include="CBlock.cpp" />
+    <ClCompile Include="CBoomManBullet.cpp" />
+    <ClCompile Include="CBoomRockManBullet.cpp" />
+    <ClCompile Include="CBulletNinja.cpp" />
+    <ClCompile Include="CBulletRockman.cpp" />
+    <ClCompile Include="CBulletSnapper.cpp" />
+    <ClCompile Include="CCameraPath.cpp" />
+    <ClCompile Include="CCutManBullet.cpp" />
+    <ClCompile Include="CDieArrow.cpp" />
+    <ClCompile Include="CDoor.cpp" />
+    <ClCompile Include="CEnemyBoomBullet.cpp" />
+    <ClCompile Include="CEnemyFishBullet.cpp" />
+    <ClCompile Include="CEnemyHat.cpp" />
+    <ClCompile Include="CEnemyMachine.cpp" />
+    <ClCompile Include="CEnemyMachineAutoBullet.cpp" />
+    <ClCompile Include="CEnemyNinja.cpp" />
+    <ClCompile Include="CEnemySnapper.cpp" />
+    <ClCompile Include="CEnemyWallShooter.cpp" />
+    <ClCompile Include="CEnemyWorkerBullet.cpp" />
+    <ClCompile Include="CGameInfo.cpp" />
+    <ClCompile Include="CGameStart.cpp" />
+    <ClCompile Include="CGutsManBullet.cpp" />
+    <ClCompile Include="CGutsRockManBullet.cpp" />
+    <ClCompile Include="CIntroCharacter.cpp" />
+    <ClCompile Include="CollisionInfo.cpp" />
+    <ClCompile Include="CPopup.cpp" />
+    <ClCompile Include="CRock.cpp" />
+    <ClCompile Include="CRockCutBullet.cpp" />
+    <ClCompile Include="CSceneInfo.cpp" />
+    <ClCompile Include="CTextblock.cpp" />
+    <ClCompile Include="ExplodingEffect.cpp" />
+    <ClCompile Include="CExplodingEffectManager.cpp" />
+    <ClCompile Include="CExplodingEffectX.cpp" />
+    <ClCompile Include="PowerEnergyX.cpp" />
+    <ClCompile Include="ResourceManager.cpp" />
+    <ClCompile Include="CBoomMan.cpp" />
+    <ClCompile Include="CBullet.cpp" />
+    <ClCompile Include="CCutMan.cpp" />
+    <ClCompile Include="CElevator.cpp" />
+    <ClCompile Include="CEnemyBall.cpp" />
+    <ClCompile Include="CEnemyBoom.cpp" />
+    <ClCompile Include="CEnemyCut.cpp" />
+    <ClCompile Include="CEnemyEye.cpp" />
+    <ClCompile Include="CEnemyFish.cpp" />
+    <ClCompile Include="CEnemyInk.cpp" />
+    <ClCompile Include="CEnemyMachineAuto.cpp" />
+    <ClCompile Include="CEnemyRobot.cpp" />
+    <ClCompile Include="CEnemyTank.cpp" />
+    <ClCompile Include="CEnemyBubble.cpp" />
+    <ClCompile Include="CCollision.cpp" />
+    <ClCompile Include="CEnemy.cpp" />
+    <ClCompile Include="CEnemyWorker.cpp" />
+    <ClCompile Include="CGameObject.cpp" />
+    <ClCompile Include="CGameOver.cpp" />
+    <ClCompile Include="CGutsMan.cpp" />
+    <ClCompile Include="CImage.cpp" />
+    <ClCompile Include="CItem.cpp" />
+    <ClCompile Include="CMenuItem.cpp" />
+    <ClCompile Include="CCamera.cpp" />
+    <ClCompile Include="CControl.cpp" />
+    <ClCompile Include="CGameApp.cpp" />
+    <ClCompile Include="CGameMenu.cpp" />
+    <ClCompile Include="CGameTime.cpp" />
+    <ClCompile Include="CGraphics.cpp" />
+    <ClCompile Include="CInput.cpp" />
+    <ClCompile Include="CObject.cpp" />
+    <ClCompile Include="CPlayScreen.cpp" />
+    <ClCompile Include="CRockman.cpp" />
+    <ClCompile Include="CScreen.cpp" />
+    <ClCompile Include="CScreenManager.cpp" />
+    <ClCompile Include="CSprite.cpp" />
+    <ClCompile Include="CStair.cpp" />
+    <ClCompile Include="CTexture.cpp" />
+    <ClCompile Include="CWindow.cpp" />
+    <ClCompile Include="DSUtil.cpp" />
+    <ClCompile Include="CQuadNode.cpp" />
+    <ClCompile Include="WinMain.cpp" />
+    <ClCompile Include="Trace.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="RockMan.rc" />
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{163DDA41-B136-4FF1-A7E8-166607177CF1}</ProjectGuid>
+    <SccProjectName>SAK</SccProjectName>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccProvider>SAK</SccProvider>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>RockMan</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+    <LibraryPath>C:\Program Files %28x86%29\Microsoft DirectX SDK %28June 2010%29\Lib\x86;$(LibraryPath)</LibraryPath>
+    <IncludePath>C:\Program Files %28x86%29\Microsoft DirectX SDK %28June 2010%29\Include;$(IncludePath)</IncludePath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <SDLCheck>true</SDLCheck>
+      <BrowseInformation>true</BrowseInformation>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>dxerr.lib;winmm.lib;dsound.lib;d3dx9.lib;d3d9.lib;dinput8.lib;dxguid.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;comdlg32.lib;advapi32.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;odbc32.lib;odbccp32.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+    <Bscmake>
+      <PreserveSbr>true</PreserveSbr>
+    </Bscmake>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

@@ -1,0 +1,96 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Custom="http://schemas.microsoft.com/winfx/2006/xaml/presentation/ribbon" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="QLDKINTERNET.GUI.MainWindowGui"
+        Title="MainWindow" Height="614.779" Width="857.978">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <!--gpMenu_ToolBar-->
+            <RowDefinition Height="*"/>
+            <!--gpFunctions-->
+            <RowDefinition Height="30"/>
+            <!--gpStatusBar-->
+        </Grid.RowDefinitions>
+
+        <!-- gpMenu_ToolBar-->
+        <Grid x:Name="gpMenu_ToolBar" Grid.Row="0" Background="#FF72F183">
+            <Custom:Ribbon Margin="-10,0,0,0">
+                <!--Application menu-->
+                <Custom:Ribbon.ApplicationMenu>
+                    <Custom:RibbonApplicationMenu>
+                        <Custom:RibbonApplicationMenuItem Header="Open" Name="rbamiOpen"></Custom:RibbonApplicationMenuItem>
+                        <Custom:RibbonApplicationMenuItem Header="About" Name="rbamiAbout"></Custom:RibbonApplicationMenuItem>
+                        <Custom:RibbonApplicationMenuItem Header="Exit" Name="rbamiExit"></Custom:RibbonApplicationMenuItem>
+                        <!--AuxiliaryPaneContent-->
+                        <Custom:RibbonApplicationMenu.AuxiliaryPaneContent>
+                            <Custom:RibbonGallery CanUserFilter="False"
+                                                  ScrollViewer.VerticalScrollBarVisibility="Auto">
+                                <Custom:RibbonGalleryCategory x:Name="rbgcRecentPlaces" Header="Recent Places" 
+                                                              Background="Transparent" 
+                                                              ItemsSource="{Binding RecentPlaces}" FontWeight="Bold">
+                                    <Custom:RibbonGalleryCategory.ItemsPanel>
+                                        <ItemsPanelTemplate>
+                                            <StackPanel Orientation="Vertical" IsItemsHost="True"/>
+                                        </ItemsPanelTemplate>
+                                    </Custom:RibbonGalleryCategory.ItemsPanel>
+                                </Custom:RibbonGalleryCategory>
+                            </Custom:RibbonGallery>
+                        </Custom:RibbonApplicationMenu.AuxiliaryPaneContent>
+                    </Custom:RibbonApplicationMenu>
+                </Custom:Ribbon.ApplicationMenu>
+                <!--Main ribbon tab-->
+                <Custom:RibbonTab Header="Main" Margin="0,0,0,0">
+                    <!--CreateGroup-->
+                    <Custom:RibbonGroup Header="Khách Hàng" Name="CreateGroup" >
+                        <Custom:RibbonButton  x:Name="btnQuanLyKhachHang" 
+                                              Label="Quản lý khách hàng" 
+                                              Click="btnQuanLyKhachHang_Click"
+                                              />
+                    </Custom:RibbonGroup>
+                </Custom:RibbonTab>
+
+                <!--Settings ribbon tab-->
+                <Custom:RibbonTab Header="Settings" Margin="0,0,0,0">
+                    <!--CreateGroup-->
+                    <Custom:RibbonGroup Header="Cài đặt chính" Name="rbgDataSettings" >
+                        <Custom:RibbonButton  x:Name="btnDataSettings" 
+                                              Label="Cài đặt dữ liệu" 
+                                              Click="btnDataSettings_Click"
+                                              />
+                    </Custom:RibbonGroup>
+                </Custom:RibbonTab>
+
+
+            </Custom:Ribbon>
+        </Grid>
+
+        <!--gpFunctions-->
+        <Grid x:Name="gpFunctions" Grid.Row="1" Background="#FFF50000">
+            <TabControl Background="#FFB6B625">
+                <TabItem x:Name="tiCustomer" Header="Tiếp nhận đăng ký" Height="22" VerticalAlignment="Bottom">
+                    <ContentControl x:Name="ccDangKy" Background="#FF2563E6"/>
+                </TabItem>
+                <TabItem x:Name="tiPayment" Header="Thanh toán đăng ký">
+                    <ContentControl x:Name="ccThanhToanDangKy" Background="#FF2563E6"/>
+                </TabItem>
+
+
+                <TabItem x:Name="tiTinhTrangDichVu" Header="Tình trạng dịch vụ">
+                    <ContentControl x:Name="ccTinhTrangDichVu" Background="#FF2563E6"/>
+                </TabItem>
+
+                <TabItem x:Name="tiRegister" Header="Quản lý khách hàng">
+                    <Grid Background="#FFE5E5E5"/>
+                </TabItem>
+                <TabItem x:Name="tiReport" Header="Quản lý báo cáo">
+                    <Grid Background="#FFE5E5E5"/>
+                </TabItem>
+            </TabControl>
+        </Grid>
+
+        <!--gpStatusBar-->
+        <Grid x:Name="gpStatusBar" Grid.Row="2" Background="#FFFFFF04"/>
+
+    </Grid>
+</Window>

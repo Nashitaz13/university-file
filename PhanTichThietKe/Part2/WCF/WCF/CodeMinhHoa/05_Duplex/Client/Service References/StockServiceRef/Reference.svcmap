@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="32068b90-e597-4fa4-b358-12fa7c16e9e3" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:3003/StockService" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="StockService.disco" MetadataType="Disco" ID="43558a89-7541-42d1-95a3-93e064c81af5" SourceId="1" SourceUrl="http://localhost:3003/StockService?disco" />
+    <MetadataFile FileName="StockService.xsd" MetadataType="Schema" ID="717896da-68ce-44ae-890b-41332bb14b65" SourceId="1" SourceUrl="http://localhost:3003/StockService?xsd=xsd0" />
+    <MetadataFile FileName="StockService1.xsd" MetadataType="Schema" ID="f3577388-c8f9-4b2f-a529-f038711038ef" SourceId="1" SourceUrl="http://localhost:3003/StockService?xsd=xsd1" />
+    <MetadataFile FileName="StockService.wsdl" MetadataType="Wsdl" ID="ac008b3b-6cbd-40d2-aad7-6b771ca34561" SourceId="1" SourceUrl="http://localhost:3003/StockService?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

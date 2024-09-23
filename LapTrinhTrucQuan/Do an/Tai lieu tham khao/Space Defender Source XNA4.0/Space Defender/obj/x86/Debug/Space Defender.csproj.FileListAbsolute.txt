@@ -1,0 +1,153 @@
+E:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\SpaceDefenders\Weapons\Missile.xnb
+E:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\SpaceDefenders\Weapons\Bullet.xnb
+E:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Cursors\Cursor.xnb
+E:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Enemies\Invader.xnb
+E:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Effects\Explosion.xnb
+E:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Enemies\MotherShip.xnb
+E:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Enemies\Drone.xnb
+E:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Enemies\Weapons\Pulse.xnb
+E:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Items\Health.xnb
+E:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Panel\MissileGauge.xnb
+E:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Panel\Panel.xnb
+E:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Panel\LifeGauge.xnb
+E:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Panel\ScorePanel.xnb
+E:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Enemies\Weapons\Bolt.xnb
+E:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Enemies\FinalBoss.xnb
+E:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Enemies\Weapons\BoltCannon.xnb
+E:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Enemies\Weapons\PulseCannon.xnb
+E:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Enemies\Weapons\DefendersPlatform.xnb
+E:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\SpaceDefenders\ArmoredShip.xnb
+E:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\SpaceDefenders\RapidFireShip.xnb
+E:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\SpaceDefenders\SuperShip.xnb
+E:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\SpaceDefenders\TurboShip.xnb
+E:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Menus\Keyboard.xnb
+E:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Menus\Button.xnb
+E:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Cursors\Sniper.xnb
+E:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Menus\HowToPlay.xnb
+E:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\SpaceDefenders\NotAvailable.xnb
+E:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Menus\Mouse.xnb
+E:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Menus\Addiction.xnb
+E:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Menus\About.xnb
+E:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Background.xnb
+E:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\SelectShipBG.xnb
+E:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\WinningBG.xnb
+E:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Logo.xnb
+E:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\smoke.xnb
+E:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Paused.xnb
+E:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Fonts\Arial.xnb
+E:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Audio\Audio.xgs
+E:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+E:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+E:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Space Defender.exe.manifest
+E:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Space Defender.application
+E:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Space Defender.exe
+E:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Space Defender.pdb
+E:\XNA\Space Defender Source XNA4.0\Space Defender\obj\x86\Debug\Space Defender.csprojResolveAssemblyReference.cache
+E:\XNA\Space Defender Source XNA4.0\Space Defender\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\XNA\Space Defender Source XNA4.0\Space Defender\obj\x86\Debug\Space Defender.TrustInfo.xml
+E:\XNA\Space Defender Source XNA4.0\Space Defender\obj\x86\Debug\Space Defender.exe.manifest
+E:\XNA\Space Defender Source XNA4.0\Space Defender\obj\x86\Debug\Space Defender.application
+E:\XNA\Space Defender Source XNA4.0\Space Defender\obj\x86\Debug\Space Defender.exe
+E:\XNA\Space Defender Source XNA4.0\Space Defender\obj\x86\Debug\Space Defender.pdb
+F:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\SpaceDefenders\Weapons\Missile.xnb
+F:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\SpaceDefenders\Weapons\Bullet.xnb
+F:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Cursors\Cursor.xnb
+F:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Enemies\Invader.xnb
+F:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Effects\Explosion.xnb
+F:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Enemies\MotherShip.xnb
+F:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Enemies\Drone.xnb
+F:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Enemies\Weapons\Pulse.xnb
+F:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Items\Health.xnb
+F:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Panel\MissileGauge.xnb
+F:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Panel\Panel.xnb
+F:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Panel\LifeGauge.xnb
+F:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Panel\ScorePanel.xnb
+F:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Enemies\Weapons\Bolt.xnb
+F:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Enemies\FinalBoss.xnb
+F:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Enemies\Weapons\BoltCannon.xnb
+F:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Enemies\Weapons\PulseCannon.xnb
+F:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Enemies\Weapons\DefendersPlatform.xnb
+F:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\SpaceDefenders\ArmoredShip.xnb
+F:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\SpaceDefenders\RapidFireShip.xnb
+F:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\SpaceDefenders\SuperShip.xnb
+F:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\SpaceDefenders\TurboShip.xnb
+F:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Menus\Keyboard.xnb
+F:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Menus\Button.xnb
+F:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Cursors\Sniper.xnb
+F:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Menus\HowToPlay.xnb
+F:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\SpaceDefenders\NotAvailable.xnb
+F:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Menus\Mouse.xnb
+F:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Menus\Addiction.xnb
+F:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Menus\About.xnb
+F:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Background.xnb
+F:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\SelectShipBG.xnb
+F:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\WinningBG.xnb
+F:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Logo.xnb
+F:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\smoke.xnb
+F:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Paused.xnb
+F:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Fonts\Arial.xnb
+F:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Audio\Audio.xgs
+F:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+F:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+F:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Space Defender.exe.manifest
+F:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Space Defender.application
+F:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Space Defender.exe
+F:\XNA\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Space Defender.pdb
+F:\XNA\Space Defender Source XNA4.0\Space Defender\obj\x86\Debug\Space Defender.csprojResolveAssemblyReference.cache
+F:\XNA\Space Defender Source XNA4.0\Space Defender\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\XNA\Space Defender Source XNA4.0\Space Defender\obj\x86\Debug\Space Defender.TrustInfo.xml
+F:\XNA\Space Defender Source XNA4.0\Space Defender\obj\x86\Debug\Space Defender.exe.manifest
+F:\XNA\Space Defender Source XNA4.0\Space Defender\obj\x86\Debug\Space Defender.application
+F:\XNA\Space Defender Source XNA4.0\Space Defender\obj\x86\Debug\Space Defender.exe
+F:\XNA\Space Defender Source XNA4.0\Space Defender\obj\x86\Debug\Space Defender.pdb
+E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\SpaceDefenders\Weapons\Missile.xnb
+E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\SpaceDefenders\Weapons\Bullet.xnb
+E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Cursors\Cursor.xnb
+E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Enemies\Invader.xnb
+E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Effects\Explosion.xnb
+E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Enemies\MotherShip.xnb
+E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Enemies\Drone.xnb
+E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Enemies\Weapons\Pulse.xnb
+E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Items\Health.xnb
+E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Panel\MissileGauge.xnb
+E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Panel\Panel.xnb
+E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Panel\LifeGauge.xnb
+E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Panel\ScorePanel.xnb
+E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Enemies\Weapons\Bolt.xnb
+E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Enemies\FinalBoss.xnb
+E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Enemies\Weapons\BoltCannon.xnb
+E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Enemies\Weapons\PulseCannon.xnb
+E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Enemies\Weapons\DefendersPlatform.xnb
+E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\SpaceDefenders\ArmoredShip.xnb
+E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\SpaceDefenders\RapidFireShip.xnb
+E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\SpaceDefenders\SuperShip.xnb
+E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\SpaceDefenders\TurboShip.xnb
+E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Menus\Keyboard.xnb
+E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Menus\Button.xnb
+E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Cursors\Sniper.xnb
+E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Menus\HowToPlay.xnb
+E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\SpaceDefenders\NotAvailable.xnb
+E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Menus\Mouse.xnb
+E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Menus\Addiction.xnb
+E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Menus\About.xnb
+E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Background.xnb
+E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\SelectShipBG.xnb
+E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\WinningBG.xnb
+E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Logo.xnb
+E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\smoke.xnb
+E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Paused.xnb
+E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Fonts\Arial.xnb
+E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Audio\Audio.xgs
+E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Space Defender.exe.manifest
+E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Space Defender.application
+E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Space Defender.exe
+E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Space Defender.pdb
+E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\obj\x86\Debug\Space Defender.csprojResolveAssemblyReference.cache
+E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\obj\x86\Debug\Space Defender.TrustInfo.xml
+E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\obj\x86\Debug\Space Defender.exe.manifest
+E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\obj\x86\Debug\Space Defender.application
+E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\obj\x86\Debug\Space Defender.exe
+E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\obj\x86\Debug\Space Defender.pdb

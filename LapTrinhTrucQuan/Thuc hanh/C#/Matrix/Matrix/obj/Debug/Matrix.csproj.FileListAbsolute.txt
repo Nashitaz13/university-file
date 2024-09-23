@@ -1,0 +1,6 @@
+C:\Users\Bien\documents\visual studio 2013\Projects\Matrix\Matrix\bin\Debug\Matrix.exe.config
+C:\Users\Bien\documents\visual studio 2013\Projects\Matrix\Matrix\obj\Debug\Matrix.exe
+C:\Users\Bien\documents\visual studio 2013\Projects\Matrix\Matrix\obj\Debug\Matrix.pdb
+C:\Users\Bien\documents\visual studio 2013\Projects\Matrix\Matrix\bin\Debug\Matrix.exe
+C:\Users\Bien\documents\visual studio 2013\Projects\Matrix\Matrix\bin\Debug\Matrix.pdb
+C:\Users\Bien\documents\visual studio 2013\Projects\Matrix\Matrix\obj\Debug\Matrix.csprojResolveAssemblyReference.cache

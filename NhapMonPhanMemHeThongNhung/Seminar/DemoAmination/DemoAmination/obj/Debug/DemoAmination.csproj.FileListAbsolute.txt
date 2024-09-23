@@ -1,0 +1,46 @@
+c:\users\canh\documents\visual studio 2012\Projects\DemoAmination\DemoAmination\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\canh\documents\visual studio 2012\Projects\DemoAmination\DemoAmination\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\canh\documents\visual studio 2012\Projects\DemoAmination\DemoAmination\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\canh\documents\visual studio 2012\Projects\DemoAmination\DemoAmination\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\canh\documents\visual studio 2012\Projects\DemoAmination\DemoAmination\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\canh\documents\visual studio 2012\Projects\DemoAmination\DemoAmination\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\canh\documents\visual studio 2012\Projects\DemoAmination\DemoAmination\Bin\Debug\DemoAmination.dll
+c:\users\canh\documents\visual studio 2012\Projects\DemoAmination\DemoAmination\Bin\Debug\DemoAmination.pdb
+c:\users\canh\documents\visual studio 2012\Projects\DemoAmination\DemoAmination\Bin\Debug\AppManifest.xaml
+c:\users\canh\documents\visual studio 2012\Projects\DemoAmination\DemoAmination\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\canh\documents\visual studio 2012\Projects\DemoAmination\DemoAmination\Bin\Debug\DemoAmination_Debug_AnyCPU.xap
+c:\users\canh\documents\visual studio 2012\Projects\DemoAmination\DemoAmination\obj\Debug\App.g.cs
+c:\users\canh\documents\visual studio 2012\Projects\DemoAmination\DemoAmination\obj\Debug\MainPage.g.cs
+c:\users\canh\documents\visual studio 2012\Projects\DemoAmination\DemoAmination\obj\Debug\DemoAmination.g.resources
+c:\users\canh\documents\visual studio 2012\Projects\DemoAmination\DemoAmination\obj\Debug\DemoAmination.Resources.AppResources.resources
+c:\users\canh\documents\visual studio 2012\Projects\DemoAmination\DemoAmination\obj\Debug\DemoAmination.csproj.GenerateResource.Cache
+c:\users\canh\documents\visual studio 2012\Projects\DemoAmination\DemoAmination\obj\Debug\DemoAmination.dll
+c:\users\canh\documents\visual studio 2012\Projects\DemoAmination\DemoAmination\obj\Debug\DemoAmination.pdb
+c:\users\canh\documents\visual studio 2012\Projects\DemoAmination\DemoAmination\obj\Debug\XapCacheFile.xml
+c:\users\canh\documents\visual studio 2012\Projects\DemoAmination\DemoAmination\Bin\Debug\Assets\AppBar\add.png
+c:\users\canh\documents\visual studio 2012\Projects\DemoAmination\DemoAmination\Bin\Debug\Assets\AppBar\minus.png
+c:\users\canh\documents\visual studio 2012\Projects\DemoAmination\DemoAmination\Bin\Debug\Assets\AppBar\transport.pause.png
+c:\users\canh\documents\visual studio 2012\Projects\DemoAmination\DemoAmination\Bin\Debug\Assets\AppBar\transport.play.png
+F:\HK5\Nhap mon phan mem & he thong nhung\Seminar\DemoAmination\DemoAmination\Bin\Debug\Assets\AppBar\add.png
+F:\HK5\Nhap mon phan mem & he thong nhung\Seminar\DemoAmination\DemoAmination\Bin\Debug\Assets\AppBar\minus.png
+F:\HK5\Nhap mon phan mem & he thong nhung\Seminar\DemoAmination\DemoAmination\Bin\Debug\Assets\AppBar\transport.pause.png
+F:\HK5\Nhap mon phan mem & he thong nhung\Seminar\DemoAmination\DemoAmination\Bin\Debug\Assets\AppBar\transport.play.png
+F:\HK5\Nhap mon phan mem & he thong nhung\Seminar\DemoAmination\DemoAmination\Bin\Debug\Assets\ApplicationIcon.png
+F:\HK5\Nhap mon phan mem & he thong nhung\Seminar\DemoAmination\DemoAmination\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+F:\HK5\Nhap mon phan mem & he thong nhung\Seminar\DemoAmination\DemoAmination\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+F:\HK5\Nhap mon phan mem & he thong nhung\Seminar\DemoAmination\DemoAmination\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+F:\HK5\Nhap mon phan mem & he thong nhung\Seminar\DemoAmination\DemoAmination\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+F:\HK5\Nhap mon phan mem & he thong nhung\Seminar\DemoAmination\DemoAmination\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+F:\HK5\Nhap mon phan mem & he thong nhung\Seminar\DemoAmination\DemoAmination\Bin\Debug\DemoAmination.dll
+F:\HK5\Nhap mon phan mem & he thong nhung\Seminar\DemoAmination\DemoAmination\Bin\Debug\DemoAmination.pdb
+F:\HK5\Nhap mon phan mem & he thong nhung\Seminar\DemoAmination\DemoAmination\Bin\Debug\AppManifest.xaml
+F:\HK5\Nhap mon phan mem & he thong nhung\Seminar\DemoAmination\DemoAmination\Bin\Debug\Properties\WMAppManifest.xml
+F:\HK5\Nhap mon phan mem & he thong nhung\Seminar\DemoAmination\DemoAmination\Bin\Debug\DemoAmination_Debug_AnyCPU.xap
+F:\HK5\Nhap mon phan mem & he thong nhung\Seminar\DemoAmination\DemoAmination\obj\Debug\App.g.cs
+F:\HK5\Nhap mon phan mem & he thong nhung\Seminar\DemoAmination\DemoAmination\obj\Debug\MainPage.g.cs
+F:\HK5\Nhap mon phan mem & he thong nhung\Seminar\DemoAmination\DemoAmination\obj\Debug\DemoAmination.g.resources
+F:\HK5\Nhap mon phan mem & he thong nhung\Seminar\DemoAmination\DemoAmination\obj\Debug\DemoAmination.Resources.AppResources.resources
+F:\HK5\Nhap mon phan mem & he thong nhung\Seminar\DemoAmination\DemoAmination\obj\Debug\DemoAmination.csproj.GenerateResource.Cache
+F:\HK5\Nhap mon phan mem & he thong nhung\Seminar\DemoAmination\DemoAmination\obj\Debug\DemoAmination.dll
+F:\HK5\Nhap mon phan mem & he thong nhung\Seminar\DemoAmination\DemoAmination\obj\Debug\DemoAmination.pdb
+F:\HK5\Nhap mon phan mem & he thong nhung\Seminar\DemoAmination\DemoAmination\obj\Debug\XapCacheFile.xml

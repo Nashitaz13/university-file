@@ -1,0 +1,6 @@
+E:\XNA\Space Defender Source XNA4.0\Space Defender\Content\obj\x86\Debug\Space DefenderContent.contentprojResolveAssemblyReference.cache
+E:\XNA\Space Defender Source XNA4.0\Space Defender\Content\obj\x86\Debug\Audio\Audio.xml
+F:\XNA\Space Defender Source XNA4.0\Space Defender\Content\obj\x86\Debug\Space DefenderContent.contentprojResolveAssemblyReference.cache
+F:\XNA\Space Defender Source XNA4.0\Space Defender\Content\obj\x86\Debug\Audio\Audio.xml
+E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\Content\obj\x86\Debug\Space DefenderContent.contentprojResolveAssemblyReference.cache
+E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\Content\obj\x86\Debug\Audio\Audio.xml

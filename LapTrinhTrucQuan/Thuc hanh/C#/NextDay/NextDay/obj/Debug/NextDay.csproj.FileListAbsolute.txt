@@ -1,0 +1,6 @@
+c:\users\bien\documents\visual studio 2013\Projects\NextDay\NextDay\bin\Debug\NextDay.exe.config
+c:\users\bien\documents\visual studio 2013\Projects\NextDay\NextDay\obj\Debug\NextDay.csprojResolveAssemblyReference.cache
+c:\users\bien\documents\visual studio 2013\Projects\NextDay\NextDay\bin\Debug\NextDay.exe
+c:\users\bien\documents\visual studio 2013\Projects\NextDay\NextDay\bin\Debug\NextDay.pdb
+c:\users\bien\documents\visual studio 2013\Projects\NextDay\NextDay\obj\Debug\NextDay.exe
+c:\users\bien\documents\visual studio 2013\Projects\NextDay\NextDay\obj\Debug\NextDay.pdb

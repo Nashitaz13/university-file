@@ -1,0 +1,11 @@
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\Fill\bin\Debug\Fill.exe
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\Fill\bin\Debug\Fill.pdb
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\Fill\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\Fill\obj\x86\Debug\Fill.Form1.resources
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\Fill\obj\x86\Debug\Fill.Properties.Resources.resources
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\Fill\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\Fill\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\Fill\obj\x86\Debug\Fill.exe
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\Fill\obj\x86\Debug\Fill.pdb
+D:\NGUYET MINH\UIT-CNPM\CNCQ\LTW\2013\TK\2012\Chuong 05 - GDI - Slide\LapTrinhGDI\Fill\obj\x86\Debug\Fill.exe
+D:\NGUYET MINH\UIT-CNPM\CNCQ\LTW\2013\TK\2012\Chuong 05 - GDI - Slide\LapTrinhGDI\Fill\obj\x86\Debug\Fill.pdb

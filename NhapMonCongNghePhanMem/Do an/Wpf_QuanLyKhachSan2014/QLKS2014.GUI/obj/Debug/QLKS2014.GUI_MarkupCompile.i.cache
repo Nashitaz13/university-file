@@ -1,0 +1,20 @@
+﻿QLKS2014.GUI
+
+
+winexe
+C#
+.cs
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\obj\Debug\
+QLKS2014.GUI
+none
+false
+DEBUG;TRACE
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.GUI\App.xaml
+161443572733
+
+262140477918
+18893479810
+StupidContent\Bill.xaml;StupidContent\ListRoom.xaml;StupidContent\RentRoom.xaml;StupidContent\CreateReport.xaml;StupidContent\SearchRoom.xaml;StupidContent\SearchByTime.xaml;StupidContent\SearchByRoomType.xaml;StupidContent\UpdateRoom.xaml;StupidWindow\DetailRoomRentedWindow.xaml;StupidWindow\ListBillWindow.xaml;StupidWindow\ListDetailReportWindow.xaml;StupidWindow\ListRentRoomWindow.xaml;StupidWindow\ListReportWindow.xaml;StupidWindow\LoginWindow.xaml;StupidWindow\MainWindow.xaml;StupidWindow\SettingsWindow.xaml;
+
+True
+

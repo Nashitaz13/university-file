@@ -1,0 +1,29 @@
+﻿Build started 12/26/2013 9:05:32 AM.
+     1>Project "E:\HK3\LTHDT\TH\BT6\Cau_4\Cau_4\Cau_4.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "E:\HK3\LTHDT\TH\BT6\Cau_4\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\Cau_4.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Cau_4.cpp C_Time.cpp
+         C_Time.cpp
+         Cau_4.cpp
+     1>e:\hk3\lthdt\th\bt6\cau_4\cau_4\cau_4.cpp(11): warning C4620: no postfix form of 'operator ++' found for type 'C_Time', using prefix form
+                 e:\hk3\lthdt\th\bt6\cau_4\cau_4\c_time.h(5) : see declaration of 'C_Time'
+     1>e:\hk3\lthdt\th\bt6\cau_4\cau_4\cau_4.cpp(12): warning C4621: no postfix form of 'operator --' found for type 'C_Time', using prefix form
+                 e:\hk3\lthdt\th\bt6\cau_4\cau_4\c_time.h(5) : see declaration of 'C_Time'
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\HK3\LTHDT\TH\BT6\Cau_4\Debug\Cau_4.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Cau_4.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\HK3\LTHDT\TH\BT6\Cau_4\Debug\Cau_4.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\HK3\LTHDT\TH\BT6\Cau_4\Debug\Cau_4.lib" /MACHINE:X86 Debug\Cau_4.obj
+         Debug\C_Time.obj
+         Cau_4.vcxproj -> E:\HK3\LTHDT\TH\BT6\Cau_4\Debug\Cau_4.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\HK3\LTHDT\TH\BT6\Cau_4\Debug\Cau_4.exe;#1" /manifest Debug\Cau_4.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\Cau_4.unsuccessfulbuild".
+         Touching "Debug\Cau_4.lastbuildstate".
+     1>Done Building Project "E:\HK3\LTHDT\TH\BT6\Cau_4\Cau_4\Cau_4.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.62

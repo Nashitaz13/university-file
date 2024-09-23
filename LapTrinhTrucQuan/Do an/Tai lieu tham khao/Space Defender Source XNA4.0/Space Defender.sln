@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space Defender", "Space Defender\Space Defender.csproj", "{17AC8ECB-53EA-4F02-8955-9B041D9F4BBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space DefenderContent", "Space Defender\Content\Space DefenderContent.contentproj", "{26A2474D-8877-4C84-8037-2FF9DD33D37E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17AC8ECB-53EA-4F02-8955-9B041D9F4BBE}.Debug|x86.ActiveCfg = Debug|x86
+		{17AC8ECB-53EA-4F02-8955-9B041D9F4BBE}.Debug|x86.Build.0 = Debug|x86
+		{17AC8ECB-53EA-4F02-8955-9B041D9F4BBE}.Release|x86.ActiveCfg = Release|x86
+		{17AC8ECB-53EA-4F02-8955-9B041D9F4BBE}.Release|x86.Build.0 = Release|x86
+		{26A2474D-8877-4C84-8037-2FF9DD33D37E}.Debug|x86.ActiveCfg = Debug|x86
+		{26A2474D-8877-4C84-8037-2FF9DD33D37E}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

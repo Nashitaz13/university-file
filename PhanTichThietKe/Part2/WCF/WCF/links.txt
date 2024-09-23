@@ -1,0 +1,8 @@
+﻿http://www.wcftutorial.net/ 
+http://msdn.microsoft.com/en-us/library/ms734712.aspx 
+http://www.deitel.com/ResourceCenters/Programming/WindowsCommunicationFoundation/Tutorials/tabid/2831/Default.aspx 
+http://www.switchonthecode.com/tutorials/wcf-tutorial-basic-interprocess-communication (Communication via code)
+http://msdn.microsoft.com/en-us/netframework/dd939784 
+
+http://keithelder.net/2008/10/17/WCF-vs-ASMX-WebServices/
+http://msdn.microsoft.com/en-us/library/ms733932.aspx 

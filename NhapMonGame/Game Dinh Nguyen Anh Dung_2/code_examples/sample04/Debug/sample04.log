@@ -1,0 +1,18 @@
+﻿Build started 10/3/2015 8:39:22 PM.
+     1>Project "E:\HK5\[Closed]NMPT Game\Game Dinh Nguyen Anh Dung_2\code_examples\sample04\sample04.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp mario_sample.cpp sprite.cpp utils.cpp
+         utils.cpp
+     1>e:\hk5\[closed]nmpt game\game dinh nguyen anh dung_2\code_examples\sample04\utils.cpp(1): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         sprite.cpp
+     1>e:\hk5\[closed]nmpt game\game dinh nguyen anh dung_2\code_examples\sample04\sprite.h(5): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         mario_sample.cpp
+     1>e:\hk5\[closed]nmpt game\game dinh nguyen anh dung_2\code_examples\sample04\mario_sample.cpp(2): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         main.cpp
+     1>e:\hk5\[closed]nmpt game\game dinh nguyen anh dung_2\code_examples\sample04\mario_sample.h(4): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         Generating Code...
+     1>Done Building Project "E:\HK5\[Closed]NMPT Game\Game Dinh Nguyen Anh Dung_2\code_examples\sample04\sample04.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.36

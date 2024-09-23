@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrogJump", "FrogJump\FrogJump\FrogJump.csproj", "{676AA3F9-43C0-4992-AF8B-0BF870E73255}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrogJumpContent", "FrogJump\FrogJumpContent\FrogJumpContent.contentproj", "{7D671ED6-BBDC-4C24-9F5F-EBADBE5CF926}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Any CPU = Release|Any CPU
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{676AA3F9-43C0-4992-AF8B-0BF870E73255}.Debug|Any CPU.ActiveCfg = Debug|Windows Phone
+		{676AA3F9-43C0-4992-AF8B-0BF870E73255}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{676AA3F9-43C0-4992-AF8B-0BF870E73255}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{676AA3F9-43C0-4992-AF8B-0BF870E73255}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{676AA3F9-43C0-4992-AF8B-0BF870E73255}.Release|Any CPU.ActiveCfg = Release|Windows Phone
+		{676AA3F9-43C0-4992-AF8B-0BF870E73255}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{676AA3F9-43C0-4992-AF8B-0BF870E73255}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{676AA3F9-43C0-4992-AF8B-0BF870E73255}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{7D671ED6-BBDC-4C24-9F5F-EBADBE5CF926}.Debug|Any CPU.ActiveCfg = Debug|Windows Phone
+		{7D671ED6-BBDC-4C24-9F5F-EBADBE5CF926}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{7D671ED6-BBDC-4C24-9F5F-EBADBE5CF926}.Release|Any CPU.ActiveCfg = Release|Windows Phone
+		{7D671ED6-BBDC-4C24-9F5F-EBADBE5CF926}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

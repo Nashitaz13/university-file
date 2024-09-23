@@ -1,0 +1,151 @@
+#include<iostream>
+
+using namespace std;
+
+class TreeNode{
+    private:
+        int data;
+        TreeNode *left;
+        TreeNode *right;
+    public:
+        TreeNode(){
+            data=-1;
+            left=right=NULL;
+        }
+        TreeNode(int n){
+            data=n;
+            left=right=NULL;
+        }
+        int getData(){
+            return data;
+        }
+        void setData(int n){
+            data=n;
+        }
+        void setLeft(TreeNode *left){
+            this->left=left;                
+        }
+        void setRight(TreeNode *right){
+            this->right=right;
+        }
+        TreeNode *getLeft(){
+            return left;
+        }
+        TreeNode *getRight(){
+            return right;
+        }
+        void print(){
+            cout<<data<<"";
+        }
+};
+
+class Stack{
+    private:
+        TreeNode *nodes;
+    public:
+        int size;
+        int top;
+        Stack(int size){
+            top=0;
+            this->size=size;
+                nodes = new Treenode[size];
+        }
+
+        TreeNode pop(){
+            if (top == 0){
+                cout<<"Stack is empty"<<endl;
+                return -1;
+            }
+            top--;
+            return nodes[top];
+        }
+
+        TreeNode push(TreeNode *node){
+            if (top==size){
+                cout<<"Stack is full"<<endl;
+                return 0;
+                nodes[top]= *node;
+                top++;
+            }
+        }
+};
+
+class BST{
+    private:
+        TreeNode * root;
+    public:
+        BST(){
+            root=NULL;
+        }
+
+        void preorder(){
+            preorder(root);
+            cout<<endl;
+        }
+
+        void preorder(TreeNode *root){
+            if(root !=NULL){
+                root->print();
+                preorder(root->getLeft());
+                preorder(root->getRight());
+            }
+        }
+
+        void insert(int n){
+            TreeNode * newNode = new TreeNode(n);
+            if(root == NULL)
+            {
+                root = newNode;
+            }       
+            else{
+                TreeNode *temp = root;
+                TreeNode *prev = NULL;
+                while(temp != NULL){
+                    prev=temp;
+                    if (n < temp->getData()){
+                        temp=temp->getLeft();
+                    }
+                    else{
+                        temp=temp->getRight();
+                    }
+                    if (n > prev->getData()){
+                        prev->setRight( newNode );
+                    }
+                    else{
+                        prev->setLeft( newNode );
+                    }
+                }
+            }
+        }
+
+        void print(){
+            Stack *s= new Stack(50);
+            s->push(root);
+            while( s->size > 0 ){
+                TreeNode t = s->pop();
+                cout<<t.getData()<<"";
+                if(t.getLeft() != NULL){
+                    s->push(t.getLeft());
+                }
+                if(t.getRight() != NULL){
+                    s->push(t.getRight());
+                }
+            }
+            cout<<endl;
+        }
+};
+
+int main(){
+    int n;
+    BST *bst = new BST(); 
+    do{
+        cin>>n;
+        if( n == -1)
+            break;
+        bst->insert(n);
+    }while( true ); 
+
+    bst->print();
+    bst->preorder();
+    return 0;
+}

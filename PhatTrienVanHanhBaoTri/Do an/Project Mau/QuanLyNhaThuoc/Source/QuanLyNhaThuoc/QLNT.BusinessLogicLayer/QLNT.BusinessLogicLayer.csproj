@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{09877F20-D974-427B-80EB-3911539A142D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QLNT.BusinessLogicLayer</RootNamespace>
+    <AssemblyName>QLNT.BusinessLogicLayer</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BanThuoc\BllPhieuXuatThuoc.cs" />
+    <Compile Include="BanThuoc\BllSoPhieuXuatThuoc.cs" />
+    <Compile Include="DanhMuc\BllNhaCungCap.cs" />
+    <Compile Include="DanhMuc\BllNhanVien.cs" />
+    <Compile Include="DanhMuc\BllNhomThuoc.cs" />
+    <Compile Include="DanhMuc\BllThuoc.cs" />
+    <Compile Include="MuaThuoc\BllPhieuNhapThuoc.cs" />
+    <Compile Include="MuaThuoc\BllSoPhieuNhapThuoc.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TraCuu\BllTraCuuThuoc.cs" />
+    <Compile Include="TraThuoc\BllPhieuTraThuoc.cs" />
+    <Compile Include="TraThuoc\BllSoPhieuTraThuoc.cs" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="BaoCao\" />
+    <Folder Include="HeThong\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\QLNT.CommonLayer\QLNT.CommonLayer.csproj">
+      <Project>{8e335893-65e5-43e3-a86f-10525d45afe8}</Project>
+      <Name>QLNT.CommonLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\QLNT.DataAccessLayer\QLNT.DataAccessLayer.csproj">
+      <Project>{f204721a-0209-45fb-877c-b3c6c10ba059}</Project>
+      <Name>QLNT.DataAccessLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\QLNT.DataTransferObject\QLNT.DataTransferObject.csproj">
+      <Project>{2e31e5c6-4143-41c8-afad-ab1c117fa43e}</Project>
+      <Name>QLNT.DataTransferObject</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

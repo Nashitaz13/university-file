@@ -1,0 +1,16 @@
+﻿Build started 3/4/2014 9:20:31 PM.
+     1>Project "E:\HK3\LTHDT\TH\BT6\Cau_2\Cau_2\Cau_2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Cau_2.cpp PhanSo.cpp
+         PhanSo.cpp
+         Cau_2.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\HK3\LTHDT\TH\BT6\Cau_2\Debug\Cau_2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\HK3\LTHDT\TH\BT6\Cau_2\Debug\Cau_2.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\HK3\LTHDT\TH\BT6\Cau_2\Debug\Cau_2.lib" /MACHINE:X86 Debug\Cau_2.obj
+         Debug\PhanSo.obj
+         Cau_2.vcxproj -> E:\HK3\LTHDT\TH\BT6\Cau_2\Debug\Cau_2.exe
+     1>Done Building Project "E:\HK3\LTHDT\TH\BT6\Cau_2\Cau_2\Cau_2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.47

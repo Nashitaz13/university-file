@@ -1,0 +1,8 @@
+c:\users\bien\documents\visual studio 2013\Projects\Mang1Chieu\Mang1Chieu\bin\Debug\Mang1Chieu.exe.config
+c:\users\bien\documents\visual studio 2013\Projects\Mang1Chieu\Mang1Chieu\bin\Debug\Mang1Chieu.exe
+c:\users\bien\documents\visual studio 2013\Projects\Mang1Chieu\Mang1Chieu\bin\Debug\Mang1Chieu.pdb
+c:\users\bien\documents\visual studio 2013\Projects\Mang1Chieu\Mang1Chieu\obj\Debug\Mang1Chieu.exe
+c:\users\bien\documents\visual studio 2013\Projects\Mang1Chieu\Mang1Chieu\obj\Debug\Mang1Chieu.pdb
+E:\HK4\Lap trinh truc quan\Thuc hanh\C#\Mang1Chieu\Mang1Chieu\bin\Debug\Mang1Chieu.exe.config
+E:\HK4\Lap trinh truc quan\Thuc hanh\C#\Mang1Chieu\Mang1Chieu\obj\Debug\Mang1Chieu.exe
+E:\HK4\Lap trinh truc quan\Thuc hanh\C#\Mang1Chieu\Mang1Chieu\obj\Debug\Mang1Chieu.pdb

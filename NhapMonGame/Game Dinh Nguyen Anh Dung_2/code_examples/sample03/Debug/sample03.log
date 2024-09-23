@@ -1,0 +1,18 @@
+﻿Build started 10/12/2014 3:22:55 PM.
+     1>Project "C:\Users\Bien\Downloads\code_examples\sample03\sample03.vcxproj" on node 4 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt kitty.cpp main.cpp sprite.cpp utils.cpp
+         utils.cpp
+     1>c:\users\bien\downloads\code_examples\sample03\utils.cpp(1): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         sprite.cpp
+     1>c:\users\bien\downloads\code_examples\sample03\sprite.h(5): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         main.cpp
+     1>c:\users\bien\downloads\code_examples\sample03\kitty.h(4): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         kitty.cpp
+     1>c:\users\bien\downloads\code_examples\sample03\kitty.cpp(2): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         Generating Code...
+     1>Done Building Project "C:\Users\Bien\Downloads\code_examples\sample03\sample03.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.72

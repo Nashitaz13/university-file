@@ -1,0 +1,21 @@
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QLNT.CommonLayer\bin\Debug\QLNT.CommonLayer.dll
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QLNT.CommonLayer\bin\Debug\QLNT.CommonLayer.pdb
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QLNT.CommonLayer\obj\Debug\QLNT.CommonLayer.csprojResolveAssemblyReference.cache
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QLNT.CommonLayer\obj\Debug\QLNT.CommonLayer.Properties.Resources.resources
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QLNT.CommonLayer\obj\Debug\QLNT.CommonLayer.csproj.GenerateResource.Cache
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QLNT.CommonLayer\obj\Debug\QLNT.CommonLayer.dll
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\UML\De tai nop thay\Huy\QuanLyNhaThuocSource\QuanLyNhaThuoc\QLNT.CommonLayer\obj\Debug\QLNT.CommonLayer.pdb
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QLNT.CommonLayer\bin\Debug\QLNT.CommonLayer.dll
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QLNT.CommonLayer\bin\Debug\QLNT.CommonLayer.pdb
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QLNT.CommonLayer\obj\Debug\QLNT.CommonLayer.csprojResolveAssemblyReference.cache
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QLNT.CommonLayer\obj\Debug\QLNT.CommonLayer.Properties.Resources.resources
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QLNT.CommonLayer\obj\Debug\QLNT.CommonLayer.csproj.GenerateResource.Cache
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QLNT.CommonLayer\obj\Debug\QLNT.CommonLayer.dll
+D:\Hoan Chinh Dai Hoc\Cac mon hoc\NhapMonCongNghePhanMem\DeTaiNopThay\Source\QuanLyNhaThuoc\QLNT.CommonLayer\obj\Debug\QLNT.CommonLayer.pdb
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QLNT.CommonLayer\bin\Debug\QLNT.CommonLayer.dll
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QLNT.CommonLayer\bin\Debug\QLNT.CommonLayer.pdb
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QLNT.CommonLayer\obj\Debug\QLNT.CommonLayer.csprojResolveAssemblyReference.cache
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QLNT.CommonLayer\obj\Debug\QLNT.CommonLayer.Properties.Resources.resources
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QLNT.CommonLayer\obj\Debug\QLNT.CommonLayer.csproj.GenerateResource.Cache
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QLNT.CommonLayer\obj\Debug\QLNT.CommonLayer.dll
+F:\HK6\Phat trien, van hanh, bao tri phan mem\Do an\Project Mau\QuanLyNhaThuoc\Source\QuanLyNhaThuoc\QLNT.CommonLayer\obj\Debug\QLNT.CommonLayer.pdb

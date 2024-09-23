@@ -1,0 +1,5 @@
+c:\users\bien\documents\visual studio 2013\Projects\ImageOpen\ImageOpen\bin\Debug\ImageOpen.exe.config
+c:\users\bien\documents\visual studio 2013\Projects\ImageOpen\ImageOpen\bin\Debug\ImageOpen.exe
+c:\users\bien\documents\visual studio 2013\Projects\ImageOpen\ImageOpen\bin\Debug\ImageOpen.pdb
+c:\users\bien\documents\visual studio 2013\Projects\ImageOpen\ImageOpen\obj\Debug\ImageOpen.exe
+c:\users\bien\documents\visual studio 2013\Projects\ImageOpen\ImageOpen\obj\Debug\ImageOpen.pdb

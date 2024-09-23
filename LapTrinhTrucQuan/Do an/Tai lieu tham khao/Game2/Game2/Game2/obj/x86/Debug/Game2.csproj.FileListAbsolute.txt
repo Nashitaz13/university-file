@@ -1,0 +1,48 @@
+C:\Games\2\Game2\Game2\Game2\bin\x86\Debug\Content\wall.xnb
+C:\Games\2\Game2\Game2\Game2\bin\x86\Debug\Content\player.xnb
+C:\Games\2\Game2\Game2\Game2\bin\x86\Debug\Content\bullet.xnb
+C:\Games\2\Game2\Game2\Game2\bin\x86\Debug\Game2.exe
+C:\Games\2\Game2\Game2\Game2\bin\x86\Debug\Game2.pdb
+C:\Games\2\Game2\Game2\Game2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Games\2\Game2\Game2\Game2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Games\2\Game2\Game2\Game2\obj\x86\Debug\Game2.exe
+C:\Games\2\Game2\Game2\Game2\obj\x86\Debug\Game2.pdb
+C:\Games\2\Game2\Game2\Game2\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Games\2\Game2\Game2\Game2\bin\x86\Debug\Content\MegaManSpriteSheet.xnb
+C:\Games\2\Game2\Game2\Game2\bin\x86\Debug\Content\enemy.xnb
+C:\Games\2\Game2\Game2\Game2\bin\x86\Debug\Game2.exe.manifest
+C:\Games\2\Game2\Game2\Game2\bin\x86\Debug\Game2.application
+C:\Games\2\Game2\Game2\Game2\obj\x86\Debug\Game2.exe.manifest
+C:\Games\2\Game2\Game2\Game2\obj\x86\Debug\Game2.application
+C:\Users\Bien\Downloads\Game2\Game2\Game2\bin\x86\Debug\Content\wall.xnb
+C:\Users\Bien\Downloads\Game2\Game2\Game2\bin\x86\Debug\Content\player.xnb
+C:\Users\Bien\Downloads\Game2\Game2\Game2\bin\x86\Debug\Content\bullet.xnb
+C:\Users\Bien\Downloads\Game2\Game2\Game2\bin\x86\Debug\Content\MegaManSpriteSheet.xnb
+C:\Users\Bien\Downloads\Game2\Game2\Game2\bin\x86\Debug\Content\enemy.xnb
+C:\Users\Bien\Downloads\Game2\Game2\Game2\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Bien\Downloads\Game2\Game2\Game2\bin\x86\Debug\Game2.exe.manifest
+C:\Users\Bien\Downloads\Game2\Game2\Game2\bin\x86\Debug\Game2.application
+C:\Users\Bien\Downloads\Game2\Game2\Game2\bin\x86\Debug\Game2.exe
+C:\Users\Bien\Downloads\Game2\Game2\Game2\bin\x86\Debug\Game2.pdb
+C:\Users\Bien\Downloads\Game2\Game2\Game2\obj\x86\Debug\Game2.csprojResolveAssemblyReference.cache
+C:\Users\Bien\Downloads\Game2\Game2\Game2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Bien\Downloads\Game2\Game2\Game2\obj\x86\Debug\Game2.exe.manifest
+C:\Users\Bien\Downloads\Game2\Game2\Game2\obj\x86\Debug\Game2.application
+C:\Users\Bien\Downloads\Game2\Game2\Game2\obj\x86\Debug\Game2.exe
+C:\Users\Bien\Downloads\Game2\Game2\Game2\obj\x86\Debug\Game2.pdb
+C:\Users\Bien\Desktop\Megaman\Tai lieu\Game2\Game2\Game2\bin\x86\Debug\Content\wall.xnb
+C:\Users\Bien\Desktop\Megaman\Tai lieu\Game2\Game2\Game2\bin\x86\Debug\Content\player.xnb
+C:\Users\Bien\Desktop\Megaman\Tai lieu\Game2\Game2\Game2\bin\x86\Debug\Content\bullet.xnb
+C:\Users\Bien\Desktop\Megaman\Tai lieu\Game2\Game2\Game2\bin\x86\Debug\Content\MegaManSpriteSheet.xnb
+C:\Users\Bien\Desktop\Megaman\Tai lieu\Game2\Game2\Game2\bin\x86\Debug\Content\enemy.xnb
+C:\Users\Bien\Desktop\Megaman\Tai lieu\Game2\Game2\Game2\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Bien\Desktop\Megaman\Tai lieu\Game2\Game2\Game2\bin\x86\Debug\Game2.exe.manifest
+C:\Users\Bien\Desktop\Megaman\Tai lieu\Game2\Game2\Game2\bin\x86\Debug\Game2.application
+C:\Users\Bien\Desktop\Megaman\Tai lieu\Game2\Game2\Game2\bin\x86\Debug\Game2.exe
+C:\Users\Bien\Desktop\Megaman\Tai lieu\Game2\Game2\Game2\bin\x86\Debug\Game2.pdb
+C:\Users\Bien\Desktop\Megaman\Tai lieu\Game2\Game2\Game2\obj\x86\Debug\Game2.csprojResolveAssemblyReference.cache
+C:\Users\Bien\Desktop\Megaman\Tai lieu\Game2\Game2\Game2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Bien\Desktop\Megaman\Tai lieu\Game2\Game2\Game2\obj\x86\Debug\Game2.exe.manifest
+C:\Users\Bien\Desktop\Megaman\Tai lieu\Game2\Game2\Game2\obj\x86\Debug\Game2.application
+C:\Users\Bien\Desktop\Megaman\Tai lieu\Game2\Game2\Game2\obj\x86\Debug\Game2.exe
+C:\Users\Bien\Desktop\Megaman\Tai lieu\Game2\Game2\Game2\obj\x86\Debug\Game2.pdb

@@ -1,0 +1,39 @@
+﻿<Window x:Class="QLKS2014.GUI.StupidWindow.DetailRoomRentedWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Danh sách các khách hàng" Height="600" Width="800" FontFamily="Times New Roman" FontSize="15">
+    <Grid>
+        <GroupBox x:Name="gpTableCustomer" Grid.Row="1" Header="Danh Sách Các Khách Hàng">
+            <DataGrid Name="dgCustomer" 
+                  CanUserDeleteRows="True"
+                      AutoGenerateColumns="False"  KeyDown="dgCustomer_KeyDown"
+                  LoadingRow="dgCustomer_LoadingRow"
+                  IsReadOnly="True"
+                      >
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Tên Khách Hàng" Binding="{Binding TenPhong}"/>
+                    <DataGridTextColumn Header="CMND" Binding="{Binding TenLoaiPhong}"/>
+                    <DataGridTextColumn Header="Địa Chỉ" Binding="{Binding GiaPhong}"/>
+                    <DataGridTextColumn Header="Loại Khách" Binding="{Binding GhiChu}"/>
+                    <DataGridTextColumn Header="Phòng" Binding="{Binding TinhTrang}"/>
+                    <DataGridTextColumn Header="Ngày Đến" Binding="{Binding GhiChu}"/>
+                    <DataGridTextColumn Header="Ngày Đi" Binding="{Binding TinhTrang}"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </GroupBox>
+        <!--<ListView Name="listCustomer" >
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="STT" DisplayMemberBinding="{Binding index}"/>
+                    <GridViewColumn Header="Ten Khách Hàng" DisplayMemberBinding="{Binding name}"/>
+                    <GridViewColumn Header="CMND" DisplayMemberBinding="{Binding idCard}"/>
+                    <GridViewColumn Header="Địa Chỉ" DisplayMemberBinding="{Binding adress}"/>
+                    <GridViewColumn Header="Loại Khách" DisplayMemberBinding="{Binding typeCustomer}"/>
+                    <GridViewColumn Header="Phòng" DisplayMemberBinding="{Binding room}"/>
+                    <GridViewColumn Header="Ngày Đến" DisplayMemberBinding="{Binding startDate}"/>
+                    <GridViewColumn Header="Ngày Đi" DisplayMemberBinding="{Binding endDate}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>-->
+    </Grid>
+</Window>

@@ -1,0 +1,32 @@
+State	x	y	rong	cao	so_frame	framePerRow
+rua_do_di		0	106	16	27	2	2
+rua_do_mai		32	106	16	16	1	1
+rua_do_lan		32	106	16	16	3	3
+rua_do_hoisinh		80	106	18	16	2	2
+
+rua_xanh_di		116	106	16	27	2	2
+rua_xanh_mai		148	106	16	16	1	1
+rua_xanh_lan		148	106	16	16	3	3
+rua_xanh_hoisinh	196	106	18	16	2	2
+rua_xanh_bay		232	106	16	28	4	4
+
+namthuong_di		0	74	16	16	2	2
+namthuong_chet		32	74	16	9	1	1
+namthuong_nguoc		336	74	16	16	1	1
+
+nambay_bay		48	74	20	24	4	4
+nambay_di		128	74	16	16	2	2
+nambay_chet		160	74	16	9	1	1
+nambay_nguoc		352	74	16	16	1	1
+
+hoado_len1		176	74	16	32	1	1
+hoado_len2		176	74	16	32	2	2
+hoado_xuong1		208	74	16	32	1	1
+hoado_xuong2		208	74	16	32	2	2
+hoaxanh_len1		240	74	16	24	1	1
+hoaxanh_len2		240	74	16	24	2	2
+hoaxanh_xuong1		272	74	16	24	1	1
+hoaxanh_xuong2		272	74	16	24	2	2
+hoaxanh_cap		304	74	16	25	2	2
+
+

@@ -1,0 +1,12 @@
+E:\SGU\GiangDay\WebServices\T07_T12_SOA_WCF\WCF\ref_WCF\WCF\03_OneWay\Server\bin\Server.exe.config
+E:\SGU\GiangDay\WebServices\T07_T12_SOA_WCF\WCF\ref_WCF\WCF\03_OneWay\Server\bin\Server.exe
+E:\SGU\GiangDay\WebServices\T07_T12_SOA_WCF\WCF\ref_WCF\WCF\03_OneWay\Server\bin\Server.pdb
+E:\SGU\GiangDay\WebServices\T07_T12_SOA_WCF\WCF\ref_WCF\WCF\03_OneWay\Server\obj\Debug\ResolveAssemblyReference.cache
+E:\SGU\GiangDay\WebServices\T07_T12_SOA_WCF\WCF\ref_WCF\WCF\03_OneWay\Server\obj\Debug\Server.exe
+E:\SGU\GiangDay\WebServices\T07_T12_SOA_WCF\WCF\ref_WCF\WCF\03_OneWay\Server\obj\Debug\Server.pdb
+E:\SGU\GiangDay\WebServices\T07_T12_SOA_WCF\WCF\CodeMinhHoa\03_OneWay\Server\bin\Server.exe.config
+E:\SGU\GiangDay\WebServices\T07_T12_SOA_WCF\WCF\CodeMinhHoa\03_OneWay\Server\obj\Debug\Server.exe
+E:\SGU\GiangDay\WebServices\T07_T12_SOA_WCF\WCF\CodeMinhHoa\03_OneWay\Server\obj\Debug\Server.pdb
+E:\SGU\GiangDay\WebServices\T07_T12_SOA_WCF\WCF\CodeMinhHoa\03_OneWay\Server\bin\Server.exe
+E:\SGU\GiangDay\WebServices\T07_T12_SOA_WCF\WCF\CodeMinhHoa\03_OneWay\Server\bin\Server.pdb
+E:\SGU\GiangDay\WebServices\T07_T12_SOA_WCF\WCF\CodeMinhHoa\03_OneWay\Server\obj\Debug\ResolveAssemblyReference.cache

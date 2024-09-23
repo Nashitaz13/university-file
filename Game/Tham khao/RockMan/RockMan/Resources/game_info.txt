@@ -1,0 +1,9 @@
+#Special_Skill_Info
+6
+cut
+guts
+boom
+cut
+guts
+boom
+#Special_Skill_Info_end

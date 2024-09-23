@@ -1,0 +1,13 @@
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\Sound 2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\Sound 2\obj\x86\Debug\Sound_2.Form1.resources
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\Sound 2\obj\x86\Debug\Sound_2.Properties.Resources.resources
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\Sound 2\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\Sound 2\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\Sound 2\bin\Debug\Sound 2.exe
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\Sound 2\bin\Debug\Sound 2.pdb
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\Sound 2\obj\x86\Debug\Sound 2.exe
+D:\PRACTISE\LAP TRINH WINDOW\LAP TRINH GDI\LapTrinhGDI\Sound 2\obj\x86\Debug\Sound 2.pdb
+d:\Tai Lieu\Giang day\Lap trinh Windows\Slide\2011\Chuong 05 - GDI - Slide\LapTrinhGDI\Sound 2\obj\x86\Debug\Sound 2.exe
+d:\Tai Lieu\Giang day\Lap trinh Windows\Slide\2011\Chuong 05 - GDI - Slide\LapTrinhGDI\Sound 2\obj\x86\Debug\Sound 2.pdb
+D:\NGUYET MINH\UIT-CNPM\CNCQ\LTW\2013\TK\2012\Chuong 05 - GDI - Slide\LapTrinhGDI\Sound 2\obj\x86\Debug\Sound 2.exe
+D:\NGUYET MINH\UIT-CNPM\CNCQ\LTW\2013\TK\2012\Chuong 05 - GDI - Slide\LapTrinhGDI\Sound 2\obj\x86\Debug\Sound 2.pdb

@@ -1,0 +1,15 @@
+﻿Build started 4/10/2014 6:44:01 PM.
+     1>Project "c:\Users\Bien\documents\visual studio 2013\Projects\oslab3_c_server\oslab3_c_server\oslab3_c_server.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt "E:\HK4\He dieu hanh\Thuc hanh\OSLab03\TalkApp\TalkServer\talks.c"
+         talks.c
+     1>e:\hk4\he dieu hanh\thuc hanh\oslab03\talkapp\talkserver\talks.c(24): warning C4047: 'function' : 'size_t' differs in levels of indirection from 'char [12]'
+     1>e:\hk4\he dieu hanh\thuc hanh\oslab03\talkapp\talkserver\talks.c(24): warning C4024: 'sprintf_s' : different types for formal and actual parameter 2
+     1>e:\hk4\he dieu hanh\thuc hanh\oslab03\talkapp\talkserver\talks.c(40): warning C4047: 'function' : 'rsize_t' differs in levels of indirection from 'char [1]'
+     1>e:\hk4\he dieu hanh\thuc hanh\oslab03\talkapp\talkserver\talks.c(40): warning C4024: 'strcpy_s' : different types for formal and actual parameter 2
+     1>e:\hk4\he dieu hanh\thuc hanh\oslab03\talkapp\talkserver\talks.c(40): error C2198: 'strcpy_s' : too few arguments for call
+     1>Done Building Project "c:\Users\Bien\documents\visual studio 2013\Projects\oslab3_c_server\oslab3_c_server\oslab3_c_server.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.64

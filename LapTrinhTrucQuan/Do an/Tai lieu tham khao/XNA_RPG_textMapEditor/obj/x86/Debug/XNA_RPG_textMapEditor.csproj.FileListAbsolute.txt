@@ -1,0 +1,181 @@
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\XNA_RPG_textMapEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\XNA_RPG_textMapEditor\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\XNA_RPG_textMapEditor\bin\x86\Debug\Content\test.xnb
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\XNA_RPG_textMapEditor\bin\x86\Debug\XNA_RPG_textMapEditor.exe
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\XNA_RPG_textMapEditor\bin\x86\Debug\XNA_RPG_textMapEditor.pdb
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\XNA_RPG_textMapEditor\obj\x86\Debug\XNA_RPG_textMapEditor.exe
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\XNA_RPG_textMapEditor\obj\x86\Debug\XNA_RPG_textMapEditor.pdb
+D:\New Folder\XNA_RPG_textMapEditor\XNA_RPG_textMapEditor\bin\x86\Debug\Content\test.xnb
+D:\New Folder\XNA_RPG_textMapEditor\XNA_RPG_textMapEditor\bin\x86\Debug\XNA_RPG_textMapEditor.exe
+D:\New Folder\XNA_RPG_textMapEditor\XNA_RPG_textMapEditor\bin\x86\Debug\XNA_RPG_textMapEditor.pdb
+D:\New Folder\XNA_RPG_textMapEditor\XNA_RPG_textMapEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\New Folder\XNA_RPG_textMapEditor\XNA_RPG_textMapEditor\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\New Folder\XNA_RPG_textMapEditor\XNA_RPG_textMapEditor\obj\x86\Debug\XNA_RPG_textMapEditor.exe
+D:\New Folder\XNA_RPG_textMapEditor\XNA_RPG_textMapEditor\obj\x86\Debug\XNA_RPG_textMapEditor.pdb
+D:\New Folder\XNA_RPG_textMapEditor\XNA_RPG_textMapEditor\bin\x86\Debug\Content\BG.xnb
+D:\New Folder\XNA_RPG_textMapEditor\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Level\map1.map
+D:\New Folder\XNA_RPG_textMapEditor\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Level\map2.map
+D:\New Folder\XNA_RPG_textMapEditor\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Level\map5.map
+D:\New Folder\XNA_RPG_textMapEditor\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Level\map4.map
+D:\New Folder\XNA_RPG_textMapEditor\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Level\map3.map
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\bin\x86\Debug\Content\BG.xnb
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Level\map2.map
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Level\map5.map
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Level\map4.map
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Level\map3.map
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Level\map1.map
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\bin\x86\Debug\XNA_RPG_textMapEditor.exe
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\bin\x86\Debug\XNA_RPG_textMapEditor.pdb
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\obj\x86\Debug\XNA_RPG_textMapEditor.exe
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\obj\x86\Debug\XNA_RPG_textMapEditor.pdb
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Player\Celebrate.xnb
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Player\Die.xnb
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Player\Idle.xnb
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Player\Jump.xnb
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Player\Run.xnb
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Tile\BlockA0.xnb
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Tile\BlockA1.xnb
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Tile\BlockA2.xnb
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Tile\BlockA3.xnb
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Tile\BlockA4.xnb
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Tile\BlockA5.xnb
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Tile\BlockA6.xnb
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Tile\Exit.xnb
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\bin\x86\Debug\Content\GUI\Button\NoSelect.xnb
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\bin\x86\Debug\Content\GUI\Button\Selected.xnb
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Tile\Gate.xnb
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Tile\Key.xnb
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Overlay\you_died.xnb
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Overlay\you_win.xnb
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\bin\x86\Debug\XNA_RPG_textMapEditor.exe.manifest
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\bin\x86\Debug\XNA_RPG_textMapEditor.application
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\obj\x86\Debug\XNA_RPG_textMapEditor.exe.manifest
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\obj\x86\Debug\XNA_RPG_textMapEditor.application
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Sound\Music.xnb
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Sound\ExitReached.xnb
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Sound\GemCollected.xnb
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Sound\PlayerFall.xnb
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Sound\PlayerKilled.xnb
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Sound\Music.wma
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Sound\ExitReached.wma
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Sound\GemCollected.wma
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Sound\PlayerFall.wma
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Sound\PlayerKilled.wma
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Enemy\2\Die.xnb
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Enemy\2\Idle.xnb
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Enemy\2\Run.xnb
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Enemy\3\Die.xnb
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Enemy\3\Idle.xnb
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Enemy\3\Run.xnb
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Enemy\1\Die.xnb
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Enemy\1\Idle.xnb
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Enemy\1\Run.xnb
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Enemy\0\Die.xnb
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Enemy\0\Idle.xnb
+C:\Documents and Settings\OWNER\Desktop\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Enemy\0\Run.xnb
+D:\Game Development\XNA game studio\XNA Free Open Source Engine\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Tile\BlockA0.xnb
+D:\Game Development\XNA game studio\XNA Free Open Source Engine\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Tile\BlockA1.xnb
+D:\Game Development\XNA game studio\XNA Free Open Source Engine\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Tile\BlockA2.xnb
+D:\Game Development\XNA game studio\XNA Free Open Source Engine\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Tile\BlockA3.xnb
+D:\Game Development\XNA game studio\XNA Free Open Source Engine\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Tile\BlockA4.xnb
+D:\Game Development\XNA game studio\XNA Free Open Source Engine\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Tile\BlockA5.xnb
+D:\Game Development\XNA game studio\XNA Free Open Source Engine\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Tile\BlockA6.xnb
+D:\Game Development\XNA game studio\XNA Free Open Source Engine\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Tile\Exit.xnb
+D:\Game Development\XNA game studio\XNA Free Open Source Engine\XNA_RPG_textMapEditor\bin\x86\Debug\Content\GUI\Button\NoSelect.xnb
+D:\Game Development\XNA game studio\XNA Free Open Source Engine\XNA_RPG_textMapEditor\bin\x86\Debug\Content\GUI\Button\Selected.xnb
+D:\Game Development\XNA game studio\XNA Free Open Source Engine\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Player\Celebrate.xnb
+D:\Game Development\XNA game studio\XNA Free Open Source Engine\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Player\Die.xnb
+D:\Game Development\XNA game studio\XNA Free Open Source Engine\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Player\Idle.xnb
+D:\Game Development\XNA game studio\XNA Free Open Source Engine\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Player\Jump.xnb
+D:\Game Development\XNA game studio\XNA Free Open Source Engine\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Player\Run.xnb
+D:\Game Development\XNA game studio\XNA Free Open Source Engine\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Enemy\2\Die.xnb
+D:\Game Development\XNA game studio\XNA Free Open Source Engine\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Enemy\2\Idle.xnb
+D:\Game Development\XNA game studio\XNA Free Open Source Engine\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Enemy\2\Run.xnb
+D:\Game Development\XNA game studio\XNA Free Open Source Engine\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Tile\Gate.xnb
+D:\Game Development\XNA game studio\XNA Free Open Source Engine\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Tile\Key.xnb
+D:\Game Development\XNA game studio\XNA Free Open Source Engine\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Overlay\you_died.xnb
+D:\Game Development\XNA game studio\XNA Free Open Source Engine\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Overlay\you_win.xnb
+D:\Game Development\XNA game studio\XNA Free Open Source Engine\XNA_RPG_textMapEditor\bin\x86\Debug\Content\BG.xnb
+D:\Game Development\XNA game studio\XNA Free Open Source Engine\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Enemy\3\Die.xnb
+D:\Game Development\XNA game studio\XNA Free Open Source Engine\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Enemy\3\Idle.xnb
+D:\Game Development\XNA game studio\XNA Free Open Source Engine\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Enemy\3\Run.xnb
+D:\Game Development\XNA game studio\XNA Free Open Source Engine\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Enemy\1\Die.xnb
+D:\Game Development\XNA game studio\XNA Free Open Source Engine\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Enemy\1\Idle.xnb
+D:\Game Development\XNA game studio\XNA Free Open Source Engine\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Enemy\1\Run.xnb
+D:\Game Development\XNA game studio\XNA Free Open Source Engine\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Enemy\0\Die.xnb
+D:\Game Development\XNA game studio\XNA Free Open Source Engine\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Enemy\0\Idle.xnb
+D:\Game Development\XNA game studio\XNA Free Open Source Engine\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Enemy\0\Run.xnb
+D:\Game Development\XNA game studio\XNA Free Open Source Engine\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Sound\Music.xnb
+D:\Game Development\XNA game studio\XNA Free Open Source Engine\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Sound\Music.wma
+D:\Game Development\XNA game studio\XNA Free Open Source Engine\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Level\map2.map
+D:\Game Development\XNA game studio\XNA Free Open Source Engine\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Level\map5.map
+D:\Game Development\XNA game studio\XNA Free Open Source Engine\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Level\map4.map
+D:\Game Development\XNA game studio\XNA Free Open Source Engine\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Level\map3.map
+D:\Game Development\XNA game studio\XNA Free Open Source Engine\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Level\map1.map
+D:\Game Development\XNA game studio\XNA Free Open Source Engine\XNA_RPG_textMapEditor\bin\x86\Debug\XNA_RPG_textMapEditor.exe.manifest
+D:\Game Development\XNA game studio\XNA Free Open Source Engine\XNA_RPG_textMapEditor\bin\x86\Debug\XNA_RPG_textMapEditor.application
+D:\Game Development\XNA game studio\XNA Free Open Source Engine\XNA_RPG_textMapEditor\bin\x86\Debug\XNA_RPG_textMapEditor.exe
+D:\Game Development\XNA game studio\XNA Free Open Source Engine\XNA_RPG_textMapEditor\bin\x86\Debug\XNA_RPG_textMapEditor.pdb
+D:\Game Development\XNA game studio\XNA Free Open Source Engine\XNA_RPG_textMapEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Game Development\XNA game studio\XNA Free Open Source Engine\XNA_RPG_textMapEditor\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Game Development\XNA game studio\XNA Free Open Source Engine\XNA_RPG_textMapEditor\obj\x86\Debug\XNA_RPG_textMapEditor.exe.manifest
+D:\Game Development\XNA game studio\XNA Free Open Source Engine\XNA_RPG_textMapEditor\obj\x86\Debug\XNA_RPG_textMapEditor.application
+D:\Game Development\XNA game studio\XNA Free Open Source Engine\XNA_RPG_textMapEditor\obj\x86\Debug\XNA_RPG_textMapEditor.exe
+D:\Game Development\XNA game studio\XNA Free Open Source Engine\XNA_RPG_textMapEditor\obj\x86\Debug\XNA_RPG_textMapEditor.pdb
+D:\Game Development\XNA game studio\XNA Free Open Source Engine\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Sound\ExitReached.xnb
+D:\Game Development\XNA game studio\XNA Free Open Source Engine\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Sound\GemCollected.xnb
+D:\Game Development\XNA game studio\XNA Free Open Source Engine\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Sound\PlayerKilled.xnb
+F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\obj\x86\Debug\XNA_RPG_textMapEditor.csprojResolveAssemblyReference.cache
+F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\obj\x86\Debug\XNA_RPG_textMapEditor.exe
+F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Tile\BlockA0.xnb
+F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Tile\BlockA1.xnb
+F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Tile\BlockA2.xnb
+F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Tile\BlockA3.xnb
+F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Tile\BlockA4.xnb
+F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Tile\BlockA5.xnb
+F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Tile\BlockA6.xnb
+F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Tile\Exit.xnb
+F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\GUI\Button\NoSelect.xnb
+F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\GUI\Button\Selected.xnb
+F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Player\Die.xnb
+F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Player\Idle.xnb
+F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Player\Jump.xnb
+F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Player\Run.xnb
+F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Enemy\2\Die.xnb
+F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Enemy\2\Idle.xnb
+F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Enemy\2\Run.xnb
+F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Tile\Gate.xnb
+F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Tile\Key.xnb
+F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Overlay\you_died.xnb
+F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Overlay\you_win.xnb
+F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\BG.xnb
+F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Enemy\3\Die.xnb
+F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Enemy\3\Idle.xnb
+F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Enemy\3\Run.xnb
+F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Enemy\1\Die.xnb
+F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Enemy\1\Idle.xnb
+F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Enemy\1\Run.xnb
+F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Enemy\0\Die.xnb
+F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Enemy\0\Idle.xnb
+F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Enemy\0\Run.xnb
+F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Texture\Sprite\Player\Celebrate.xnb
+F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Sound\Music.xnb
+F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Sound\ExitReached.xnb
+F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Sound\GemCollected.xnb
+F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Sound\PlayerKilled.xnb
+F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Sound\Music.wma
+F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Level\map2.map
+F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Level\map5.map
+F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Level\map4.map
+F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Level\map3.map
+F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\Content\Level\map1.map
+F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\XNA_RPG_textMapEditor.exe.manifest
+F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\XNA_RPG_textMapEditor.application
+F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\XNA_RPG_textMapEditor.exe
+F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\bin\x86\Debug\XNA_RPG_textMapEditor.pdb
+F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\obj\x86\Debug\XNA_RPG_textMapEditor.exe.manifest
+F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\obj\x86\Debug\XNA_RPG_textMapEditor.application
+F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\obj\x86\Debug\XNA_RPG_textMapEditor.pdb

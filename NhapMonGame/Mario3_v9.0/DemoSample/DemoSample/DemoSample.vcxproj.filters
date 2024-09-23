@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="GameMario">
+      <UniqueIdentifier>{68878c61-a9e1-47d3-9470-40c6ba68767d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource">
+      <UniqueIdentifier>{97b92e61-3634-4b13-b925-0178fe8781e7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Framework">
+      <UniqueIdentifier>{700c4407-d5c2-4378-8708-19694acbc1a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Framework\CGame">
+      <UniqueIdentifier>{d753a24a-df63-41a8-a511-0e7485247737}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Framework\Input">
+      <UniqueIdentifier>{74cd9270-459f-4ed9-9a85-99145092d56d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Background">
+      <UniqueIdentifier>{87be2ba6-5bcf-4c7c-9151-a8ea9e4830a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Mario">
+      <UniqueIdentifier>{a3d9a6fa-1dc4-4231-88ce-8a7562ef33ea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object">
+      <UniqueIdentifier>{00a08642-1aca-4572-bfec-ef763e265c37}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\CBox">
+      <UniqueIdentifier>{0372634b-27d1-48bb-bc1d-39e506ef9ce7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="World">
+      <UniqueIdentifier>{fd37e89d-19fc-475b-b68d-b490a93f107b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Enemy">
+      <UniqueIdentifier>{0e3487ca-9cc5-4c0f-87ed-89ee2b2e3e03}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sounds">
+      <UniqueIdentifier>{f3964991-1a64-43ff-9682-fd4ca6ff0f30}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Item">
+      <UniqueIdentifier>{c39841ee-bb7b-4826-b602-c75afdcb70d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Others">
+      <UniqueIdentifier>{d2f6de30-4b12-4c05-94ef-6239a5408f0c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\Global Object">
+      <UniqueIdentifier>{ee96e7fc-9f8f-4308-96ec-85091574129e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Framework\Sprite">
+      <UniqueIdentifier>{793ce686-5598-4d79-a2f5-b56300e81079}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="World\QuadTree">
+      <UniqueIdentifier>{b8eb21a8-8e70-4556-aed3-ec9357e2e5c1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GameMario.h">
+      <Filter>GameMario</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Framework\CGame</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite.h">
+      <Filter>Framework\Sprite</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="GlobalObject.h">
+      <Filter>Object\Global Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Input.h">
+      <Filter>Framework\Input</Filter>
+    </ClInclude>
+    <ClInclude Include="Box.h">
+      <Filter>Object\CBox</Filter>
+    </ClInclude>
+    <ClInclude Include="mario.h">
+      <Filter>Mario</Filter>
+    </ClInclude>
+    <ClInclude Include="BasicObject.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="MovableObject.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="MyRectangle.h">
+      <Filter>Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="World.h">
+      <Filter>World</Filter>
+    </ClInclude>
+    <ClInclude Include="RedFirePlant.h">
+      <Filter>Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="FireBullet.h">
+      <Filter>Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="NamEnemy.h">
+      <Filter>Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Turtle.h">
+      <Filter>Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Utils.h">
+      <Filter>Background</Filter>
+    </ClInclude>
+    <ClInclude Include="CAudio.h">
+      <Filter>Sounds</Filter>
+    </ClInclude>
+    <ClInclude Include="dsutil.h">
+      <Filter>Sounds</Filter>
+    </ClInclude>
+    <ClInclude Include="dxutil.h">
+      <Filter>Sounds</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundManager.h">
+      <Filter>Sounds</Filter>
+    </ClInclude>
+    <ClInclude Include="ChiecLa.h">
+      <Filter>Item</Filter>
+    </ClInclude>
+    <ClInclude Include="ChuP.h">
+      <Filter>Item</Filter>
+    </ClInclude>
+    <ClInclude Include="ChuP_Off.h">
+      <Filter>Item</Filter>
+    </ClInclude>
+    <ClInclude Include="DongTien.h">
+      <Filter>Item</Filter>
+    </ClInclude>
+    <ClInclude Include="ODauHoi.h">
+      <Filter>Item</Filter>
+    </ClInclude>
+    <ClInclude Include="VienGachVo.h">
+      <Filter>Item</Filter>
+    </ClInclude>
+    <ClInclude Include="NamItem.h">
+      <Filter>Item</Filter>
+    </ClInclude>
+    <ClInclude Include="Gach.h">
+      <Filter>Item</Filter>
+    </ClInclude>
+    <ClInclude Include="QuadTree.h">
+      <Filter>World\QuadTree</Filter>
+    </ClInclude>
+    <ClInclude Include="BoxStair.h">
+      <Filter>Others</Filter>
+    </ClInclude>
+    <ClInclude Include="EndBox.h">
+      <Filter>Others</Filter>
+    </ClInclude>
+    <ClInclude Include="GameInformation.h">
+      <Filter>Others</Filter>
+    </ClInclude>
+    <ClInclude Include="ImageEffect.h">
+      <Filter>Others</Filter>
+    </ClInclude>
+    <ClInclude Include="OngNuoc.h">
+      <Filter>Others</Filter>
+    </ClInclude>
+    <ClInclude Include="dxerr.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="GameMario.cpp">
+      <Filter>GameMario</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Framework\CGame</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprite.cpp">
+      <Filter>Framework\Sprite</Filter>
+    </ClCompile>
+    <ClCompile Include="Resource.cpp">
+      <Filter>Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="GlobalObject.cpp">
+      <Filter>Object\Global Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Input.cpp">
+      <Filter>Framework\Input</Filter>
+    </ClCompile>
+    <ClCompile Include="Box.cpp">
+      <Filter>Object\CBox</Filter>
+    </ClCompile>
+    <ClCompile Include="BasicObject.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="MovableObject.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="MyRectangle.cpp">
+      <Filter>Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="World.cpp">
+      <Filter>World</Filter>
+    </ClCompile>
+    <ClCompile Include="RedFirePlant.cpp">
+      <Filter>Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="FireBullet.cpp">
+      <Filter>Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="NamEnemy.cpp">
+      <Filter>Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Turtle.cpp">
+      <Filter>Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="CAudio.cpp">
+      <Filter>Sounds</Filter>
+    </ClCompile>
+    <ClCompile Include="dsutil.cpp">
+      <Filter>Sounds</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundManager.cpp">
+      <Filter>Sounds</Filter>
+    </ClCompile>
+    <ClCompile Include="ChiecLa.cpp">
+      <Filter>Item</Filter>
+    </ClCompile>
+    <ClCompile Include="ChuP.cpp">
+      <Filter>Item</Filter>
+    </ClCompile>
+    <ClCompile Include="ChuP_Off.cpp">
+      <Filter>Item</Filter>
+    </ClCompile>
+    <ClCompile Include="DongTien.cpp">
+      <Filter>Item</Filter>
+    </ClCompile>
+    <ClCompile Include="Gach.cpp">
+      <Filter>Item</Filter>
+    </ClCompile>
+    <ClCompile Include="ODauHoi.cpp">
+      <Filter>Item</Filter>
+    </ClCompile>
+    <ClCompile Include="VienGachVo.cpp">
+      <Filter>Item</Filter>
+    </ClCompile>
+    <ClCompile Include="NamItem.cpp">
+      <Filter>Item</Filter>
+    </ClCompile>
+    <ClCompile Include="QuadTree.cpp">
+      <Filter>World\QuadTree</Filter>
+    </ClCompile>
+    <ClCompile Include="BoxStair.cpp">
+      <Filter>Others</Filter>
+    </ClCompile>
+    <ClCompile Include="EndBox.cpp">
+      <Filter>Others</Filter>
+    </ClCompile>
+    <ClCompile Include="GameInformation.cpp">
+      <Filter>Others</Filter>
+    </ClCompile>
+    <ClCompile Include="ImageEffect.cpp">
+      <Filter>Others</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="OngNuoc.cpp">
+      <Filter>Others</Filter>
+    </ClCompile>
+    <ClCompile Include="dxerr.cpp" />
+    <ClCompile Include="mario.cpp">
+      <Filter>Mario</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="DemoSample.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

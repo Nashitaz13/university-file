@@ -1,0 +1,27 @@
+﻿<UserControl x:Class="QLDKINTERNET.GUI.StupidGui.StupidContent.ThanhToanDangKyContent"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="400" d:DesignWidth="800">
+    <Grid>
+        <TextBox Name ="txtTenKhachHang" HorizontalAlignment="Left" Height="20" Margin="112,22,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="160"/>
+        <Label Content="Tên Khách Hàng: " HorizontalAlignment="Left" Height="24" Margin="10,18,0,0" VerticalAlignment="Top" Width="97"/>
+        <Label Content="CMND: " HorizontalAlignment="Left" Height="24" Margin="277,18,0,0" VerticalAlignment="Top" Width="53"/>
+        <TextBox Name="txtCMND"  HorizontalAlignment="Left" Height="20" Margin="330,22,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="160"/>
+        <Button Name="btnTim" Content="Tìm" HorizontalAlignment="Left" Height="20" Margin="499,22,0,0" VerticalAlignment="Top" Width="75" Click="btnTim_Click"/>
+        <DataGrid x:Name="dgThongTinDichVu"  Margin="10,144,10,147" SelectionChanged="dgThongTinDichVu_SelectionChanged" >            
+        </DataGrid>
+        <DataGrid x:Name="dgThongTinHopDong" Margin="10,47,10,261" SelectionChanged="dgThongTinHopDong_SelectionChanged">
+        </DataGrid>
+        <Button Name="btnThanhToan" IsEnabled="False" Content="Thanh Toán" HorizontalAlignment="Left" Height="22" Margin="363,289,0,0" VerticalAlignment="Top" Width="86" Click="btnThanhToan_Click"/>
+        <Label Name ="lblAccNum" Content="1" HorizontalAlignment="Left" Height="26" Margin="101,258,0,0" VerticalAlignment="Top" Width="39"/>
+        <Label Content="UserName
+               " HorizontalAlignment="Left" Height="26" Margin="145,258,0,0" VerticalAlignment="Top" Width="71"/>
+        <Label Content="Pass" HorizontalAlignment="Left" Height="26" Margin="395,258,0,0" VerticalAlignment="Top" Width="44"/>
+        <TextBox x:Name ="txtUser" IsEnabled="false" Text ="admin1"  HorizontalAlignment="Left" Height="20" Margin="221,264,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="160"/>
+        <PasswordBox x:Name ="txtPass"   HorizontalAlignment="Left" Height="20" Margin="439,264,0,0"  VerticalAlignment="Top" Width="160"/>
+        <Button x:Name="btnThem"  IsEnabled="False" Content="Thêm" HorizontalAlignment="Left" Height="20" Margin="616,264,0,0" VerticalAlignment="Top" Width="75" Click="btnThem_Click"/>
+    </Grid>
+</UserControl>

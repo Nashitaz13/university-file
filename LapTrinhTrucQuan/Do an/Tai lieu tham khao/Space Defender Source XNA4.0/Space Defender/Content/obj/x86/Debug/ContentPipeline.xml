@@ -1,0 +1,379 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\SpaceDefenders\Weapons\Missile.png</Source>
+      <Name>Images\SpaceDefenders\Weapons\Missile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\SpaceDefenders\Weapons\Missile.xnb</Output>
+      <Time>2010-01-27T20:56:57.7510646+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\SpaceDefenders\Weapons\Bullet.png</Source>
+      <Name>Images\SpaceDefenders\Weapons\Bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\SpaceDefenders\Weapons\Bullet.xnb</Output>
+      <Time>2010-01-27T22:36:03.5671458+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Cursors\Cursor.png</Source>
+      <Name>Images\Cursors\Cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Cursors\Cursor.xnb</Output>
+      <Time>2010-01-27T23:03:22.1178656+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Enemies\Invader.png</Source>
+      <Name>Images\Enemies\Invader</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Enemies\Invader.xnb</Output>
+      <Time>2010-01-28T00:28:07.8077504+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Effects\Explosion.png</Source>
+      <Name>Images\Effects\Explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Effects\Explosion.xnb</Output>
+      <Time>2010-01-28T21:27:07.7386529+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Enemies\MotherShip.png</Source>
+      <Name>Images\Enemies\MotherShip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Enemies\MotherShip.xnb</Output>
+      <Time>2010-01-28T23:15:05.4885619+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Enemies\Drone.png</Source>
+      <Name>Images\Enemies\Drone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Enemies\Drone.xnb</Output>
+      <Time>2010-01-30T23:35:44.6425563+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Enemies\Weapons\Pulse.png</Source>
+      <Name>Images\Enemies\Weapons\Pulse</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Enemies\Weapons\Pulse.xnb</Output>
+      <Time>2010-02-06T12:47:12.1127829+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Items\Health.png</Source>
+      <Name>Images\Items\Health</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Items\Health.xnb</Output>
+      <Time>2010-01-31T02:33:32.3746063+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Panel\MissileGauge.png</Source>
+      <Name>Images\Panel\MissileGauge</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Panel\MissileGauge.xnb</Output>
+      <Time>2010-01-31T21:17:33.5105581+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Panel\Panel.png</Source>
+      <Name>Images\Panel\Panel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Panel\Panel.xnb</Output>
+      <Time>2010-01-31T22:23:11.2117818+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Panel\LifeGauge.png</Source>
+      <Name>Images\Panel\LifeGauge</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Panel\LifeGauge.xnb</Output>
+      <Time>2010-01-31T22:46:52.8300937+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Panel\ScorePanel.png</Source>
+      <Name>Images\Panel\ScorePanel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Panel\ScorePanel.xnb</Output>
+      <Time>2010-02-01T00:20:29.8213672+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Enemies\Weapons\Bolt.png</Source>
+      <Name>Images\Enemies\Weapons\Bolt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Enemies\Weapons\Bolt.xnb</Output>
+      <Time>2010-02-02T00:48:24.4937985+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Enemies\FinalBoss.png</Source>
+      <Name>Images\Enemies\FinalBoss</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Enemies\FinalBoss.xnb</Output>
+      <Time>2010-02-02T01:03:06.2982348+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Enemies\Weapons\BoltCannon.png</Source>
+      <Name>Images\Enemies\Weapons\BoltCannon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Enemies\Weapons\BoltCannon.xnb</Output>
+      <Time>2010-02-02T23:57:37.4249498+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Enemies\Weapons\PulseCannon.png</Source>
+      <Name>Images\Enemies\Weapons\PulseCannon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Enemies\Weapons\PulseCannon.xnb</Output>
+      <Time>2010-02-02T23:57:49.0156128+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Enemies\Weapons\DefendersPlatform.png</Source>
+      <Name>Images\Enemies\Weapons\DefendersPlatform</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Enemies\Weapons\DefendersPlatform.xnb</Output>
+      <Time>2010-02-03T00:27:40.765095+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\SpaceDefenders\ArmoredShip.png</Source>
+      <Name>Images\SpaceDefenders\ArmoredShip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\SpaceDefenders\ArmoredShip.xnb</Output>
+      <Time>2010-02-04T01:00:06.2790125+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\SpaceDefenders\RapidFireShip.png</Source>
+      <Name>Images\SpaceDefenders\RapidFireShip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\SpaceDefenders\RapidFireShip.xnb</Output>
+      <Time>2010-02-04T01:00:06.2820127+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\SpaceDefenders\SuperShip.png</Source>
+      <Name>Images\SpaceDefenders\SuperShip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\SpaceDefenders\SuperShip.xnb</Output>
+      <Time>2010-02-04T01:00:06.3240151+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\SpaceDefenders\TurboShip.png</Source>
+      <Name>Images\SpaceDefenders\TurboShip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\SpaceDefenders\TurboShip.xnb</Output>
+      <Time>2010-02-04T01:00:06.3260152+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menus\Keyboard.png</Source>
+      <Name>Images\Menus\Keyboard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Menus\Keyboard.xnb</Output>
+      <Time>2010-02-06T08:57:49.2165902+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menus\Button.png</Source>
+      <Name>Images\Menus\Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Menus\Button.xnb</Output>
+      <Time>2010-02-06T05:02:47.8260368+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Cursors\Sniper.png</Source>
+      <Name>Images\Cursors\Sniper</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Cursors\Sniper.xnb</Output>
+      <Time>2010-02-05T04:18:00.5303777+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menus\HowToPlay.png</Source>
+      <Name>Images\Menus\HowToPlay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Menus\HowToPlay.xnb</Output>
+      <Time>2010-02-09T22:58:42.840951+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\SpaceDefenders\NotAvailable.png</Source>
+      <Name>Images\SpaceDefenders\NotAvailable</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\SpaceDefenders\NotAvailable.xnb</Output>
+      <Time>2010-02-06T01:42:05.4852543+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menus\Mouse.png</Source>
+      <Name>Images\Menus\Mouse</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Menus\Mouse.xnb</Output>
+      <Time>2010-02-06T12:41:01.8576055+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menus\Addiction.png</Source>
+      <Name>Images\Menus\Addiction</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Menus\Addiction.xnb</Output>
+      <Time>2010-02-06T03:45:08.9585649+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menus\About.png</Source>
+      <Name>Images\Menus\About</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Menus\About.xnb</Output>
+      <Time>2010-02-06T03:35:02.7918941+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background.png</Source>
+      <Name>Images\Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Background.xnb</Output>
+      <Time>2010-02-06T15:21:56.0253644+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\SelectShipBG.png</Source>
+      <Name>Images\SelectShipBG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\SelectShipBG.xnb</Output>
+      <Time>2010-02-06T15:22:04.1618298+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\WinningBG.png</Source>
+      <Name>Images\WinningBG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\WinningBG.xnb</Output>
+      <Time>2010-02-06T15:22:12.9683335+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Logo.png</Source>
+      <Name>Images\Logo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Logo.xnb</Output>
+      <Time>2010-02-06T15:44:43.3755724+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\smoke.png</Source>
+      <Name>Images\smoke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\smoke.xnb</Output>
+      <Time>2010-02-06T16:35:27.2066696+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Paused.png</Source>
+      <Name>Images\Paused</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Images\Paused.xnb</Output>
+      <Time>2010-02-09T22:42:35.9096457+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Arial.spritefont</Source>
+      <Name>Fonts\Arial</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\Fonts\Arial.xnb</Output>
+      <Time>2010-02-06T11:36:58.7637931+07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\Content\</RootDirectory>
+      <LoggerRootDirectory>E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>E:\HK4\Lap trinh truc quan\Do an\Tai lieu\Space Defender Source XNA4.0\Space Defender\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-24T03:41:18+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-24T03:41:18+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-24T03:41:18+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-24T03:41:18+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-24T03:41:18+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-24T03:41:18+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-03-02T11:34:02.4074023+07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

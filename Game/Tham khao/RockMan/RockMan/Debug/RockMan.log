@@ -1,0 +1,178 @@
+﻿Build started 9/8/2015 6:02:14 PM.
+     1>Project "E:\HK6.5\NMPT Game\Game\Demo Tham Khao\RockMan\RockMan\RockMan\RockMan.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /FR"Debug\\" /Gd /TP /analyze- /errorReport:prompt Asset.cpp CBarMana.cpp CBlock.cpp CBoomManBullet.cpp CBoomRockManBullet.cpp CBulletNinja.cpp CBulletRockman.cpp CBulletSnapper.cpp CCameraPath.cpp CCutManBullet.cpp CDieArrow.cpp CDoor.cpp CEnemyBoomBullet.cpp CEnemyFishBullet.cpp CEnemyHat.cpp CEnemyMachine.cpp CEnemyMachineAutoBullet.cpp CEnemyNinja.cpp CEnemySnapper.cpp CEnemyWallShooter.cpp CEnemyWorkerBullet.cpp CGameInfo.cpp CGameStart.cpp CGutsManBullet.cpp CGutsRockManBullet.cpp CIntroCharacter.cpp CollisionInfo.cpp CPopup.cpp CRock.cpp CRockCutBullet.cpp CSceneInfo.cpp CTextblock.cpp ExplodingEffect.cpp CExplodingEffectManager.cpp CExplodingEffectX.cpp PowerEnergyX.cpp ResourceManager.cpp CBoomMan.cpp CBullet.cpp CCutMan.cpp CElevator.cpp CEnemyBall.cpp CEnemyBoom.cpp CEnemyCut.cpp CEnemyEye.cpp CEnemyFish.cpp CEnemyInk.cpp CEnemyMachineAuto.cpp CEnemyRobot.cpp CEnemyTank.cpp CEnemyBubble.cpp CCollision.cpp CEnemy.cpp CEnemyWorker.cpp CGameObject.cpp CGameOver.cpp CGutsMan.cpp CImage.cpp CItem.cpp CMenuItem.cpp CCamera.cpp CControl.cpp CGameApp.cpp CGameMenu.cpp CGameTime.cpp CGraphics.cpp CInput.cpp CObject.cpp CPlayScreen.cpp CRockman.cpp CScreen.cpp CScreenManager.cpp CSprite.cpp CStair.cpp CTexture.cpp CWindow.cpp DSUtil.cpp CQuadNode.cpp WinMain.cpp Trace.cpp
+         Trace.cpp
+         WinMain.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cgameapp.h(10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CQuadNode.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         DSUtil.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\dsutil.cpp(13): fatal error C1083: Cannot open include file: 'dxerr.h': No such file or directory
+         CWindow.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cwindow.cpp(46): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+         CTexture.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\ctexture.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CStair.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CSprite.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\csprite.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CScreenManager.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CScreen.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CRockman.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CPlayScreen.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CObject.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CInput.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CGraphics.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CGameTime.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cgametime.cpp(5): warning C4244: '=' : conversion from 'float' to 'DWORD', possible loss of data
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cgametime.cpp(6): warning C4244: '=' : conversion from 'float' to 'DWORD', possible loss of data
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cgametime.cpp(7): warning C4244: '=' : conversion from 'float' to 'DWORD', possible loss of data
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cgametime.cpp(13): warning C4244: '=' : conversion from 'float' to 'DWORD', possible loss of data
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cgametime.cpp(14): warning C4244: '=' : conversion from 'float' to 'DWORD', possible loss of data
+         CGameMenu.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CGameApp.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cgameapp.h(10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CControl.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CCamera.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\ccamera.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         Generating Code...
+         Compiling...
+         CMenuItem.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CItem.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CImage.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CGutsMan.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CGameOver.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CGameObject.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CEnemyWorker.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CEnemy.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CCollision.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CEnemyBubble.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CEnemyTank.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CEnemyRobot.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CEnemyMachineAuto.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CEnemyInk.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CEnemyFish.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CEnemyEye.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CEnemyCut.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CEnemyBoom.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CEnemyBall.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CElevator.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         Generating Code...
+         Compiling...
+         CCutMan.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CBullet.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CBoomMan.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         ResourceManager.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\csprite.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         PowerEnergyX.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CExplodingEffectX.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CExplodingEffectManager.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         ExplodingEffect.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CTextblock.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CSceneInfo.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CRockCutBullet.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CRock.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CPopup.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CollisionInfo.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CIntroCharacter.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CGutsRockManBullet.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CGutsManBullet.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CGameStart.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CGameInfo.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CEnemyWorkerBullet.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         Generating Code...
+         Compiling...
+         CEnemyWallShooter.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CEnemySnapper.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CEnemyNinja.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CEnemyMachineAutoBullet.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CEnemyMachine.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CEnemyHat.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CEnemyFishBullet.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CEnemyBoomBullet.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CDoor.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CDieArrow.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CCutManBullet.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CCameraPath.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CBulletSnapper.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CBulletRockman.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CBulletNinja.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CBoomRockManBullet.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CBoomManBullet.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CBlock.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         CBarMana.cpp
+     1>e:\hk6.5\nmpt game\game\demo tham khao\rockman\rockman\rockman\cglobal.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         Asset.cpp
+         Generating Code...
+     1>Done Building Project "E:\HK6.5\NMPT Game\Game\Demo Tham Khao\RockMan\RockMan\RockMan\RockMan.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:28.67

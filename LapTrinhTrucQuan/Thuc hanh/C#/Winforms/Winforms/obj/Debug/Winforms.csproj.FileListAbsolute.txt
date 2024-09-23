@@ -1,0 +1,6 @@
+c:\users\bien\documents\visual studio 2013\Projects\Winforms\Winforms\bin\Debug\Winforms.exe.config
+c:\users\bien\documents\visual studio 2013\Projects\Winforms\Winforms\obj\Debug\Winforms.csprojResolveAssemblyReference.cache
+c:\users\bien\documents\visual studio 2013\Projects\Winforms\Winforms\bin\Debug\Winforms.exe
+c:\users\bien\documents\visual studio 2013\Projects\Winforms\Winforms\bin\Debug\Winforms.pdb
+c:\users\bien\documents\visual studio 2013\Projects\Winforms\Winforms\obj\Debug\Winforms.exe
+c:\users\bien\documents\visual studio 2013\Projects\Winforms\Winforms\obj\Debug\Winforms.pdb

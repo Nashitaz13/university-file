@@ -1,0 +1,47 @@
+﻿Build started 12/20/2015 4:26:51 PM.
+     1>Project "C:\Users\phanb\Desktop\Mario3_v8.4.2\DemoSample\DemoSample\DemoSample.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\phanb\Desktop\Mario3_v8.4.2\DemoSample\x64\Debug\DemoSample.exe" /INCREMENTAL /NOLOGO d3d9.lib d3dx9.lib dxguid.lib dxerr.lib dinput8.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\phanb\Desktop\Mario3_v8.4.2\DemoSample\x64\Debug\DemoSample.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\phanb\Desktop\Mario3_v8.4.2\DemoSample\x64\Debug\DemoSample.lib" /MACHINE:X64 x64\Debug\DemoSample.res
+         x64\Debug\Background.obj
+         x64\Debug\BasicObject.obj
+         x64\Debug\BGLevel1.obj
+         x64\Debug\Box.obj
+         x64\Debug\ChiecLa.obj
+         x64\Debug\ChuP.obj
+         x64\Debug\ChuP_Off.obj
+         x64\Debug\DongTien.obj
+         x64\Debug\FireBullet.obj
+         x64\Debug\Gach.obj
+         x64\Debug\Game.obj
+         x64\Debug\GameMario.obj
+         x64\Debug\ImageEffect.obj
+         x64\Debug\MovableObject.obj
+         x64\Debug\GlobalObject.obj
+         x64\Debug\Input.obj
+         x64\Debug\main.obj
+         x64\Debug\mario.obj
+         x64\Debug\MyRectangle.obj
+         x64\Debug\NamEnemy.obj
+         x64\Debug\NamItem.obj
+         x64\Debug\ODauHoi.obj
+         x64\Debug\RedFirePlant.obj
+         x64\Debug\Resource.obj
+         x64\Debug\Sprite.obj
+         x64\Debug\Turtle.obj
+         x64\Debug\VienGachVo.obj
+         x64\Debug\World.obj
+     1>Game.obj : error LNK2019: unresolved external symbol Direct3DCreate9 referenced in function "protected: void __cdecl CGame::_InitDirectX(void)" (?_InitDirectX@CGame@@IEAAXXZ)
+     1>Game.obj : error LNK2019: unresolved external symbol D3DXCreateSprite referenced in function "protected: void __cdecl CGame::_InitDirectX(void)" (?_InitDirectX@CGame@@IEAAXXZ)
+     1>Input.obj : error LNK2019: unresolved external symbol DirectInput8Create referenced in function "private: void __cdecl CInput::InitInputDirect(void)" (?InitInputDirect@CInput@@AEAAXXZ)
+     1>Input.obj : error LNK2001: unresolved external symbol IID_IDirectInput8A
+     1>Input.obj : error LNK2001: unresolved external symbol GUID_SysKeyboard
+     1>Input.obj : error LNK2001: unresolved external symbol c_dfDIKeyboard
+     1>Sprite.obj : error LNK2019: unresolved external symbol D3DXVec3Transform referenced in function "public: void __cdecl CSprite::Render(int,int,struct tagRECT)" (?Render@CSprite@@QEAAXHHUtagRECT@@@Z)
+     1>Sprite.obj : error LNK2019: unresolved external symbol D3DXGetImageInfoFromFileA referenced in function "public: __cdecl CSprite::CSprite(char const *)" (??0CSprite@@QEAA@PEBD@Z)
+     1>Sprite.obj : error LNK2019: unresolved external symbol D3DXCreateTextureFromFileExA referenced in function "public: __cdecl CSprite::CSprite(char const *)" (??0CSprite@@QEAA@PEBD@Z)
+     1>C:\Users\phanb\Desktop\Mario3_v8.4.2\DemoSample\x64\Debug\DemoSample.exe : fatal error LNK1120: 9 unresolved externals
+     1>Done Building Project "C:\Users\phanb\Desktop\Mario3_v8.4.2\DemoSample\DemoSample\DemoSample.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.08

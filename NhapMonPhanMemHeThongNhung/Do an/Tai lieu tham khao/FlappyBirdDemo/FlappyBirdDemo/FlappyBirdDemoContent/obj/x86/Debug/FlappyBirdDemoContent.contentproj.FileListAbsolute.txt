@@ -1,0 +1,2 @@
+C:\Users\Canh\documents\visual studio 2013\Projects\FlappyBirdDemo\FlappyBirdDemo\FlappyBirdDemoContent\obj\x86\Debug\FlappyBirdDemoContent.contentprojResolveAssemblyReference.cache
+C:\Users\Bien\Desktop\FlappyBirdDemo\FlappyBirdDemo\FlappyBirdDemoContent\obj\x86\Debug\FlappyBirdDemoContent.contentprojResolveAssemblyReference.cache

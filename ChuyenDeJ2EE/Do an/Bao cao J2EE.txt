@@ -1,0 +1,8 @@
+gom: 1. bao cao giay. 	- gioi thieu ve he thong( lam gi, chuc nang , tong quan ve he thong....)
+			- trinh bay ve cong nghe da dung (severlet , jsb , ejb , spring.......).
+				su dung cai j trong project thi trinh bay cai do. khong trinh bay lung tung.
+			- cai dat va thu nghiem: seuqence diagram.
+						class diagram
+						deploy diagram.
+						site map.
+  

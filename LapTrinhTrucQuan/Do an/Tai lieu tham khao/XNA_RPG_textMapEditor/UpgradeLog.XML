@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="XNA_RPG_textMapEditor">
+</Property><Property Name="Solution File" Value="F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\XNA_RPG_textMapEditor.sln">
+</Property><Property Name="User Options File" Value="F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\XNA_RPG_textMapEditor.suo">
+</Property><Property Name="Date" Value="Saturday, May 17, 2014">
+</Property><Property Name="Time" Value="0:08 AM">
+</Property><Property Name="Solution" Value="XNA_RPG_textMapEditor">
+</Property><Property Name="Solution File" Value="F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\XNA_RPG_textMapEditor.sln">
+</Property><Property Name="Date" Value="Saturday, May 17, 2014">
+</Property><Property Name="Time" Value="0:09:15 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="XNA_RPG_textMapEditor.sln" Description="File successfully backed up as F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\Backup\XNA_RPG_textMapEditor.sln">
+</Event><Event ErrorLevel="0" Project="" Source="XNA_RPG_textMapEditor.suo" Description="File successfully backed up as F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\Backup\XNA_RPG_textMapEditor.suo">
+</Event><Event ErrorLevel="0" Project="XNA_RPG_textMapEditor" Source="XNA_RPG_textMapEditor.csproj" Description="Upgraded XNA Game Studio project to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="XNA_RPG_textMapEditor" Source="XNA_RPG_textMapEditor.csproj" Description="Project file successfully backed up as F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\Backup\XNA_RPG_textMapEditor.csproj">
+</Event><Event ErrorLevel="0" Project="XNA_RPG_textMapEditor" Source="XNA_RPG_textMapEditor.csproj.user" Description="Project user file successfully backed up as F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\Backup\XNA_RPG_textMapEditor.csproj.user">
+</Event><Event ErrorLevel="0" Project="XNA_RPG_textMapEditor" Source="Animate\Animation.cs" Description="File successfully backed up as F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\Backup\Animate\Animation.cs">
+</Event><Event ErrorLevel="0" Project="XNA_RPG_textMapEditor" Source="Animate\AnimationPlayer.cs" Description="File successfully backed up as F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\Backup\Animate\AnimationPlayer.cs">
+</Event><Event ErrorLevel="0" Project="XNA_RPG_textMapEditor" Source="Core\GameScene.cs" Description="File successfully backed up as F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\Backup\Core\GameScene.cs">
+</Event><Event ErrorLevel="0" Project="XNA_RPG_textMapEditor" Source="Core\Quest.cs" Description="File successfully backed up as F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\Backup\Core\Quest.cs">
+</Event><Event ErrorLevel="0" Project="XNA_RPG_textMapEditor" Source="Core\Sprite.cs" Description="File successfully backed up as F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\Backup\Core\Sprite.cs">
+</Event><Event ErrorLevel="0" Project="XNA_RPG_textMapEditor" Source="Core\Tiles.cs" Description="File successfully backed up as F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\Backup\Core\Tiles.cs">
+</Event><Event ErrorLevel="0" Project="XNA_RPG_textMapEditor" Source="GUI\Bar.cs" Description="File successfully backed up as F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\Backup\GUI\Bar.cs">
+</Event><Event ErrorLevel="0" Project="XNA_RPG_textMapEditor" Source="GUI\Button.cs" Description="File successfully backed up as F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\Backup\GUI\Button.cs">
+</Event><Event ErrorLevel="0" Project="XNA_RPG_textMapEditor" Source="GUI\Menu.cs" Description="File successfully backed up as F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\Backup\GUI\Menu.cs">
+</Event><Event ErrorLevel="0" Project="XNA_RPG_textMapEditor" Source="Helper\AssetPath.cs" Description="File successfully backed up as F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\Backup\Helper\AssetPath.cs">
+</Event><Event ErrorLevel="0" Project="XNA_RPG_textMapEditor" Source="Helper\AudioManager.cs" Description="File successfully backed up as F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\Backup\Helper\AudioManager.cs">
+</Event><Event ErrorLevel="0" Project="XNA_RPG_textMapEditor" Source="Helper\Input.cs" Description="File successfully backed up as F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\Backup\Helper\Input.cs">
+</Event><Event ErrorLevel="0" Project="XNA_RPG_textMapEditor" Source="Helper\Random.cs" Description="File successfully backed up as F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\Backup\Helper\Random.cs">
+</Event><Event ErrorLevel="0" Project="XNA_RPG_textMapEditor" Source="Level\World1\LevelCreator1.cs" Description="File successfully backed up as F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\Backup\Level\World1\LevelCreator1.cs">
+</Event><Event ErrorLevel="0" Project="XNA_RPG_textMapEditor" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="XNA_RPG_textMapEditor" Source="Program.cs" Description="File successfully backed up as F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="XNA_RPG_textMapEditor" Source="XNA_RPG.cs" Description="File successfully backed up as F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\Backup\XNA_RPG.cs">
+</Event><Event ErrorLevel="0" Project="XNA_RPG_textMapEditor" Source="Scene\World1\ActionScene1.cs" Description="File successfully backed up as F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\Backup\Scene\World1\ActionScene1.cs">
+</Event><Event ErrorLevel="0" Project="XNA_RPG_textMapEditor" Source="Scene\StartScene.cs" Description="File successfully backed up as F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\Backup\Scene\StartScene.cs">
+</Event><Event ErrorLevel="0" Project="XNA_RPG_textMapEditor" Source="Enemy\Boss.cs" Description="File successfully backed up as F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\Backup\Enemy\Boss.cs">
+</Event><Event ErrorLevel="0" Project="XNA_RPG_textMapEditor" Source="Enemy\MeleeEnemy.cs" Description="File successfully backed up as F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\Backup\Enemy\MeleeEnemy.cs">
+</Event><Event ErrorLevel="0" Project="XNA_RPG_textMapEditor" Source="Enemy\RangeEnemy.cs" Description="File successfully backed up as F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\Backup\Enemy\RangeEnemy.cs">
+</Event><Event ErrorLevel="0" Project="XNA_RPG_textMapEditor" Source="Controller\Player.cs" Description="File successfully backed up as F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\Backup\Controller\Player.cs">
+</Event><Event ErrorLevel="0" Project="XNA_RPG_textMapEditor" Source="XNA_RPG_textMapEditor_TemporaryKey.pfx" Description="File successfully backed up as F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\Backup\XNA_RPG_textMapEditor_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="XNA_RPG_textMapEditor" Source="Game.ico" Description="File successfully backed up as F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\Backup\Game.ico">
+</Event><Event ErrorLevel="0" Project="XNA_RPG_textMapEditor" Source="GameThumbnail.png" Description="File successfully backed up as F:\XNA-Project\[vn.360plus.yahoo.com_hs-it]XNA_textMapEditor ver1.1\XNA_RPG_textMapEditor\Backup\GameThumbnail.png">
+</Event><Event ErrorLevel="0" Project="XNA_RPG_textMapEditor" Source="XNA_RPG_textMapEditor.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="XNA_RPG_textMapEditor" Source="XNA_RPG_textMapEditor.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="XNA_RPG_textMapEditor.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="XNA_RPG_textMapEditor.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="XNA_RPG_textMapEditor" Source="XNA_RPG_textMapEditor.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="XNA_RPG_textMapEditor" Source="XNA_RPG_textMapEditor.csproj" Description="Upgraded XNA Framework references to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="NoSelect.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Selected.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="map1.map" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="map2.map" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="map3.map" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="map4.map" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="map5.map" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="ExitReached.wav" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="GemCollected.wav" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Music.wma" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="PlayerFall.wav" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="you_died.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="you_win.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Die.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Idle.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Run.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Thumbs.db" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Die.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Idle.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Run.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Die.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Idle.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Run.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Die.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Idle.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Run.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="attack.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Celebrate.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Die.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Idle.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Jump.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Run.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Thumbs.db" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="BlockA0.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="BlockA1.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="BlockA2.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="BlockA3.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="BlockA4.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="BlockA5.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="BlockA6.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Exit.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Gate.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Key.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Thumbs.db" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="BackGround.bmp" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Content.contentproj" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Content.contentproj.user" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Thumbs.db" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="XNA_RPG_textMapEditorContent" Source="Content\XNA_RPG_textMapEditorContent.contentproj" Description="Upgraded XNA Game Studio nested content projects to XNA Framework 4.0 and promoted to sibling project.">
+</Event></UpgradeLog>

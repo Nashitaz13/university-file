@@ -1,0 +1,25 @@
+ground 160 192 192 16
+ground 112 144 16 128
+ground 128 32 128 16
+ground 256 48 16 16
+ground 272 64 16 16
+ground 288 80 16 16
+ground 304 96 16 16
+ground 320 112 16 16
+ground 336 128 48 16
+ground 384 160 16 32
+ground 128 192 32 32
+ground 352 192 32 16
+DongTien 209 144
+DongTien 209 80
+DongTien 225 160
+DongTien 225 112
+DongTien 225 64
+DongTien 241 160
+DongTien 241 112
+DongTien 241 64
+DongTien 257 144
+DongTien 257 128
+DongTien 257 96
+DongTien 257 80
+ongnuoc 352 176 32 16 2336 48 32 32 0

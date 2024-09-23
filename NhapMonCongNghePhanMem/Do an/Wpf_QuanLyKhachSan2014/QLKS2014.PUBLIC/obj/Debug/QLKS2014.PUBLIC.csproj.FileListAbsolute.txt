@@ -1,0 +1,10 @@
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.PUBLIC\bin\Debug\QLKS2014.PUBLIC.dll
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.PUBLIC\bin\Debug\QLKS2014.PUBLIC.pdb
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.PUBLIC\obj\Debug\QLKS2014.PUBLIC.dll
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.PUBLIC\obj\Debug\QLKS2014.PUBLIC.pdb
+C:\Users\Canh\Desktop\QLKS\Wpf_QuanLyKhachSan2014\QLKS2014.PUBLIC\obj\Debug\QLKS2014.PUBLIC.csprojResolveAssemblyReference.cache
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.PUBLIC\bin\Debug\QLKS2014.PUBLIC.dll
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.PUBLIC\bin\Debug\QLKS2014.PUBLIC.pdb
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.PUBLIC\obj\Debug\QLKS2014.PUBLIC.csprojResolveAssemblyReference.cache
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.PUBLIC\obj\Debug\QLKS2014.PUBLIC.dll
+F:\HK5\NMCNPM\Do an\Wpf_QuanLyKhachSan2014\QLKS2014.PUBLIC\obj\Debug\QLKS2014.PUBLIC.pdb

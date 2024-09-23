@@ -1,0 +1,6 @@
+c:\users\bien\documents\visual studio 2013\Projects\GameHungTrung\GameHungTrung\bin\Debug\GameHungTrung.exe.config
+c:\users\bien\documents\visual studio 2013\Projects\GameHungTrung\GameHungTrung\bin\Debug\GameHungTrung.exe
+c:\users\bien\documents\visual studio 2013\Projects\GameHungTrung\GameHungTrung\bin\Debug\GameHungTrung.pdb
+c:\users\bien\documents\visual studio 2013\Projects\GameHungTrung\GameHungTrung\obj\Debug\GameHungTrung.exe
+c:\users\bien\documents\visual studio 2013\Projects\GameHungTrung\GameHungTrung\obj\Debug\GameHungTrung.pdb
+c:\users\bien\documents\visual studio 2013\Projects\GameHungTrung\GameHungTrung\obj\Debug\GameHungTrung.csprojResolveAssemblyReference.cache
