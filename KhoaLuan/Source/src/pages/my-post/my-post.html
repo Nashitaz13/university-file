@@ -1,0 +1,26 @@
+<ion-header>
+
+    <ion-navbar color="orange">
+        <ion-title>Bài đăng của tôi</ion-title>
+    </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+    <ion-list>
+        <ion-item-sliding *ngFor="let post of posts">
+            <ion-item>
+                <ion-avatar item-left>
+                    <img style="width: 4rem; height: 4rem;" src="img/default_user.png">
+                </ion-avatar>
+                <h2 style="text-transform: uppercase;" class="test {{getExpriedClass(post)}}">{{post.title}}</h2>
+                <p>{{getDescription(post.description)}}</p>
+            </ion-item>
+            <ion-item-options side="right">
+                <button ion-button (click)="view(post)">Xem</button>
+                <button ion-button color="danger" (click)="edit(post)">Cập nhật</button>
+            </ion-item-options>
+        </ion-item-sliding>
+    </ion-list>
+</ion-content>

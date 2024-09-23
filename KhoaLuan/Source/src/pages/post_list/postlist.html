@@ -1,0 +1,90 @@
+<ion-header class="waw-header">
+    <ion-toolbar hideBackButton color="orange">
+        <ion-buttons left>
+            <button ion-button icon-only menuToggle style="float: left;" (click)="openMenu()"> 
+                <ion-icon name="menu"></ion-icon>
+            </button>
+            <button ion-button icon-only style="float: left;" (click)="openChatManagerPage()"> 
+                <ion-icon name="ios-chatbubbles"></ion-icon>
+            </button>
+        </ion-buttons>
+        <ion-title style="text-align: center;">{{title}}</ion-title>
+        <ion-buttons end>
+            <button ion-button icon-only (click)="addPost()">
+                <ion-icon name="ios-create-outline"></ion-icon>
+            </button>
+            <button ion-button icon-only (click)="viewNotification()">
+                <ion-icon name="ios-notifications-outline"></ion-icon>
+            </button>
+        </ion-buttons>
+    </ion-toolbar>
+</ion-header>
+
+<ion-content padding>
+    <ion-searchbar [(ngModel)]="searchString" showCancelButton=true cancelButtonText="Hủy" animated=true placeholder="Tìm kiếm tin đăng..." (ionInput)="search($event)" (ionCancel)="onCancel($event)">
+    </ion-searchbar>
+    <ion-refresher (ionRefresh)="doRefresh($event)">
+        <ion-refresher-content pullingIcon="arrow-dropdown" pullingText="Kéo xuống để cập nhật" refreshingSpinner="circles" refreshingText="Đang tải...">
+        </ion-refresher-content>
+    </ion-refresher>
+    <ion-list *ngIf="isPostJob">
+        <ion-card *ngFor="let post of posts">
+            <ion-row class="avatar-box">
+                <ion-col width-25 style="width: 25%; float: left;"></ion-col>
+                <ion-col width-50 style="width: 50%; float: left;">
+                    <img src="{{getImagePathOfCategory(post.category)}}" class="avatar" />
+                </ion-col>
+                <ion-col width-25 style="width: 25%; float: left;"></ion-col>
+            </ion-row>
+            <ion-fab left top>
+                <button ion-fab color="middlenight" (click)="bookmarks(post)">
+                    <ion-icon name="ios-bookmark"></ion-icon>
+                </button>
+            </ion-fab>
+
+            <ion-item>
+                <ion-icon name="ios-cube" item-left large></ion-icon>
+                <h2 style="font-weight: 700;">{{post.title}}</h2>
+                <p>{{post.description.substring(0,50)}}</p>
+            </ion-item>
+            <ion-item style="border-top: 1px solid #387ef5;">
+                <span item-left style="color: red;">{{post.salary}} {{this.unitService.getUnit(post.unit)}}</span>
+                <span item-left>•</span>
+                <span item-left style="color: #27ae60;">{{post.distance}}</span>
+                <button ion-button icon-right outline item-right (click)="showDetailPost(post)"> Chi tiết
+                <ion-icon name="ios-arrow-dropright-circle"></ion-icon>
+            </button>
+            </ion-item>
+        </ion-card>
+    </ion-list>
+    <ion-list *ngIf="!isPostJob">
+        <ion-card *ngFor="let post of workers">
+            <ion-row class="avatar-box">
+                <ion-col width-25 style="width: 25%; float: left;"></ion-col>
+                <ion-col width-50 style="width: 50%; float: left;">
+                    <img src="{{getImagePathOfCategory(post.category)}}" class="avatar" />
+                </ion-col>
+                <ion-col width-25 style="width: 25%; float: left;"></ion-col>
+            </ion-row>
+            <ion-fab left top>
+                <button ion-fab color="middlenight" (click)="bookmarks(post)">
+                    <ion-icon name="ios-bookmark"></ion-icon>
+                </button>
+            </ion-fab>
+
+            <ion-item>
+                <ion-icon name="ios-cube" item-left large></ion-icon>
+                <h2 style="font-weight: 700;">{{post.title}}</h2>
+                <p>{{post.authorName}}</p>
+            </ion-item>
+            <ion-item style="border-top: 1px solid #387ef5;">
+                <span item-left style="color: red;">{{post.salary}} {{this.unitService.getUnit(post.unit)}}</span>
+                <span item-left>•</span>
+                <span item-left style="color: #27ae60;">{{post.distance}}</span>
+                <button ion-button icon-right outline item-right (click)="showDetailPost(post)"> Chi tiết
+                <ion-icon name="ios-arrow-dropright-circle"></ion-icon>
+            </button>
+            </ion-item>
+        </ion-card>
+    </ion-list>
+</ion-content>

@@ -1,0 +1,45 @@
+<ion-header>
+    <ion-navbar color="orange">
+        <ion-title>Cập nhật thông tin cá nhân</ion-title>
+    </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+    <ion-list>
+        <!--About-->
+        <ion-item>
+            <ion-label stacked>Giới thiệu <span style="color: red">*</span></ion-label>
+            <ion-textarea type="text" id="about" [(ngModel)]="user.aboutMe"></ion-textarea>
+        </ion-item>
+        <!--Display Name-->
+        <ion-item>
+            <ion-label stacked>Tên hiển thị</ion-label>
+            <ion-input type="text" id="displayName" [(ngModel)]="user.displayName"></ion-input>
+        </ion-item>
+        <!--Gender-->
+        <ion-item>
+            <ion-label stacked>Giới tính</ion-label>
+            <ion-select [(ngModel)]="user.gender">
+                <ion-option value="false" selected="true">Nam</ion-option>
+                <ion-option value="true">Nữ</ion-option>
+            </ion-select>
+        </ion-item>
+        <!--D.O.B-->
+        <ion-item>
+            <ion-label stacked>Ngày sinh</ion-label>
+            <ion-datetime displayFormat="DD/MM/YYYY" pickerFormat="DD MM YYYY" min="{{minYear}}" max="{{maxYear}}" [(ngModel)]="user.birthday"></ion-datetime>
+        </ion-item>
+        <!--Email-->
+        <ion-item>
+            <ion-label stacked>Email <span style="color: red">*</span></ion-label>
+            <ion-input type="text" id="email" [(ngModel)]="user.email"></ion-input>
+        </ion-item>
+        <!--Address-->
+        <ion-item>
+            <ion-label stacked>Địa chỉ <span style="color: red">*</span></ion-label>
+            <ion-textarea type="text" id="address" [(ngModel)]="user.location.name"></ion-textarea>
+        </ion-item>
+    </ion-list>
+
+    <button ion-button block color="secondary" (click)="save()">Lưu</button>
+</ion-content>

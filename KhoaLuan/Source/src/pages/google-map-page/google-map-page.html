@@ -1,0 +1,13 @@
+<ion-header>
+
+    <ion-navbar color="orange">
+        <ion-title>Cập nhật vị trí</ion-title>
+    </ion-navbar>
+
+</ion-header>
+
+<ion-content padding>
+    <input id="pac-input" class="controls" type="text" placeholder="Nhập vị trí cần tìm?">
+    <div #map id="map"></div>
+    <button ion-button block icon-left color="secondary" (click)="updateLocation()">Cập nhật</button>
+</ion-content>

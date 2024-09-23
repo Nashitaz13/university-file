@@ -1,0 +1,46 @@
+page-google-map-direction-list {
+    #right-panel {
+        font-family: 'Roboto','sans-serif';
+        line-height: 30px;
+        padding-left: 10px;
+      }
+
+      #right-panel select, #right-panel input {
+        font-size: 14px;
+      }
+
+      #right-panel select {
+        width: 100%;
+      }
+
+      #right-panel i {
+        font-size: 12px;
+      }
+      #right-panel {
+        height: 100%;
+        float: left;
+        overflow: auto;
+      }
+      .adp-placemark {
+          width: 100% !important;
+      }
+      
+      .adp-placemark td {
+          float: left !important;
+          padding: 5px !important;
+      }
+      .adp-placemark .adp-text {
+          width: 90% !important;
+          float: left !important;
+      }
+
+      @media only screen and (max-width: 320px){ 
+          .adp-placemark .adp-text {
+                width: 80% !important;
+                font-size: 1.2rem !important;
+            }
+          .adp {
+              font-size: 1.2rem !important;
+          }
+      }
+}

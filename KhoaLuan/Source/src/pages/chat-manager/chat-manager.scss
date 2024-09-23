@@ -1,0 +1,17 @@
+page-chat-manager {
+    .msgItem {
+        border-bottom: #e0e0e0 1px solid;
+        margin-top: .2rem;
+    }
+    
+    .msgItem .item-inner .input-wrapper ion-label {
+        margin: 0px !important;
+    }
+    .msgItem .input-wrapper {
+        display: block !important;
+        width: 100%  !important;
+    }
+    .msgItem ion-label {
+        white-space: initial !important;
+    }
+}

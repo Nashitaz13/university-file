@@ -1,0 +1,80 @@
+{
+    "Title": {
+        "Login": "Đăng nhập",
+        "SignUp": "Đăng ký tài khoản",
+        "ForgotPassword": "Quên mật khẩu",
+        "Home": "Work Anywhere",
+        "AddPost": "Đăng việc",
+        "PostList": "Công việc",
+        "PostDetail": "Chi tiết công việc",
+        "UserList": "Người dùng",
+        "Notification": "Thông báo",
+        "EditProfile": "Chỉnh sửa hồ sơ",
+        "MyPost": "Bài đăng của tôi",
+        "MyExecutedJob": "Công việc của tôi",
+        "About": "Giới thiệu",
+        "FindJob": "Việc tìm người",
+        "FindWorker": "Người tìm việc"
+    },
+    "Label": {
+        "ForgotPassword": "Quên mật khẩu?",
+        "SignUp": "Đăng ký"
+    },
+    "Button": {
+        "Login": "Đăng Nhập",
+        "LoginViaFacebook": "Đăng nhập bằng Facebook",
+        "LoginViaGoogle": "Đăng nhập bằng Google+",
+        "SignUp": "Đăng ký",
+        "SignUpViaFacebook": "Đăng ký bằng Facebook",
+        "SignUpViaGoogle": "Đăng ký bằng Google+",
+        "GetPassword": "Lấy lại mật khẩu",
+        "Post": "Đăng",
+        "Save": "Lưu",
+        "Like": "Thích",
+        "Share": "Chia sẻ",
+        "Add": "Thêm mới",
+        "Detail": "Chi tiết"
+    },
+    "User": {
+        "Username": "Tên tài khoản",
+        "Password": "Mật khẩu",
+        "ConfirmPassword": "Xác nhận mật khẩu",
+        "Name": "Tên",
+        "DisplayName": "Tên hiển thị",
+        "Gender": "Giới tính",
+        "DOB": "Ngày sinh",
+        "Phone": "Số điện thoại",
+        "Email": "Email",
+        "Address": "Địa chỉ",
+        "About": "Giới thiệu bản thân",
+        "Category": "Loại ngành nghề",
+        "Type": "Loại công việc"
+    },
+    "Post": {
+        "Title": "Tiêu đề",
+        "Category": "Loại ngành nghề",
+        "ContractType": "Loại công việc",
+        "Location": "Vị trí công việc",
+        "Description": "Mô tả",
+        "Salary": "Lương",
+        "Summary": "Tóm tắt",
+        "DateExpired": "Hạn nộp hồ sơ",
+        "AddPhoto": "Thêm hình ảnh",
+        "Unit": "Đơn vị"
+    },
+    "Message": {
+        "ForgotPassword": "Nhập địa chỉ email để lấy lại mật khẩu!",
+        "Loading": "Đang tải..."
+    },
+    "ErrorCodes": {
+        "required": "Bắt buộc",
+        "minlength": "Phải lớn hơn 10 ký tự",
+        "maxlength": "Không được lớn hơn 10 ký tự",
+        "Minlength8": "Phải lớn hơn 8 ký tự",
+        "Maxlength50": "Không được lớn hơn 50 ký tự",
+        "InvalidUsername": "Tên tài khoản không hợp lệ",
+        "InvalidEmail": "Địa chỉ email không hợp lệ",
+        "NotEqualsPassword": "Xác nhận mật khẩu không đúng",
+        "InvalidFormat": "Dữ liệu nhập không hợp lệ"
+    }
+}

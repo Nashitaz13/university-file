@@ -1,0 +1,24 @@
+<ion-header>
+
+    <ion-navbar color="orange">
+        <ion-title>Quản lý tin nhắn</ion-title>
+    </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+    <ion-list>
+
+        <ion-item *ngFor="let item of chats" class="msgItem" >
+            <button style="padding-left: 0px" ion-item (click)="itemSelected(item)">
+                <ion-avatar item-left>
+                    <img src="{{item.imagePath}}">
+                </ion-avatar>
+                <h3 style="margin-top: 0px;">{{ item.name }}</h3>
+                <p>{{item.time}}</p>
+            </button>
+        </ion-item>
+
+    </ion-list>
+</ion-content>

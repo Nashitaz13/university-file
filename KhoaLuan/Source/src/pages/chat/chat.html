@@ -1,0 +1,35 @@
+<ion-header>
+    <ion-navbar color="orange">
+        <ion-title>
+            Trò chuyện
+        </ion-title>
+        <ion-buttons end>
+            <button ion-button icon-only color="royal" (click)="detailUserPage()">
+                <ion-icon name="ios-contact"></ion-icon>
+            </button>
+        </ion-buttons>
+    </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+    <ion-list>
+        <ion-item *ngFor="let content of messages" class="messages {{content.ownclass}}">
+            <p class="msg">{{content.content}}</p>
+            <p style="font-size: 1rem;">{{content.date}}</p>
+        </ion-item>
+    </ion-list>
+</ion-content>
+
+<ion-footer no-border>
+    <ion-toolbar>
+        <ion-row>
+            <ion-col width-80>
+                <ion-textarea style="border: 1px #f39c12 solid;" placeholder="Nhập tin nhắn ở đây..." [(ngModel)]="message"></ion-textarea>
+            </ion-col>
+            <ion-col width-20>
+                <button (click)="sendMessage()" style="border-radius: 5px;" block class="send-button"><ion-icon name="ios-send" style="font-size: 3em;"></ion-icon></button>
+
+            </ion-col>
+        </ion-row>
+    </ion-toolbar>
+</ion-footer>

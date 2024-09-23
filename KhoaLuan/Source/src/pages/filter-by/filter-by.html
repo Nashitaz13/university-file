@@ -1,0 +1,62 @@
+<ion-header>
+
+    <ion-navbar color="orange">
+        <ion-title>Thiết lập lọc tin</ion-title>
+    </ion-navbar>
+
+</ion-header>
+
+<ion-content>
+          <ion-item-group>
+            <ion-item-divider color="light">Lương lớn hơn <ion-badge item-right>{{config.luong}}</ion-badge></ion-item-divider>
+            <ion-item>
+                <ion-range min="0" max="100000000" [(ngModel)]="config.luong"  pin="true" color="secondary"></ion-range>
+            </ion-item>
+        </ion-item-group>
+
+        <ion-item-group>
+            <ion-item-divider color="light">Trong vòng bán kính <ion-badge item-right>{{config.bankinh}}</ion-badge></ion-item-divider>
+            <ion-item>
+                <ion-range [(ngModel)]="config.bankinh"  min="0" max="100" color="danger" pin="true"></ion-range>
+            </ion-item>
+        </ion-item-group>
+
+        <ion-item-group>
+            <ion-item-divider color="light">Hình thức làm việc</ion-item-divider>
+            <ion-item>
+                <ion-label>Làm thêm</ion-label>
+                <ion-checkbox class="checkbox checkbox-ios" color="secondary2" [(ngModel)]="config.isLamThem"></ion-checkbox>
+            </ion-item>
+            <ion-item>
+                <ion-label>Bán thời gian</ion-label>
+                <ion-checkbox class="checkbox checkbox-ios" color="secondary2" [(ngModel)]="config.isBanThoiGian"></ion-checkbox>
+            </ion-item>
+            <ion-item>
+                <ion-label>Toàn thời gian</ion-label>
+                <ion-checkbox class="checkbox checkbox-ios" color="secondary2" [(ngModel)]="config.isToanThoiGian"></ion-checkbox>
+            </ion-item>
+        </ion-item-group>
+
+        <ion-item-group>
+            <ion-item-divider color="light">Loại công việc</ion-item-divider>
+            <ion-row wrap>
+                <ion-col width-33 *ngFor="let category of config.categories" class="category">
+                    <ion-item>
+                        <button ion-button clear style="height: auto; margin: auto;" (click)="checkedChange(category)">
+                            <ion-avatar item-left>
+                                <img [src]="category.imagePath" [style.opacity]="getOpacity(category.isChecked)">
+                            </ion-avatar>
+                        </button>
+                    </ion-item>
+                    <ion-label style="text-align: center">{{category.name}}</ion-label>
+                </ion-col>
+            </ion-row>
+        </ion-item-group>
+</ion-content>
+<ion-footer>
+    <ion-toolbar color="light">
+        <ion-row style="width: 80%; margin: auto;">
+<button ion-button block color="secondary" (click)="saveConfig()">ÁP DỤNG NGAY</button>
+</ion-row>
+</ion-toolbar>
+</ion-footer>

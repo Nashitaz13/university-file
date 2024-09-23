@@ -1,0 +1,81 @@
+<ion-header>
+    <ion-navbar color="orange">
+        <ion-title>Thông tin chi tiết</ion-title>
+    </ion-navbar>
+</ion-header>
+
+<ion-content padding="true" class="has-header">
+    <div style="position: relative;">
+         <ion-row class="avatar-box">
+                <ion-col width-25 style="width: 25%; float: left;"></ion-col>
+                <ion-col width-50 style="width: 50%; float: left;">
+                    <img src="{{getImagePathOfCategory(post.category)}}" class="avatar" />
+                </ion-col>
+                <ion-col width-25 style="width: 25%; float: left;"></ion-col>
+            </ion-row>
+        <ion-badge color="secondary" class="distance">Cách đây {{post.distance}}</ion-badge>
+        <ion-badge color="danger" class="expired">Tin đăng quá thời hạn</ion-badge>
+
+    </div>
+    <ion-item no-lines>
+        <h3 class="title-post">{{post.title}}</h3>
+        <span class="sub-title">{{post.authorName}} • {{createDate}}</span>
+    </ion-item>
+    <!--Describe-->
+    <ion-item>
+        <ion-label stacked>Mô tả</ion-label>
+        <ion-textarea rows="4" disabled [(ngModel)]="post.description"></ion-textarea>
+    </ion-item>
+    <!--Category-->
+    <ion-item>
+        <ion-label stacked>Vị trí</ion-label>
+        <ion-textarea type="text" disabled [(ngModel)]="locationname"></ion-textarea>
+    </ion-item>
+    <!--Category-->
+    <ion-item>
+        <ion-label stacked>Loại công việc</ion-label>
+        <ion-input type="text" disabled [(ngModel)]="category"></ion-input>
+    </ion-item>
+    <!--Contract Type-->
+    <ion-item>
+        <ion-label stacked> Loại hợp đồng</ion-label>
+        <ion-input type="text" disabled [(ngModel)]="contracttype"></ion-input>
+    </ion-item>
+    <!--Salary-->
+    <ion-row>
+        <ion-item>
+            <ion-label stacked>Lương (VNĐ)</ion-label>
+            <ion-input type="text" disabled id="salary" [(ngModel)]="post.salary"></ion-input>
+        </ion-item>
+        <ion-item>
+            <ion-label stacked>Đơn vị tính</ion-label>
+            <ion-input type="text" disabled id="unit" [(ngModel)]="unit"></ion-input>
+        </ion-item>
+    </ion-row>
+    <!--Contract Type-->
+    <ion-item>
+        <ion-label stacked>Ngày hết hạn</ion-label>
+        <ion-input type="text" disabled id="dateExpired" [(ngModel)]="dateExpired"></ion-input>
+    </ion-item>
+    <button ion-button block class="center" (click)="facebookShared()" style="margin-top: 15px">
+<ion-icon name="logo-facebook">  CHIA SẺ QUA FACEBOOK</ion-icon></button>
+<button ion-button clear color="dark" class="center" (click)="reportPost()" style="margin-top: 15px">Báo cáo vi phạm</button>
+
+</ion-content>
+
+<ion-footer>
+    <ion-toolbar>
+        <ion-row>
+            <ion-col>
+                <button ion-button block color="secondary" (click)="openChatPage()">
+                    <ion-icon name="chatboxes"> TRÒ CHUYỆN</ion-icon>
+                </button>
+            </ion-col>
+            <ion-col>
+                <button ion-button block (click)="openDirectionPage()">
+                    <ion-icon name="ios-map"> VỊ TRÍ</ion-icon>
+                </button>
+            </ion-col>
+        </ion-row>
+    </ion-toolbar>
+</ion-footer>

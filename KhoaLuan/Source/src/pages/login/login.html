@@ -1,0 +1,41 @@
+<div class="fixed-content" padding>
+    <ion-item class="logo" style="margin-bottom: 10px;">
+        <img style="width: 100%;" src="img/logo.png" />
+    </ion-item>
+    <!--User name-->
+    <ion-item>
+        <ion-label stacked>Tên đăng nhập
+            <span style="color: red">*</span>
+        </ion-label>
+        <ion-input type="text" id="username" [(ngModel)]="username"></ion-input>
+    </ion-item>
+    <!--Password style="border: 1px solid #eee; margin-top: 5px;"-->
+    <ion-item>
+        <ion-label stacked>Mật khẩu
+            <span style="color: red">*</span>
+        </ion-label>
+        <ion-input type="password" id="password" [(ngModel)]="password"></ion-input>
+    </ion-item>
+    <!--Error message-->
+    <ion-label class="errors">{{errors}}</ion-label>
+    <ion-row>
+        <!--Login button-->
+        <button ion-button full color="secondary" style="margin-bottom: 5px;" (click)="login()">ĐĂNG NHẬP</button>
+    </ion-row>
+    <ion-row>
+        <!--Login via facebook button-->
+        <button ion-button full (click)="loginViaFacebook()">ĐĂNG NHẬP VỚI FACEBOOK</button>
+    </ion-row>
+    <!--Login via facebook button-->
+    <p class="tieu-de">Bạn chưa có tài khoản?</p>
+    <ion-row>
+        <!--Login via facebook button-->
+        <ion-col width-50>
+            <button ion-button full clear style="text-transform: none;" [navPush]="registerPage">Đăng ký ngay</button>
+        </ion-col>
+        <!--Login via facebook button-->
+        <ion-col width-50>
+            <button ion-button full clear style="text-transform: none;" (click)="openforgotpasswordPage()">Quên mật khẩu?</button>
+        </ion-col>
+    </ion-row>
+</div>

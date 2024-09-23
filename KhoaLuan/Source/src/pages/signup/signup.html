@@ -1,0 +1,43 @@
+<ion-header>
+    <ion-navbar color="orange">
+        <ion-title>
+           Tạo tài khoản
+        </ion-title>
+    </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+            <!--User name-->
+            <ion-item>
+                <ion-label stacked>Tên đăng nhập <span style="color: red">*</span></ion-label>
+                <ion-input type="text" id="username" [(ngModel)]="user.username"></ion-input>
+            </ion-item>
+            <!--Location-->
+            <ion-item>
+                <ion-label stacked>Vị trí hiện tại</ion-label>
+                <ion-input type="text" id="location" [(ngModel)]="location.name" [ngModelOptions]="{standalone: true}" ></ion-input>
+            </ion-item>
+            <!--Email-->
+            <ion-item>
+                <ion-label stacked>Email <span style="color: red">*</span></ion-label>
+                <ion-input type="text" id="email" [(ngModel)]="user.email"></ion-input>
+            </ion-item>
+            <!--Password-->
+            <ion-item>
+                <ion-label stacked>Mật khẩu <span style="color: red">*</span></ion-label>
+                <ion-input type="password" id="password" [(ngModel)]="user.password"></ion-input>
+            </ion-item>
+            <!--Confirm Password-->
+            <ion-item>
+                <ion-label stacked>Xác nhận mật khẩu <span style="color: red">*</span></ion-label>
+                <ion-input type="password" id="confirmPassword"  [(ngModel)]="user.confirmPassword"></ion-input>
+            </ion-item>
+
+            <!--Error message-->
+            <ion-label class="errors">{{errors}}</ion-label>
+
+            <!--Button Create New Account-->
+            <button ion-button full color="secondary" (click)="createNewAccount()">ĐĂNG KÝ</button>
+            <p class="tieu-de">Bạn đã có tài khoản?</p>
+            <button ion-button full [navPush]="loginPage">ĐĂNG NHẬP NGAY</button>
+</ion-content>

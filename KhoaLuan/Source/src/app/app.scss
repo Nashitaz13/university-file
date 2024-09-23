@@ -1,0 +1,203 @@
+// http://ionicframework.com/docs/v2/theming/
+
+
+// App Global Sass
+// --------------------------------------------------
+// Put style rules here that you want to apply globally. These
+// styles are for the entire app and not just one component.
+// Additionally, this file can be also used as an entry point
+// to import other Sass files to be included in the output CSS.
+//
+// Shared Sass variables, which can be used to adjust Ionic's
+// default Sass variables, belong in "theme/variables.scss".
+//
+// To declare rules for a specific mode, create a child rule
+// for the .md, .ios, or .wp mode classes. The mode class is
+// automatically applied to the <body> element in the app.
+.right {
+    float: right;
+}
+// Error message
+.msgError {
+    color: #e13838;
+    font-size: 12px;
+    margin: 5px 0px 10px 15px;
+    text-align: left;
+    display: block;
+}
+.errors {
+        color: red;
+        padding: 0 15px;
+}
+.full-width {
+    display: block;
+    width: 100%;
+    float: left;
+}
+
+.tieu-de {
+        text-align: center;
+        width: 100%;
+        float: left
+}
+// Alert Control
+.btn-alert {
+    min-width: 30%;
+}
+
+.alert-md >.alert-button >.button-inner {
+    -webkit-justify-content: center;
+    justify-content: center;
+}
+.bg-wet {
+    background: #34495e !important;
+}
+.toolbar .toolbar-background {
+    border: transparent !important;
+}
+.card-ios {
+    box-shadow: 1px 1px 1px 2px #f39c12 !important;
+}
+.card-ios ion-card-title {
+    color: #3474e1 !important;
+    font-weight: 700;
+}
+.card-ios ion-card-content {
+    padding: 0px !important;
+}
+.p0 {
+    padding: 0px !important;
+}
+.p10-0 {
+    padding: 10px 0 !important;
+}
+.fz12 {
+    font-size: 12px !important;
+}
+.m0 {
+    margin: 0px !important;
+}
+.fw300 {
+    font-weight: 300 !important;
+}
+.mt120 {
+    margin-top: 120px;
+}
+.mt240 {
+    margin-top: 240px;
+}
+.light, a.light {
+    color: #f5f5f5;
+}
+.mr40 {
+    margin-right: 40px;
+}
+.mr10 {
+    margin-right: 10px !important;
+}
+.ml40 {
+    margin-left: 40px;
+}
+.pb70 {
+    padding-bottom: 70px !important;
+}
+.pt70 {
+    padding-top: 70px !important;
+}
+.p20 {
+    padding: 20px !important;
+}
+.text-center {
+    text-align: center !important;
+}
+.wet-color {
+    background: rgb(52, 73, 94) !important;
+}
+.no-scroll {
+    overflow-y: hidden !important;  
+}
+
+.scroll {   
+    overflow-y: scroll !important;
+}
+.non-opacity {
+    opacity: 1 !important;
+}
+.body-container, .footer-container  {
+    width: 100%;
+    height: auto;
+}
+#footer {
+    width: 100%;
+    margin: 0 auto;
+    padding: 0;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+[padding] h1:first-child, [padding] h2:first-child, [padding] h3:first-child, [padding] h4:first-child, [padding] h5:first-child, [padding] h6:first-child {
+    margin-top: 0px !important;
+}
+.tabs-md .tab-button, .button-md {
+    font-size: 1.2rem !important;
+}
+.item-md, .item-md h2  {
+    font-size: 1.3rem !important;
+}
+.item-md p {
+    font-size: 1rem !important;
+}
+.searchbar-md .searchbar-input {
+    padding: 6px 40px !important;
+    font-size: 1.2rem !important;
+}
+.logo > item-inner {
+    padding-right: 0px !important;
+}
+.logo > item-inner > .input-wrapper > .label-md {
+    margin: 0px !important;
+}
+.fab {
+    width: 40px !important;
+    height: 40px !important;
+}
+.h3, .toolbar-title-md {
+    font-size: 1.4rem !important;
+    padding: 0px !important;
+}
+.ion-footer {
+    border-top: 1px solid #f39c12;
+}
+.item-md .input-wrapper {
+        display: block !important;
+        width: 100%  !important;
+    }
+.item-md ion-label {
+        white-space: initial !important;
+    }
+.avatar-box {
+    background: #bdc3c7 !important;
+}
+    
+@media only screen and (max-width: 320px){
+    .item-md, .tabs-md .tab-button, .button-md {
+        font-size: 1rem !important;
+    }
+    .item-md ion-input, .item-md .ion-textarea {
+        font-size: 1.2rem !important;
+    }
+    .bar-button-md {
+        font-size: 1.2rem !important;
+        margin: 0px !important;
+        padding: 0px !important;
+    }
+    .page-postlist .avatar-box {
+        height: 100px !important;
+    }
+    .item-md h2 {
+        font-size: 1.1rem !important;
+    }   
+    .tabs-md-orange .tabbar {
+        background-color: #f39c12 !important;
+    }    
+}

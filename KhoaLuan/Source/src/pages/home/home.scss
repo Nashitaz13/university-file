@@ -1,0 +1,68 @@
+page-home {
+    .card-background-page {
+        ion-card {
+            position: relative;
+            text-align: center;
+        }
+        .card-title {
+            position: absolute;
+            top: 36%;
+            font-size: 2.0em;
+            width: 100%;
+            font-weight: bold;
+        }
+        .card-subtitle {
+            font-size: 1.0em;
+            position: absolute;
+            top: 52%;
+            width: 100%;
+            color: #fff;
+        }
+    }
+    .waw-header::after {
+        display: none !important;
+    }
+    .tab-header>.scroll-content {
+        overflow-y: hidden !important;
+    }
+    .menu .toolbar-content .item-md.item-block .item-inner {
+        border-bottom: 0px solid #dedede !important;
+    }
+    .list-md .item-block .item-inner {
+        border-bottom: 0px solid #dedede !important;
+    }
+    ion-icon.menu-icon {
+        padding-right: 10px !important;
+    }
+    .menu-header {
+        text-transform: uppercase;
+        color: #3474e1;
+        font-weight: 700;
+    }
+    .avartar {
+        width: 10rem;
+        height: 10rem;
+        border-radius: 5rem;
+        text-align: center;
+        padding: 10px;
+        position: absolute;
+        margin: auto;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+    }
+    ion-menu .fixed-content {
+        //background: #FF4E50;
+        /* fallback for old browsers */
+        //background: -webkit-linear-gradient(to left, #FF4E50, #F9D423);
+        /* Chrome 10-25, Safari 5.1-6 */
+        //background: linear-gradient(to left, #FF4E50, #F9D423);
+        /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        background: #f4f4f4;
+    }
+    ion-menu .item-md {
+        background: transparent !important;
+        border-top: 1px solid #dedede !important;
+    }
+}

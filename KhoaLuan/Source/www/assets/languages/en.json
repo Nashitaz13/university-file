@@ -1,0 +1,75 @@
+{
+    "Title": {
+        "Login": "Login",
+        "SignUp": "Sign Up",
+        "ForgotPassword": "Forgot Password",
+        "Home": "WorkAnywhere",
+        "AddPost": "Add Post",
+        "PostList": "Jobs",
+        "PostDetail": "Job Detail",
+        "UserList": "Workers",
+        "Notification": "Notification",
+        "EditProfile": "Edit Profile",
+        "MyPost": "My Post",
+        "MyExecutedJob": "My Executed Job",
+        "About": "About"
+    },
+    "Label": {
+        "ForgotPassword": "Forgot Password?",
+        "SignUp": "Sign Up"
+    },
+    "Button": {
+        "Login": "Login",
+        "LoginViaFacebook": "Login via Facebook",
+        "LoginViaGoogle": "Login via Google+",
+        "SignUp": "Sign Up",
+        "SignUpViaFacebook": "Sign up via Facebook",
+        "SignUpViaGoogle": "Sign up via Google+",
+        "GetPassword": "Get Password",
+        "Post": "Post",
+        "Save": "Save",
+        "Like": "Like",
+        "Share": "Share",
+        "Detail": "Detail"
+    },
+    "User": {
+        "Username": "Username",
+        "Password": "Password",
+        "ConfirmPassword": "Confirm Password",
+        "Name": "Name",
+        "DisplayName": "Display Name",
+        "Gender": "Gender",
+        "DOB": "DOB",
+        "Phone": "Phone",
+        "Email": "Email",
+        "Address": "Address",
+        "About": "About",
+        "Category": "Category",
+        "Type": "Type"
+    },
+    "Post": {
+        "Title": "Title",
+        "Category": "Category",
+        "ContractType": "Job Type",
+        "JobPosition": "Job Position",
+        "Describe": "Describe",
+        "Salary": "Salary",
+        "ApplyDeadline": "Apply Deadline",
+        "AddPhoto": "Add Photo"
+    },
+    "Message": {
+        "ForgotPassword": "Enter your email address to reset your password!",
+        "Loading": "Loading..."
+    },
+    "ErrorCodes": {
+        "required": "This field is required",
+        "minlength": "Phải lớn hơn 10 ký tự",
+        "maxlength": "Không được lớn hơn 10 ký tự",
+        "Minlength8": "Phải lớn hơn 8 ký tự",
+        "Maxlength50": "Không được lớn hơn 50 ký tự",
+        "InvalidUsername": "Invalid Username",
+        "InvalidEmail": "Invalid Email",
+        "NotEqualsPassword": "Password must be repeated exactly",
+        "InvalidFormat": "Invalid Format"
+    }
+}

@@ -1,0 +1,37 @@
+<ion-menu side="left" [content]="content">
+    <ion-content>
+        <ion-list>
+            <ion-avatar style="margin: auto; text-align: center; position: relative; width: 100%; display: block; height: 10rem;">
+                <img class="avartar" src="img/default_user.png">
+            </ion-avatar>
+            <h3 class="white-color noboder" style="text-align: center; margin-top: 0px; margin-bottom: 0px; font-size: 1.4rem;">{{displayName}}</h3>
+            <ion-label class="white-color noboder" style="text-align: center;margin: 5px 8px 13px 0; font-size: 1.1rem; color: #3474e1;">{{username}}</ion-label>
+
+            <button ion-item (click)="openUserPage()" class="menu-header">
+                        <ion-icon name="ios-contact" class="menu-icon"></ion-icon> Thông tin người dùng
+                    </button>
+            <button ion-item (click)="showMyPost()" class="menu-header">
+                        <ion-icon name="ios-albums" class="menu-icon"></ion-icon> Bài đăng của tôi
+                    </button>
+            <button ion-item (click)="showBookmarkPost()" class="menu-header">
+                        <ion-icon name="ios-bookmarks" class="menu-icon"></ion-icon> Tin đã lưu
+                    </button>
+            <button ion-item (click)="openSettingPage()" class="menu-header">
+                        <ion-icon name="ios-cog" class="menu-icon"></ion-icon> Thiết lập lọc tin
+                    </button>
+            <button ion-item (click)="openAboutPage()" class="menu-header">
+                        <ion-icon name="ios-information-circle" class="menu-icon"></ion-icon> Thông tin ứng dụng
+                    </button>
+            <button ion-item class="menu-header" (click)="sendNotification()">
+                        <ion-icon name="ios-ionic" class="menu-icon"></ion-icon> Phiên bản: 1.0.0
+                    </button>
+            <button ion-item (click)="logout()" class="menu-header">
+                        <ion-icon name="ios-log-out" class="menu-icon"></ion-icon> Đăng xuất
+                    </button>
+        </ion-list>
+    </ion-content>
+</ion-menu>
+<ion-nav #content swipeBackEnabled="false"></ion-nav>
+<ion-content padding class="tab-header">
+    <page-tabs [arrayTab]="tabLst"></page-tabs>
+</ion-content>

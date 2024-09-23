@@ -1,0 +1,76 @@
+<ion-header>
+    <ion-navbar color="orange">
+        <ion-title>Tạo tin đăng mới</ion-title>
+    </ion-navbar>
+</ion-header>
+
+<ion-content padding="true" class="has-header">
+    <!--Type-->
+    <ion-item>
+        <ion-label stacked>Loại tin đăng <span style="color: red">*</span></ion-label>
+        <ion-select [(ngModel)]="post.type" okText="Chọn" cancelText="Hủy">
+            <ion-option value="Job" selected="true">Đăng công việc</ion-option>
+            <ion-option value="Worker">Đăng tìm việc</ion-option>
+        </ion-select>
+    </ion-item>
+    <!--Title-->
+    <ion-item>
+        <ion-label stacked>Tiêu đề <span style="color: red">*</span></ion-label>
+        <ion-input id="title" [(ngModel)]="post.title" clearInput></ion-input>
+    </ion-item>
+    <!--Category-->
+    <ion-item>
+        <ion-label stacked>Loại công việc <span style="color: red">*</span></ion-label>
+        <ion-select id="category" [(ngModel)]="post.category" okText="Chọn" cancelText="Hủy">
+            <ion-option *ngFor="let category of categories" value="{{category.categoryId}}">{{category.name}}</ion-option>
+        </ion-select>
+    </ion-item>
+    <!--Contract type-->
+    <ion-item>
+        <ion-label stacked>Hình thức làm việc <span style="color: red">*</span></ion-label>
+        <ion-select id="contracttype" [(ngModel)]="post.contractType" okText="Chọn" cancelText="Hủy">
+            <ion-option *ngFor="let contracttype of contracttypes" value="{{contracttype.contractTypeId}}">{{contracttype.name}}</ion-option>
+        </ion-select>
+    </ion-item>
+    <ion-row>
+        <!--Location-->
+        <ion-item width-90>
+            <ion-label stacked>Vị trí <span style="color: red">*</span></ion-label>
+            <ion-textarea width-90 id="location" readonly="true" [(ngModel)]="location.name"></ion-textarea>
+        </ion-item>
+        <button width-10 ion-button icon-only style="margin: auto" color="secondary" (click)="openGoogleMapPage()">
+            <ion-icon name="ios-map"></ion-icon>
+        </button>
+    </ion-row>
+    <!--Description-->
+    <ion-item>
+        <ion-label stacked>Mô tả <span style="color: red">*</span></ion-label>
+        <ion-textarea rows="5" id="description" [(ngModel)]="post.description"></ion-textarea>
+    </ion-item>
+    <!--Salary-->
+    <ion-row>
+        <ion-item>
+            <ion-label stacked>Lương (VND) <span style="color: red">*</span></ion-label>
+            <ion-input type="number" id="salary" [(ngModel)]="post.salary"></ion-input>
+        </ion-item>
+        <ion-item>
+            <ion-label stacked>Đơn vị tính</ion-label>
+            <ion-select id="unit" [(ngModel)]="post.unit" okText="Chọn" cancelText="Hủy">
+                <ion-option *ngFor="let unit of units" value="{{unit.unitId}}">{{unit.name}}</ion-option>
+            </ion-select>
+        </ion-item>
+    </ion-row>
+    <!--Data expried-->
+    <ion-item>
+        <ion-label stacked>Ngày hết hạn</ion-label>
+        <ion-datetime displayFormat="DD/MM/YYYY" pickerFormat="DD MM YYYY" id="dateExpried" [(ngModel)]="post.dateExpired"></ion-datetime>
+    </ion-item>
+    <!--Error message-->
+    <ion-label class="errors">{{errors}}</ion-label>
+    <!--Button create new post-->
+    <button ion-button full *ngIf="isCreated" color="secondary" (click)="createNewPost()">Đăng</button>
+    <!--Button updated post-->
+    <button ion-button full *ngIf="!isCreated" (click)="updatedPost()">Cập nhật</button>
+    <!--Button delete post-->
+    <button ion-button full *ngIf="!isCreated" color="danger" (click)="deletedPost()">Xóa</button>
+</ion-content>

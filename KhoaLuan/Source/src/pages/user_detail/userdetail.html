@@ -1,0 +1,67 @@
+<ion-header>
+    <ion-navbar color="orange">
+        <ion-title>Thông tin người dùng</ion-title>
+    </ion-navbar>
+</ion-header>
+
+<ion-content padding="true" class="has-header" style="overflow-y: hidden; ">
+    <div class="label-info">
+        <ion-row class="logo">
+            <ion-col></ion-col>
+            <ion-col width-40>
+                <ion-img src="img/default_user.png" class="img-round"></ion-img>
+            </ion-col>
+            <ion-col></ion-col>
+        </ion-row>
+        <h4 class="fullwidth center" style="font-size: 1.5rem;">{{user.displayName}}</h4>
+        <p class="fullwidth center">@{{user.username}}</p>
+        <p class="fullwidth center about">{{user.aboutMe}}</p>
+    </div>
+
+    <div class="block">
+        <ion-segment [(ngModel)]="segment" (ionChange)="updateUserData()">
+                <ion-segment-button value="post">
+                    Tin đã đăng
+                </ion-segment-button>
+                <ion-segment-button value="job">
+                    Việc đã làm
+                </ion-segment-button>
+                <ion-segment-button value="other">
+                    Khác
+                </ion-segment-button>
+            </ion-segment>
+
+            <ion-list *ngIf="isJobList">
+                <ion-item *ngFor="let post of postList">
+                    <ion-avatar item-left>
+                        <img class="avartar2" src="img/icon.png">
+                    </ion-avatar>
+                    <h2>{{post.title}}</h2>
+                    <p>{{post.authorName}}</p>
+                </ion-item>
+            </ion-list>
+            <ion-list *ngIf="!isJobList">
+                <ion-item>
+                    <ion-label stacked>Vị trí</ion-label>
+                    <ion-input type="text" readonly="true" [(ngModel)]="user.location.name"></ion-input>
+                </ion-item>
+                <ion-item>
+                    <ion-label stacked>Giới tính</ion-label>
+                    <ion-input type="text" readonly="true" [(ngModel)]="gender"></ion-input>
+                </ion-item>
+                <ion-item>
+                    <ion-label stacked>Ngày sinh</ion-label>
+                    <ion-input type="text" readonly="true" [(ngModel)]="user.birthday"></ion-input>
+                </ion-item>
+                <ion-item>
+                    <ion-label stacked>Email</ion-label>
+                    <ion-input type="text" readonly="true" [(ngModel)]="user.email"></ion-input>
+                </ion-item>
+                <ion-item>
+                    <ion-label stacked>Số điện thoại</ion-label>
+                    <ion-input type="text" readonly="true" [(ngModel)]="user.phone"></ion-input>
+                </ion-item>
+            </ion-list>
+    </div>
+    
+</ion-content>

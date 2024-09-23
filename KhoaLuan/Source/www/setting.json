@@ -1,0 +1,16 @@
+{
+    "ContractTypes": [{"id":1,"name":"Bán thời gian"},{"id":2,"name":"Toàn thời gian"},{"id":3,"name":"Khác"}],
+    "Categories":[
+        {"id":1,"name":"Xe ôm", "description":"Xe ôm", "isGroup":"true", "GroupParentID": 1},
+        {"id":2,"name":"Lao công", "description":"Lao công", "isGroup":"true", "GroupParentID": 1},
+        {"id":3,"name":"Dọn nhà", "description":"Dọn nhà", "isGroup":"true", "GroupParentID": 1},
+        {"id":4,"name":"Sửa máy", "description":"Sửa máy", "isGroup":"true", "GroupParentID": 1},
+        {"id":5,"name":"Phục vụ cafe", "description":"Phục vụ cafe", "isGroup":"true", "GroupParentID": 1},
+        {"id":6,"name":"Chăm sóc cây cảnh", "description":"Chăm sóc cây cảnh", "isGroup":"true", "GroupParentID": 1},
+        {"id":7,"name":"Gia sư", "description":"Gia sư", "isGroup":"true", "GroupParentID": 1},
+        {"id":8,"name":"Tổ chức sự kiện", "description":"Tổ chức sự kiện", "isGroup":"true", "GroupParentID": 1},
+        {"id":9,"name":"Phát tờ rơi", "description":"Phát tờ rơi", "isGroup":"true", "GroupParentID": 1},
+        {"id":10,"name":"Người mẫu ảnh", "description":"Người mẫu ảnh", "isGroup":"true", "GroupParentID": 1},
+        {"id":11,"name":"Dịch thuật", "description":"Dịch thuật", "isGroup":"true", "GroupParentID": 1}
+        ]
+}

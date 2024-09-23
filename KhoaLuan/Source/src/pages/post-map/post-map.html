@@ -1,0 +1,35 @@
+<ion-header class="waw-header">
+     <ion-toolbar hideBackButton color="orange">
+        <ion-buttons left>
+            <button ion-button icon-only menuToggle style="float: left;" (click)="openMenu()"> 
+                <ion-icon name="menu"></ion-icon>
+            </button>
+            <button ion-button icon-only style="float: left;" (click)="openChatManagerPage()"> 
+                <ion-icon name="ios-chatbubbles"></ion-icon>
+            </button>
+        </ion-buttons>
+        <ion-title style="text-align: center;">Việc gần bạn</ion-title>
+        <ion-buttons end>
+            <button ion-button icon-only (click)="addPost()" class="mr10">
+                <ion-icon name="ios-create-outline"></ion-icon>
+            </button>
+            <button ion-button icon-only (click)="viewNotification()">
+                <ion-icon name="ios-notifications-outline"></ion-icon>
+            </button>
+        </ion-buttons>
+    </ion-toolbar>
+</ion-header>
+
+
+<ion-content padding>
+    <ion-segment [(ngModel)]="segment" (ionChange)="changeMarker()">
+        <ion-segment-button value="job">
+            Người tìm việc
+        </ion-segment-button>
+        <ion-segment-button value="worker">
+            Việc tìm người
+        </ion-segment-button>
+    </ion-segment>
+
+    <div #map id="postmap"></div>
+</ion-content>
